@@ -1,0 +1,168 @@
+6QOE - preprocessed_chainB_ligand
+                    3D
+ Schrodinger Suite 2021-1.
+ 26 27  0  0  1  0            999 V2000
+  -12.8370  -10.2440   25.0060 C   0  0  0  0  0  0
+  -12.2690  -10.1090   22.7480 C   0  0  0  0  0  0
+  -11.7050   -9.8380   29.7870 C   0  0  0  0  0  0
+   -9.2820  -10.0580   31.1610 O   0  5  0  0  0  0
+  -10.1830   -9.3080   31.5580 C   0  0  0  0  0  0
+  -11.2350   -8.8730   30.6200 C   0  0  0  0  0  0
+  -11.7080   -7.5920   30.5940 C   0  0  0  0  0  0
+  -12.6830   -7.2920   29.6830 C   0  0  0  0  0  0
+  -13.1560   -8.2650   28.8240 C   0  0  0  0  0  0
+  -12.6780   -9.5460   28.8900 C   0  0  0  0  0  0
+  -13.1530  -10.6070   27.9660 C   0  0  0  0  0  0
+  -13.3220   -9.6120   26.5620 S   0  0  0  0  0  0
+  -12.4950  -11.8080   24.4710 S   0  0  0  0  0  0
+  -12.1200  -11.4570   22.8700 C   0  0  0  0  0  0
+  -12.6480   -9.4760   23.9010 C   0  0  0  0  0  0
+  -10.2220   -8.9250   32.7310 O   0  0  0  0  0  0
+  -12.0902   -9.6298   21.7968 H   0  0  0  0  0  0
+  -11.3032  -10.8391   29.8392 H   0  0  0  0  0  0
+  -11.3120   -6.8562   31.2782 H   0  0  0  0  0  0
+  -13.0861   -6.2913   29.6333 H   0  0  0  0  0  0
+  -13.9102   -8.0183   28.0914 H   0  0  0  0  0  0
+  -14.1427  -10.9331   28.2858 H   0  0  0  0  0  0
+  -12.3414  -11.3150   27.7983 H   0  0  0  0  0  0
+  -11.8160  -12.0460   22.0174 H   0  0  0  0  0  0
+  -12.7971   -8.4077   23.9539 H   0  0  0  0  0  0
+  -10.9838   -8.3545   32.8567 H   0  0  0  0  0  0
+  1 12  1  0  0  0
+  1 13  1  0  0  0
+  1 15  2  0  0  0
+  2 14  2  0  0  0
+  2 15  1  0  0  0
+  2 17  1  0  0  0
+  3  6  2  0  0  0
+  3 10  1  0  0  0
+  3 18  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  5 16  1  0  0  0
+  6  7  1  0  0  0
+  7  8  2  0  0  0
+  7 19  1  0  0  0
+  8  9  1  0  0  0
+  8 20  1  0  0  0
+  9 10  2  0  0  0
+  9 21  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  1  0  0  0
+ 11 22  1  0  0  0
+ 11 23  1  0  0  0
+ 13 14  1  0  0  0
+ 14 24  1  0  0  0
+ 15 25  1  0  0  0
+ 16 26  1  0  0  0
+M  CHG  1   4  -1
+M  END
+> <s_m_entry_id>
+220
+
+> <s_m_entry_name>
+pdb6qoe.ent.1_B_ligand
+
+> <s_pdb_PDB_TITLE>
+CRYSTAL STRUCTURE OF TRMD, A TRNA-(N1G37) METHYLTRANSFERASE, FROM MYCOBACTERIUM ABSCESSUS IN COMPLEX WITH FRAGMENT 8 (3-[(2- THIENYLTHIO)METHYL]BENZOIC ACID)
+
+> <s_pdb_PDB_ID>
+6QOE
+
+> <r_pdb_PDB_CRYST1_a>
+74.596
+
+> <r_pdb_PDB_CRYST1_b>
+79.739
+
+> <r_pdb_PDB_CRYST1_c>
+86.758
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+8
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSFERASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+12-FEB-19
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.188
+
+> <r_pdb_PDB_Rfree>
+0.275
+
+> <r_pdb_PDB_RESOLUTION>
+3.06
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A, B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\other-all-PDB
+
+> <s_m_Source_File>
+pdb6qoe.ent.gz
+
+> <i_m_Source_File_Index>
+1
+
+> <s_ppw_entry_id_backup>
+15
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2021-1
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <b_ppw_treated_metals>
+1
+
+> <b_ppw_created_disulfur>
+1
+
+> <s_m_Chain_Name>
+B
+
+> <s_m_subgroup_title>
+6QOE - preprocessed_split_by_chain->6QOE - preprocessed_chainB_split_by_structure
+
+> <s_m_subgroupid>
+6QOE - preprocessed_split_by_chain->6QOE - preprocessed_chainB_split_by_structure
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

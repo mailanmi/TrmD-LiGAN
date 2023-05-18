@@ -1,0 +1,201 @@
+6QRC - preprocessed_chainA_ligand
+                    3D
+ Schrodinger Suite 2021-1.
+ 42 45  0  0  1  0            999 V2000
+  -24.4200  -20.1920   11.2350 C   0  0  0  0  0  0
+  -22.1540  -23.4480    9.4270 C   0  0  0  0  0  0
+  -20.7130  -24.5200    7.8260 C   0  0  0  0  0  0
+  -22.4680  -22.4710    8.4770 C   0  0  0  0  0  0
+  -23.3190  -20.6780    6.5060 C   0  0  0  0  0  0
+  -25.4990  -21.0420   10.8210 C   0  0  0  0  0  0
+  -17.9640  -16.0900   12.6150 N   0  0  0  0  0  0
+  -18.8210  -17.1910   12.5210 C   0  0  0  0  0  0
+  -18.4500  -18.4810   12.7070 N   0  0  0  0  0  0
+  -19.5300  -19.2790   12.5430 N   0  0  0  0  0  0
+  -20.5930  -18.5230   12.2920 C   0  0  0  0  0  0
+  -20.1970  -17.1950   12.2280 C   0  0  0  0  0  0
+  -21.9720  -19.0820   11.9780 C   0  0  0  0  0  0
+  -23.0890  -18.2500   11.9360 C   0  0  0  0  0  0
+  -24.3250  -18.8100   11.5620 C   0  0  0  0  0  0
+  -23.2900  -21.0040   11.2680 C   0  0  0  0  0  0
+  -22.0490  -20.4330   11.6330 C   0  0  0  0  0  0
+  -23.6580  -22.2680   10.9140 N   0  0  0  0  0  0
+  -22.7760  -23.3880   10.8240 C   0  0  0  0  0  0
+  -21.2810  -24.4690    9.1100 C   0  0  0  0  0  0
+  -21.0270  -23.5410    6.8740 C   0  0  0  0  0  0
+  -21.8920  -22.5270    7.1850 C   0  0  0  0  0  0
+  -22.1910  -21.5360    6.2210 O   0  0  0  0  0  0
+  -24.9870  -22.3130   10.6420 C   0  0  0  0  0  0
+  -20.0306  -25.3166    7.5686 H   0  0  0  0  0  0
+  -23.1505  -21.6727    8.7286 H   0  0  0  0  0  0
+  -23.4457  -19.9618    5.6941 H   0  0  0  0  0  0
+  -24.2211  -21.2824    6.6007 H   0  0  0  0  0  0
+  -23.1419  -20.1419    7.4384 H   0  0  0  0  0  0
+  -26.4931  -20.6357   10.7063 H   0  0  0  0  0  0
+  -18.3209  -15.1577   12.4615 H   0  0  0  0  0  0
+  -16.9882  -16.2271   12.8364 H   0  0  0  0  0  0
+  -17.4903  -18.7033   12.9299 H   0  0  0  0  0  0
+  -20.7066  -16.2668   12.0156 H   0  0  0  0  0  0
+  -22.9929  -17.2039   12.1868 H   0  0  0  0  0  0
+  -25.2045  -18.1844   11.5240 H   0  0  0  0  0  0
+  -21.1591  -21.0448   11.6445 H   0  0  0  0  0  0
+  -21.9865  -23.2892   11.5690 H   0  0  0  0  0  0
+  -23.3336  -24.3053   11.0129 H   0  0  0  0  0  0
+  -21.0392  -25.2209    9.8466 H   0  0  0  0  0  0
+  -20.5858  -23.5843    5.8892 H   0  0  0  0  0  0
+  -25.6375  -23.1191   10.3362 H   0  0  0  0  0  0
+  1  6  1  0  0  0
+  1 15  1  0  0  0
+  1 16  2  0  0  0
+  2  4  2  0  0  0
+  2 19  1  0  0  0
+  2 20  1  0  0  0
+  3 20  2  0  0  0
+  3 21  1  0  0  0
+  3 25  1  0  0  0
+  4 22  1  0  0  0
+  4 26  1  0  0  0
+  5 23  1  0  0  0
+  5 27  1  0  0  0
+  5 28  1  0  0  0
+  5 29  1  0  0  0
+  6 24  2  0  0  0
+  6 30  1  0  0  0
+  7  8  1  0  0  0
+  7 31  1  0  0  0
+  7 32  1  0  0  0
+  8  9  1  0  0  0
+  8 12  2  0  0  0
+  9 10  1  0  0  0
+  9 33  1  0  0  0
+ 10 11  2  0  0  0
+ 11 12  1  0  0  0
+ 11 13  1  0  0  0
+ 12 34  1  0  0  0
+ 13 14  1  0  0  0
+ 13 17  2  0  0  0
+ 14 15  2  0  0  0
+ 14 35  1  0  0  0
+ 15 36  1  0  0  0
+ 16 17  1  0  0  0
+ 16 18  1  0  0  0
+ 17 37  1  0  0  0
+ 18 19  1  0  0  0
+ 18 24  1  0  0  0
+ 19 38  1  0  0  0
+ 19 39  1  0  0  0
+ 20 40  1  0  0  0
+ 21 22  2  0  0  0
+ 21 41  1  0  0  0
+ 22 23  1  0  0  0
+ 24 42  1  0  0  0
+M  END
+> <s_m_entry_id>
+412
+
+> <s_m_entry_name>
+pdb6qrc.ent.1_A_ligand
+
+> <s_pdb_PDB_TITLE>
+CRYSTAL STRUCTURE OF TRMD, A TRNA-(N1G37) METHYLTRANSFERASE, FROM MYCOBACTERIUM ABSCESSUS IN COMPLEX WITH INHIBITOR
+
+> <s_pdb_PDB_ID>
+6QRC
+
+> <r_pdb_PDB_CRYST1_a>
+74.459
+
+> <r_pdb_PDB_CRYST1_b>
+77.412
+
+> <r_pdb_PDB_CRYST1_c>
+86.648
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+8
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSFERASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+19-FEB-19
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.188
+
+> <r_pdb_PDB_Rfree>
+0.214
+
+> <r_pdb_PDB_RESOLUTION>
+1.73
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A, B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\other-all-PDB
+
+> <s_m_Source_File>
+pdb6qrc.ent.gz
+
+> <i_m_Source_File_Index>
+1
+
+> <s_ppw_entry_id_backup>
+8
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2021-1
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <b_ppw_treated_metals>
+1
+
+> <b_ppw_created_disulfur>
+1
+
+> <s_m_Chain_Name>
+A
+
+> <s_m_subgroup_title>
+6QRC - preprocessed_split_by_chain->6QRC - preprocessed_chainA_split_by_structure
+
+> <s_m_subgroupid>
+6QRC - preprocessed_split_by_chain->6QRC - preprocessed_chainA_split_by_structure
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

@@ -1,0 +1,185 @@
+6QRG - preprocessed_chainA_ligand
+                    3D
+ Schrodinger Suite 2021-1.
+ 35 36  0  0  1  0            999 V2000
+  -19.7880   17.6330  -12.8060 C   0  0  0  0  0  0
+  -18.3970   17.7750  -12.7050 C   0  0  0  0  0  0
+  -20.3830   19.9030  -12.9800 O   0  0  0  0  0  0
+  -20.7960   18.7750  -12.8050 C   0  0  0  0  0  0
+  -22.1780   18.5160  -12.5680 O   0  0  0  0  0  0
+  -23.0620   19.6500  -12.5350 C   0  0  0  0  0  0
+  -23.4580   20.0870  -11.1090 C   0  0  0  0  0  0
+  -22.7370   21.1210  -10.5060 C   0  0  0  0  0  0
+  -23.0580   21.5410   -9.2140 C   0  0  0  0  0  0
+  -24.1120   20.9240   -8.5280 C   0  0  0  0  0  0
+  -24.8430   19.8920   -9.1090 C   0  0  0  0  0  0
+  -25.9450   19.2920   -8.3510 O   0  0  0  0  0  0
+  -25.7580   17.9480   -7.8360 C   0  0  0  0  0  0
+  -26.3950   17.7060   -6.4680 C   0  0  0  0  0  0
+  -26.8820   16.4290   -6.1200 O   0  0  0  0  0  0
+  -27.2950   16.2660   -4.7680 C   0  0  0  0  0  0
+  -26.4790   18.5960   -5.6460 O   0  0  0  0  0  0
+  -24.5150   19.4770  -10.4170 C   0  0  0  0  0  0
+  -20.0700   16.2850  -12.8910 C   0  0  0  0  0  0
+  -18.9110   15.6430  -12.8360 N   0  0  0  0  0  0
+  -17.8680   16.5190  -12.7310 N   0  0  0  0  0  0
+  -17.9589   18.7591  -12.6270 H   0  0  0  0  0  0
+  -23.9619   19.4237  -13.1069 H   0  0  0  0  0  0
+  -22.5952   20.4876  -13.0534 H   0  0  0  0  0  0
+  -21.9283   21.5981  -11.0397 H   0  0  0  0  0  0
+  -22.4950   22.3370   -8.7494 H   0  0  0  0  0  0
+  -24.3697   21.2475   -7.5303 H   0  0  0  0  0  0
+  -24.6920   17.7268   -7.7823 H   0  0  0  0  0  0
+  -26.1553   17.2284   -8.5518 H   0  0  0  0  0  0
+  -27.6499   15.2466   -4.6163 H   0  0  0  0  0  0
+  -26.4522   16.4593   -4.1043 H   0  0  0  0  0  0
+  -28.0996   16.9671   -4.5463 H   0  0  0  0  0  0
+  -25.0818   18.6859  -10.8853 H   0  0  0  0  0  0
+  -21.0933   15.9521  -12.9824 H   0  0  0  0  0  0
+  -18.8904   14.6339  -12.8731 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  4  1  0  0  0
+  1 19  2  0  0  0
+  2 21  2  0  0  0
+  2 22  1  0  0  0
+  3  4  2  0  0  0
+  4  5  1  0  0  0
+  5  6  1  0  0  0
+  6  7  1  0  0  0
+  6 23  1  0  0  0
+  6 24  1  0  0  0
+  7  8  2  0  0  0
+  7 18  1  0  0  0
+  8  9  1  0  0  0
+  8 25  1  0  0  0
+  9 10  2  0  0  0
+  9 26  1  0  0  0
+ 10 11  1  0  0  0
+ 10 27  1  0  0  0
+ 11 12  1  0  0  0
+ 11 18  2  0  0  0
+ 12 13  1  0  0  0
+ 13 14  1  0  0  0
+ 13 28  1  0  0  0
+ 13 29  1  0  0  0
+ 14 15  1  0  0  0
+ 14 17  2  0  0  0
+ 15 16  1  0  0  0
+ 16 30  1  0  0  0
+ 16 31  1  0  0  0
+ 16 32  1  0  0  0
+ 18 33  1  0  0  0
+ 19 20  1  0  0  0
+ 19 34  1  0  0  0
+ 20 21  1  0  0  0
+ 20 35  1  0  0  0
+M  END
+> <s_m_entry_id>
+408
+
+> <s_m_entry_name>
+pdb6qrg.ent.1_A_ligand
+
+> <s_pdb_PDB_TITLE>
+CRYSTAL STRUCTURE OF TRMD, A TRNA-(N1G37) METHYLTRANSFERASE, FROM MYCOBACTERIUM ABSCESSUS IN COMPLEX WITH INHIBITOR
+
+> <s_pdb_PDB_ID>
+6QRG
+
+> <r_pdb_PDB_CRYST1_a>
+74.273
+
+> <r_pdb_PDB_CRYST1_b>
+77.867
+
+> <r_pdb_PDB_CRYST1_c>
+86.49
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+8
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSFERASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+19-FEB-19
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.177
+
+> <r_pdb_PDB_Rfree>
+0.196
+
+> <r_pdb_PDB_RESOLUTION>
+1.84
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A, B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+C:\Users\maila\AppData\Local\Temp\7zE0C379B6C
+
+> <s_m_Source_File>
+pdb6qrg.ent.gz
+
+> <i_m_Source_File_Index>
+1
+
+> <s_ppw_entry_id_backup>
+56
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2021-1
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <b_ppw_treated_metals>
+1
+
+> <b_ppw_created_disulfur>
+1
+
+> <s_m_Chain_Name>
+A
+
+> <s_m_subgroup_title>
+6QRG - preprocessed_split_by_chain->6QRG - preprocessed_chainA_split_by_structure
+
+> <s_m_subgroupid>
+6QRG - preprocessed_split_by_chain->6QRG - preprocessed_chainA_split_by_structure
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

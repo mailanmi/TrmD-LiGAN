@@ -1,0 +1,173 @@
+6QRE - preprocessed_chainA_ligand
+                    3D
+ Schrodinger Suite 2021-1.
+ 29 30  0  0  1  0            999 V2000
+  -19.9330   16.6170  -12.9230 C   0  0  0  0  0  0
+  -17.7340   16.7540  -12.8750 N   0  0  0  0  0  0
+  -18.2100   18.0310  -12.9000 C   0  0  0  0  0  0
+  -22.1540   21.5570  -10.7580 C   0  0  0  0  0  0
+  -23.1940   21.2590   -8.5830 C   0  0  0  0  0  0
+  -25.7320   18.6890   -8.8990 C   0  0  0  0  0  0
+  -24.8770   19.5630   -8.2410 O   0  0  0  0  0  0
+  -23.9540   20.2470   -9.0870 C   0  0  0  0  0  0
+  -23.8220   19.8630  -10.4380 C   0  0  0  0  0  0
+  -22.9170   20.5250  -11.2660 C   0  0  0  0  0  0
+  -22.7660   20.1060  -12.6940 C   0  0  0  0  0  0
+  -21.9560   18.9000  -12.7600 O   0  0  0  0  0  0
+  -20.5710   19.1380  -12.9260 C   0  0  0  0  0  0
+  -19.5920   17.9550  -12.9180 C   0  0  0  0  0  0
+  -18.8080   15.9160  -12.9020 N   0  0  0  0  0  0
+  -20.1500   20.2920  -13.0540 O   0  0  0  0  0  0
+  -22.2840   21.9370   -9.4200 C   0  0  0  0  0  0
+  -20.9725   16.3247  -12.9416 H   0  0  0  0  0  0
+  -16.7385   16.5867  -12.8425 H   0  0  0  0  0  0
+  -17.5222   18.8637  -12.9025 H   0  0  0  0  0  0
+  -21.4527   22.0746  -11.3957 H   0  0  0  0  0  0
+  -23.2893   21.5403   -7.5446 H   0  0  0  0  0  0
+  -26.3961   18.2160   -8.1756 H   0  0  0  0  0  0
+  -26.3245   19.2403   -9.6291 H   0  0  0  0  0  0
+  -25.1475   17.9236   -9.4096 H   0  0  0  0  0  0
+  -24.4223   19.0558  -10.8311 H   0  0  0  0  0  0
+  -22.2782   20.9022  -13.2564 H   0  0  0  0  0  0
+  -23.7494   19.9066  -13.1198 H   0  0  0  0  0  0
+  -21.6883   22.7484   -9.0288 H   0  0  0  0  0  0
+  1 14  1  0  0  0
+  1 15  2  0  0  0
+  1 18  1  0  0  0
+  2  3  1  0  0  0
+  2 15  1  0  0  0
+  2 19  1  0  0  0
+  3 14  2  0  0  0
+  3 20  1  0  0  0
+  4 10  2  0  0  0
+  4 17  1  0  0  0
+  4 21  1  0  0  0
+  5  8  1  0  0  0
+  5 17  2  0  0  0
+  5 22  1  0  0  0
+  6  7  1  0  0  0
+  6 23  1  0  0  0
+  6 24  1  0  0  0
+  6 25  1  0  0  0
+  7  8  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+  9 26  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  1  0  0  0
+ 11 27  1  0  0  0
+ 11 28  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  1  0  0  0
+ 13 16  2  0  0  0
+ 17 29  1  0  0  0
+M  END
+> <s_m_entry_id>
+396
+
+> <s_m_entry_name>
+pdb6qre.ent.1_A_ligand
+
+> <s_pdb_PDB_TITLE>
+CRYSTAL STRUCTURE OF TRMD, A TRNA-(N1G37) METHYLTRANSFERASE, FROM MYCOBACTERIUM ABSCESSUS IN COMPLEX WITH INHIBITOR
+
+> <s_pdb_PDB_ID>
+6QRE
+
+> <r_pdb_PDB_CRYST1_a>
+73.7
+
+> <r_pdb_PDB_CRYST1_b>
+79.2
+
+> <r_pdb_PDB_CRYST1_c>
+84.918
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+8
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSFERASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+19-FEB-19
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.187
+
+> <r_pdb_PDB_Rfree>
+0.236
+
+> <r_pdb_PDB_RESOLUTION>
+1.93
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A, B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+C:\Users\maila\AppData\Local\Temp\7zE0C379B6C
+
+> <s_m_Source_File>
+pdb6qre.ent.gz
+
+> <i_m_Source_File_Index>
+1
+
+> <s_ppw_entry_id_backup>
+54
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2021-1
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <b_ppw_treated_metals>
+1
+
+> <b_ppw_created_disulfur>
+1
+
+> <s_m_Chain_Name>
+A
+
+> <s_m_subgroup_title>
+6QRE - preprocessed_split_by_chain->6QRE - preprocessed_chainA_split_by_structure
+
+> <s_m_subgroupid>
+6QRE - preprocessed_split_by_chain->6QRE - preprocessed_chainA_split_by_structure
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

@@ -1,0 +1,151 @@
+6QO3 - preprocessed_chainA_ligand
+                    3D
+ Schrodinger Suite 2021-1.
+ 18 19  0  0  1  0            999 V2000
+  -17.5010   16.2730  -12.5640 N   0  0  0  0  0  0
+  -18.4430   17.3390  -12.5730 C   0  0  0  0  0  0
+  -19.8260   17.2940  -12.4150 C   0  0  0  0  0  0
+  -20.2580   18.6160  -12.5100 C   0  0  0  0  0  0
+  -21.5440   19.0820  -12.3860 C   0  0  0  0  0  0
+  -22.9310   18.0810  -12.2540 S   0  0  0  0  0  0
+  -24.0680   19.3640  -12.0730 C   0  0  0  0  0  0
+  -23.3400   20.5460  -12.1390 C   0  0  0  0  0  0
+  -21.9630   20.4180  -12.2900 C   0  0  0  0  0  0
+  -19.1990   19.3940  -12.6970 N   0  0  0  0  0  0
+  -18.1040   18.6200  -12.7390 N   0  0  0  0  0  0
+  -16.5182   16.4665  -12.6935 H   0  0  0  0  0  0
+  -17.8150   15.3227  -12.4282 H   0  0  0  0  0  0
+  -20.0646   16.9056  -11.4249 H   0  0  0  0  0  0
+  -20.2640   16.7111  -13.2253 H   0  0  0  0  0  0
+  -25.1383   19.3961  -11.9319 H   0  0  0  0  0  0
+  -23.8474   21.4971  -12.0734 H   0  0  0  0  0  0
+  -21.2370   21.2163  -12.3362 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 12  1  0  0  0
+  1 13  1  0  0  0
+  2  3  1  0  0  0
+  2 11  2  0  0  0
+  3  4  1  0  0  0
+  3 14  1  0  0  0
+  3 15  1  0  0  0
+  4  5  1  0  0  0
+  4 10  2  0  0  0
+  5  6  1  0  0  0
+  5  9  2  0  0  0
+  6  7  1  0  0  0
+  7  8  2  0  0  0
+  7 16  1  0  0  0
+  8  9  1  0  0  0
+  8 17  1  0  0  0
+  9 18  1  0  0  0
+ 10 11  1  0  0  0
+M  END
+> <s_m_entry_id>
+127
+
+> <s_m_entry_name>
+pdb6qo3.ent.1_A_ligand
+
+> <s_pdb_PDB_TITLE>
+CRYSTAL STRUCTURE OF TRMD, A TRNA-(N1G37) METHYLTRANSFERASE, FROM MYCOBACTERIUM ABSCESSUS IN COMPLEX WITH FRAGMENT 2 (5-AMINO-3-(2- THIENYL) PYRAZOLE)
+
+> <s_pdb_PDB_ID>
+6QO3
+
+> <r_pdb_PDB_CRYST1_a>
+74.304
+
+> <r_pdb_PDB_CRYST1_b>
+79.397
+
+> <r_pdb_PDB_CRYST1_c>
+86.148
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+8
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSFERASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+12-FEB-19
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.175
+
+> <r_pdb_PDB_Rfree>
+0.207
+
+> <r_pdb_PDB_RESOLUTION>
+1.65
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A, B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\other-all-PDB
+
+> <s_m_Source_File>
+pdb6qo3.ent.gz
+
+> <i_m_Source_File_Index>
+1
+
+> <s_ppw_entry_id_backup>
+9
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2021-1
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <b_ppw_treated_metals>
+1
+
+> <b_ppw_created_disulfur>
+1
+
+> <s_m_Chain_Name>
+A
+
+> <s_m_subgroup_title>
+6QO3 - preprocessed_split_by_chain->6QO3 - preprocessed_chainA_split_by_structure
+
+> <s_m_subgroupid>
+6QO3 - preprocessed_split_by_chain->6QO3 - preprocessed_chainA_split_by_structure
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

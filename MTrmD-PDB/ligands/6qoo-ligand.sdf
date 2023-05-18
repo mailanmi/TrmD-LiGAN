@@ -1,0 +1,138 @@
+6QOO - preprocessed_chainA_ligand
+                    3D
+ Schrodinger Suite 2021-1.
+ 12 12  0  0  1  0            999 V2000
+   17.3260  -17.4040  -12.4560 N   0  0  0  0  0  0
+   18.7360  -17.3500  -12.6100 C   0  0  0  0  0  0
+   19.5600  -15.9120  -12.8380 S   0  0  0  0  0  0
+   19.5090  -18.6330  -12.5670 C   0  0  0  0  0  0
+   20.8830  -18.7550  -12.7110 C   0  0  0  0  0  0
+   21.1760  -20.1070  -12.6020 C   0  0  0  0  0  0
+   20.0210  -20.7680  -12.4000 N   0  0  0  0  0  0
+   18.9800  -19.8600  -12.3740 O   0  0  0  0  0  0
+   16.8665  -18.2931  -12.3203 H   0  0  0  0  0  0
+   16.7822  -16.5533  -12.4821 H   0  0  0  0  0  0
+   21.4892  -17.8759  -12.8728 H   0  0  0  0  0  0
+   22.1981  -20.4463  -12.6833 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  9  1  0  0  0
+  1 10  1  0  0  0
+  2  3  2  0  0  0
+  2  4  1  0  0  0
+  4  5  2  0  0  0
+  4  8  1  0  0  0
+  5  6  1  0  0  0
+  5 11  1  0  0  0
+  6  7  2  0  0  0
+  6 12  1  0  0  0
+  7  8  1  0  0  0
+M  END
+> <s_m_entry_id>
+271
+
+> <s_m_entry_name>
+pdb6qoo.ent.1_A_ligand
+
+> <s_pdb_PDB_TITLE>
+CRYSTAL STRUCTURE OF TRMD, A TRNA-(N1G37) METHYLTRANSFERASE, FROM MYCOBACTERIUM ABSCESSUS IN COMPLEX WITH FRAGMENT 18 (ISOXAZOLE-5- CARBOTHIOAMIDE)
+
+> <s_pdb_PDB_ID>
+6QOO
+
+> <r_pdb_PDB_CRYST1_a>
+73.574
+
+> <r_pdb_PDB_CRYST1_b>
+80.037
+
+> <r_pdb_PDB_CRYST1_c>
+84.737
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+8
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSFERASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+12-FEB-19
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.178
+
+> <r_pdb_PDB_Rfree>
+0.229
+
+> <r_pdb_PDB_RESOLUTION>
+1.94
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A, B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\other-all-PDB
+
+> <s_m_Source_File>
+pdb6qoo.ent.gz
+
+> <i_m_Source_File_Index>
+1
+
+> <s_ppw_entry_id_backup>
+25
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2021-1
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <b_ppw_treated_metals>
+1
+
+> <b_ppw_created_disulfur>
+1
+
+> <s_m_Chain_Name>
+A
+
+> <s_m_subgroup_title>
+6QOO - preprocessed_split_by_chain->6QOO - preprocessed_chainA_split_by_structure
+
+> <s_m_subgroupid>
+6QOO - preprocessed_split_by_chain->6QOO - preprocessed_chainA_split_by_structure
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

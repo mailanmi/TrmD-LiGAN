@@ -1,0 +1,193 @@
+6QQY - preprocessed_chainA_ligand
+                    3D
+ Schrodinger Suite 2021-1.
+ 38 41  0  0  1  0            999 V2000
+  -23.2930   21.1150  -11.3620 C   0  0  0  0  0  0
+  -22.1880   23.7170   -9.6430 C   0  0  0  0  0  0
+  -21.8890   23.0780   -7.4370 C   0  0  0  0  0  0
+  -20.4560   24.7860   -8.3660 C   0  0  0  0  0  0
+  -25.4970   20.9820  -10.8840 C   0  0  0  0  0  0
+  -21.9980   20.6890  -11.7520 C   0  0  0  0  0  0
+  -19.8810   17.5960  -12.5380 C   0  0  0  0  0  0
+  -17.5550   16.7380  -12.9250 N   0  0  0  0  0  0
+  -18.5160   17.7660  -12.7170 C   0  0  0  0  0  0
+  -18.2440   19.0880  -12.6400 N   0  0  0  0  0  0
+  -19.4080   19.7580  -12.4270 N   0  0  0  0  0  0
+  -20.4120   18.8840  -12.4000 C   0  0  0  0  0  0
+  -21.8290   19.3320  -12.0800 C   0  0  0  0  0  0
+  -22.8670   18.3890  -11.9950 C   0  0  0  0  0  0
+  -24.1430   18.8280  -11.6130 C   0  0  0  0  0  0
+  -24.3420   20.2090  -11.2950 C   0  0  0  0  0  0
+  -23.7570   22.3740  -11.0170 N   0  0  0  0  0  0
+  -22.9510   23.5830  -10.9640 C   0  0  0  0  0  0
+  -22.5230   22.9780   -8.6040 N   0  0  0  0  0  0
+  -20.8430   23.9760   -7.2870 C   0  0  0  0  0  0
+  -21.1590   24.6490   -9.5800 C   0  0  0  0  0  0
+  -25.0770   22.3060  -10.7230 C   0  0  0  0  0  0
+  -20.5380   16.2350  -12.5830 C   0  0  0  0  0  0
+  -20.9710   15.1780  -12.6290 N   0  0  0  0  0  0
+  -22.1892   22.4588   -6.6046 H   0  0  0  0  0  0
+  -19.6423   25.4867   -8.2506 H   0  0  0  0  0  0
+  -26.4546   20.4981  -10.7608 H   0  0  0  0  0  0
+  -21.1845   21.3984  -11.7890 H   0  0  0  0  0  0
+  -16.5804   16.9745  -13.0446 H   0  0  0  0  0  0
+  -17.8473   15.7716  -12.9531 H   0  0  0  0  0  0
+  -17.2934   19.4146  -12.7390 H   0  0  0  0  0  0
+  -22.6734   17.3509  -12.2216 H   0  0  0  0  0  0
+  -24.9624   18.1264  -11.5613 H   0  0  0  0  0  0
+  -22.2432   23.5833  -11.7930 H   0  0  0  0  0  0
+  -23.5932   24.4530  -11.1015 H   0  0  0  0  0  0
+  -20.3275   24.0514   -6.3410 H   0  0  0  0  0  0
+  -20.9165   25.2451  -10.4473 H   0  0  0  0  0  0
+  -25.7823   23.0621  -10.4110 H   0  0  0  0  0  0
+  1  6  2  0  0  0
+  1 16  1  0  0  0
+  1 17  1  0  0  0
+  2 18  1  0  0  0
+  2 19  1  0  0  0
+  2 21  2  0  0  0
+  3 19  2  0  0  0
+  3 20  1  0  0  0
+  3 25  1  0  0  0
+  4 20  2  0  0  0
+  4 21  1  0  0  0
+  4 26  1  0  0  0
+  5 16  1  0  0  0
+  5 22  2  0  0  0
+  5 27  1  0  0  0
+  6 13  1  0  0  0
+  6 28  1  0  0  0
+  7  9  2  0  0  0
+  7 12  1  0  0  0
+  7 23  1  0  0  0
+  8  9  1  0  0  0
+  8 29  1  0  0  0
+  8 30  1  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 10 31  1  0  0  0
+ 11 12  2  0  0  0
+ 12 13  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 32  1  0  0  0
+ 15 16  2  0  0  0
+ 15 33  1  0  0  0
+ 17 18  1  0  0  0
+ 17 22  1  0  0  0
+ 18 34  1  0  0  0
+ 18 35  1  0  0  0
+ 20 36  1  0  0  0
+ 21 37  1  0  0  0
+ 22 38  1  0  0  0
+ 23 24  3  0  0  0
+M  END
+> <s_m_entry_id>
+356
+
+> <s_m_entry_name>
+pdb6qqy.ent.1_A_ligand
+
+> <s_pdb_PDB_TITLE>
+CRYSTAL STRUCTURE OF TRMD, A TRNA-(N1G37) METHYLTRANSFERASE, FROM MYCOBACTERIUM ABSCESSUS IN COMPLEX WITH INHIBITOR
+
+> <s_pdb_PDB_ID>
+6QQY
+
+> <r_pdb_PDB_CRYST1_a>
+74.51
+
+> <r_pdb_PDB_CRYST1_b>
+78.45
+
+> <r_pdb_PDB_CRYST1_c>
+86.04
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+8
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSFERASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+19-FEB-19
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.175
+
+> <r_pdb_PDB_Rfree>
+0.19
+
+> <r_pdb_PDB_RESOLUTION>
+1.49
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A, B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\other-all-PDB
+
+> <s_m_Source_File>
+pdb6qqy.ent.gz
+
+> <i_m_Source_File_Index>
+1
+
+> <s_ppw_entry_id_backup>
+42
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2021-1
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <b_ppw_treated_metals>
+1
+
+> <b_ppw_created_disulfur>
+1
+
+> <s_m_Chain_Name>
+A
+
+> <s_m_subgroup_title>
+6QQY - preprocessed_split_by_chain->6QQY - preprocessed_chainA_split_by_structure
+
+> <s_m_subgroupid>
+6QQY - preprocessed_split_by_chain->6QQY - preprocessed_chainA_split_by_structure
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

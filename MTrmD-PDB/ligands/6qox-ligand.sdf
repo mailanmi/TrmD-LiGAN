@@ -1,0 +1,161 @@
+6QOX - preprocessed_chainB_ligand
+                    3D
+ Schrodinger Suite 2021-1.
+ 23 24  0  0  1  0            999 V2000
+   13.2640   86.9740   27.0400 C   0  0  0  0  0  0
+   11.8140   87.4310   31.5290 C   0  0  0  0  0  0
+   12.1000   89.6420   21.7800 O   0  0  0  0  0  0
+   13.1230   88.7880   22.1090 C   0  0  0  0  0  0
+   13.0450   88.6130   23.6330 C   0  0  0  0  0  0
+   13.3790   87.4130   24.3240 C   0  0  0  0  0  0
+   13.1580   87.6330   25.8400 C   0  0  0  0  0  0
+   12.6920   88.9510   26.1040 C   0  0  0  0  0  0
+   12.5560   89.7600   24.6960 S   0  0  0  0  0  0
+   12.5270   89.0560   27.4790 N   0  0  0  0  0  0
+   12.8660   87.8890   28.0470 C   0  0  0  0  0  0
+   12.8500   87.4830   29.5180 C   0  0  0  0  0  0
+   12.2880   88.2890   30.4920 O   0  0  0  0  0  0
+   13.3110   86.4100   29.8230 O   0  0  0  0  0  0
+   13.6018   85.9485   27.0649 H   0  0  0  0  0  0
+   11.3620   88.0306   32.3191 H   0  0  0  0  0  0
+   11.0699   86.7459   31.1227 H   0  0  0  0  0  0
+   12.6475   86.8602   31.9384 H   0  0  0  0  0  0
+   12.0987   89.7901   20.8315 H   0  0  0  0  0  0
+   14.0761   89.2466   21.8457 H   0  0  0  0  0  0
+   12.9601   87.8249   21.6253 H   0  0  0  0  0  0
+   13.7212   86.5497   23.7726 H   0  0  0  0  0  0
+   12.1979   89.9209   27.8835 H   0  0  0  0  0  0
+  1  7  1  0  0  0
+  1 11  2  0  0  0
+  1 15  1  0  0  0
+  2 13  1  0  0  0
+  2 16  1  0  0  0
+  2 17  1  0  0  0
+  2 18  1  0  0  0
+  3  4  1  0  0  0
+  3 19  1  0  0  0
+  4  5  1  0  0  0
+  4 20  1  0  0  0
+  4 21  1  0  0  0
+  5  6  2  0  0  0
+  5  9  1  0  0  0
+  6  7  1  0  0  0
+  6 22  1  0  0  0
+  7  8  2  0  0  0
+  8  9  1  0  0  0
+  8 10  1  0  0  0
+ 10 11  1  0  0  0
+ 10 23  1  0  0  0
+ 11 12  1  0  0  0
+ 12 13  1  0  0  0
+ 12 14  2  0  0  0
+M  END
+> <s_m_entry_id>
+311
+
+> <s_m_entry_name>
+pdb6qox.ent.1_B_ligand
+
+> <s_pdb_PDB_TITLE>
+CRYSTAL STRUCTURE OF TRMD, A TRNA-(N1G37) METHYLTRANSFERASE, FROM MYCOBACTERIUM ABSCESSUS IN COMPLEX WITH FRAGMENT 27 (METHYL 2- (HYDROXYMETHYL)-6H-THIENO[2,3-B]PYRROLE-5-CARBOXYLATE)
+
+> <s_pdb_PDB_ID>
+6QOX
+
+> <r_pdb_PDB_CRYST1_a>
+74.963
+
+> <r_pdb_PDB_CRYST1_b>
+78.46
+
+> <r_pdb_PDB_CRYST1_c>
+88.483
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+8
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSFERASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+12-FEB-19
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.184
+
+> <r_pdb_PDB_Rfree>
+0.214
+
+> <r_pdb_PDB_RESOLUTION>
+1.74
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A, B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\other-all-PDB
+
+> <s_m_Source_File>
+pdb6qox.ent.gz
+
+> <i_m_Source_File_Index>
+1
+
+> <s_ppw_entry_id_backup>
+33
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2021-1
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <b_ppw_treated_metals>
+1
+
+> <b_ppw_created_disulfur>
+1
+
+> <s_m_Chain_Name>
+B
+
+> <s_m_subgroup_title>
+6QOX - preprocessed_split_by_chain->6QOX - preprocessed_chainB_split_by_structure
+
+> <s_m_subgroupid>
+6QOX - preprocessed_split_by_chain->6QOX - preprocessed_chainB_split_by_structure
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
