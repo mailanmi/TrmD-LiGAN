@@ -1,3 +1,3 @@
 # TrmD-LiGAN
 
-Files used for designing novel TrmD inhibitors with the LiGAN model
+Obtained and created files for designing novel TrmD inhibitors using the LiGAN model
