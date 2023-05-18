@@ -1,0 +1,127 @@
+3axz_ligand
+                    3D
+ Schrodinger Suite 2021-1.
+ 19 21  0  0  1  0            999 V2000
+   44.3170    6.4750   11.1420 O   0  0  0  0  0  0
+   43.0150    6.0440   11.5470 C   0  0  0  0  0  0
+   42.9610    4.5150   11.5440 C   0  0  1  0  0  0
+   43.3390    4.0240   10.2440 O   0  0  0  0  0  0
+   43.9540    3.9250   12.5490 C   0  0  1  0  0  0
+   43.5070    2.6620   13.0490 O   0  0  0  0  0  0
+   45.1890    3.7470   11.6700 C   0  0  1  0  0  0
+   46.1090    2.7990   12.2170 O   0  0  0  0  0  0
+   44.5480    3.2550   10.3730 C   0  0  2  0  0  0
+   45.4730    3.4530    9.2340 N   0  0  0  0  0  0
+   45.8520    4.6280    8.7350 C   0  0  0  0  0  0
+   46.7220    4.4330    7.7450 N   0  0  0  0  0  0
+   46.8990    3.1220    7.6100 C   0  0  0  0  0  0
+   47.6720    2.3300    6.7700 C   0  0  0  0  0  0
+   48.4640    2.8800    5.8540 N   0  0  0  0  0  0
+   47.6140    0.9980    6.9010 N   0  0  0  0  0  0
+   46.8360    0.4360    7.8110 C   0  0  0  0  0  0
+   46.0900    1.1580    8.6270 N   0  0  0  0  0  0
+   46.0980    2.4960    8.5550 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  1  0  0  0
+  3  4  1  0  0  0
+  3  5  1  0  0  0
+  4  9  1  0  0  0
+  5  6  1  0  0  0
+  5  7  1  0  0  0
+  7  8  1  0  0  0
+  7  9  1  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 10 19  1  0  0  0
+ 11 12  2  0  0  0
+ 12 13  1  0  0  0
+ 13 14  1  0  0  0
+ 13 19  2  0  0  0
+ 14 15  1  0  0  0
+ 14 16  2  0  0  0
+ 16 17  1  0  0  0
+ 17 18  2  0  0  0
+ 18 19  1  0  0  0
+M  END
+> <s_m_entry_id>
+23
+
+> <s_m_entry_name>
+3axz_ligand
+
+> <s_pdb_PDB_TITLE>
+CRYSTAL STRUCTURE OF HAEMOPHILUS INFLUENZAE TRMD IN COMPLEX WITH ADENOSINE
+
+> <s_pdb_PDB_ID>
+3AXZ
+
+> <r_pdb_PDB_CRYST1_a>
+94.97
+
+> <r_pdb_PDB_CRYST1_b>
+94.97
+
+> <r_pdb_PDB_CRYST1_c>
+177.89
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+120
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+H 3 2
+
+> <i_pdb_PDB_CRYST1_z>
+18
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSFERASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+21-APR-11
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.189
+
+> <r_pdb_PDB_Rfree>
+0.243
+
+> <r_pdb_PDB_RESOLUTION>
+2.25
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+95
+
+> <r_pdb_PDB_EXPDTA_PH>
+6.5
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_2>
+1.000000 0.000000 0.000000   0.000000;0.000000 -1.000000 0.000000   0.000000;0.000000 0.000000 -1.000000   0.000000
+
+> <s_m_subgroup_title>
+3axz_split_by_structure
+
+> <s_m_subgroupid>
+3axz_split_by_structure
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
