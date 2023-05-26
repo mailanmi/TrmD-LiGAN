@@ -1,0 +1,6002 @@
+CCCC1C(C)=C2[C]=13C=[C]4([C]56=[C]234)C5=C6
+                    3D
+ Schrodinger Suite 2021-1.
+ 14 19  0  0  1  0            999 V2000
+  -20.1197   16.3394  -11.8874 C   0  0  0  0  0  0
+  -20.7038   15.7065  -13.1054 C   0  0  0  0  0  0
+  -24.7014   19.0134  -10.4757 C   0  0  0  0  0  0
+  -20.5176   17.3816  -13.0071 C   0  0  0  0  0  0
+  -23.5247   19.0937  -11.3820 C   0  0  0  0  0  0
+  -22.8428   18.4139  -12.2256 C   0  0  0  0  0  0
+  -21.4317   16.5860  -12.3541 C   0  0  0  0  0  0
+  -22.5653   20.1312  -12.0257 C   0  0  0  0  0  0
+  -20.3358   18.7668  -12.4629 C   0  0  0  0  0  0
+  -21.9836   17.6896  -13.2467 C   0  0  0  0  0  0
+  -21.7304   19.0846  -12.9381 C   0  0  0  0  0  0
+  -21.8142   20.9570  -10.9570 C   0  0  0  0  0  0
+  -21.9535   22.8901   -9.3374 C   0  0  0  0  0  0
+  -22.6357   22.1640  -10.4930 C   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  4  1  0  0  0
+  1  7  1  0  0  0
+  2  7  1  0  0  0
+  3  5  1  0  0  0
+  4  7  1  0  0  0
+  4  9  2  0  0  0
+  4 10  1  0  0  0
+  5  6  2  0  0  0
+  5  8  1  0  0  0
+  6 10  1  0  0  0
+  6 11  1  0  0  0
+  7 10  2  0  0  0
+  8 11  2  0  0  0
+  8 12  1  0  0  0
+  9 11  1  0  0  0
+ 10 11  1  0  0  0
+ 12 14  1  0  0  0
+ 13 14  1  0  0  0
+M  END
+> <s_m_entry_id>
+1881
+
+> <s_m_entry_name>
+NEW-myco-var4_44_lig_gen_fit_add_gna.sdf.4
+
+> <minimizedAffinity>
+-7.13608
+
+> <minimizedRMSD>
+2.334
+
+> <CNNscore>
+0.5622757673
+
+> <CNNaffinity>
+4.8570833206
+
+> <CNN_VS>
+2.7310202122
+
+> <CNNaffinity_variance>
+0.3723192513
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var4-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+1
+
+> <s_user_SMILES>
+CCCC1C(C)=C2[C]=13C=[C]4([C]56=[C]234)C5=C6
+
+> <s_m_subgroup_title>
+NEW-model-var4-wnowymzakresie-myco->NEW-myco-var4_44_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var4-wnowymzakresie-myco->NEW-myco-var4_44_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+CC=C=CCC(=C1C2)C([C]1=23)=C3C
+                    3D
+ Schrodinger Suite 2021-1.
+ 12 14  0  0  1  0            999 V2000
+  -21.2355  -15.0943   12.8136 C   0  0  0  0  0  0
+  -19.5086  -17.3586   12.6532 C   0  0  0  0  0  0
+  -18.1693  -17.0914   13.3311 C   0  0  0  0  0  0
+  -20.4088  -16.1310   12.4362 C   0  0  0  0  0  0
+  -22.1687  -17.5152   13.1545 C   0  0  0  0  0  0
+  -21.7355  -16.3959   12.4598 C   0  0  0  0  0  0
+  -20.6407  -17.2743   13.5796 C   0  0  0  0  0  0
+  -22.4687  -18.7434   12.2841 C   0  0  0  0  0  0
+  -24.4796  -22.0675   10.7584 C   0  0  0  0  0  0
+  -23.8045  -18.6131   11.6075 C   0  0  0  0  0  0
+  -24.3823  -19.6480   11.0624 C   0  0  0  0  0  0
+  -24.9686  -20.6774   10.5141 C   0  0  0  0  0  0
+  1  4  2  0  0  0
+  1  6  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  2  7  2  0  0  0
+  4  6  1  0  0  0
+  4  7  1  0  0  0
+  5  8  1  0  0  0
+  5  6  2  0  0  0
+  5  7  1  0  0  0
+  8 10  1  0  0  0
+  9 12  1  0  0  0
+ 10 11  2  0  0  0
+ 11 12  2  0  0  0
+M  END
+> <s_m_entry_id>
+1882
+
+> <s_m_entry_name>
+NEW-myco-var4_48_lig_gen_fit_add_gna.sdf.2
+
+> <minimizedAffinity>
+-6.77439
+
+> <minimizedRMSD>
+0.45819
+
+> <CNNscore>
+0.768483758
+
+> <CNNaffinity>
+4.6241483688
+
+> <CNN_VS>
+3.5535829067
+
+> <CNNaffinity_variance>
+0.5109134316
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var4-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+2
+
+> <s_user_SMILES>
+CC=C=CCC(=C1C2)C([C]1=23)=C3C
+
+> <s_m_subgroup_title>
+NEW-model-var4-wnowymzakresie-myco->NEW-myco-var4_48_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var4-wnowymzakresie-myco->NEW-myco-var4_48_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C123[C]4(=C3)C1=[C]24CC(C56)=C7C=C8C5=[C]678
+                    3D
+ Schrodinger Suite 2021-1.
+ 13 20  0  0  1  0            999 V2000
+    3.3152   16.6930   -7.7752 C   0  0  0  0  0  0
+    3.8827   16.6371   -6.5811 C   0  0  0  0  0  0
+    4.0520   17.7969   -5.9740 C   0  0  0  0  0  0
+    5.0069   17.0115   -5.4627 C   0  0  0  0  0  0
+    5.1541   17.8682   -6.6572 C   0  0  0  0  0  0
+    4.9101   18.4011   -7.9533 C   0  0  0  0  0  0
+    3.5472   18.2591   -7.4764 C   0  0  0  0  0  0
+    5.6501   19.2554   -8.9381 C   0  0  0  0  0  0
+    5.1214   20.4809  -11.3096 C   0  0  0  0  0  0
+    4.8181   19.5120  -10.2074 C   0  0  0  0  0  0
+    4.6165   19.0544  -11.6255 C   0  0  0  0  0  0
+    4.1281   20.2460  -12.4338 C   0  0  0  0  0  0
+    6.0121   19.2873  -11.2117 C   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  7  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  3  4  2  0  0  0
+  3  5  1  0  0  0
+  3  7  1  0  0  0
+  4  5  1  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  6  8  1  0  0  0
+  8 10  1  0  0  0
+  9 10  1  0  0  0
+  9 11  1  0  0  0
+  9 12  2  0  0  0
+  9 13  1  0  0  0
+ 10 11  1  0  0  0
+ 10 13  2  0  0  0
+ 11 12  1  0  0  0
+ 11 13  1  0  0  0
+M  END
+> <s_m_entry_id>
+1883
+
+> <s_m_entry_name>
+NEW-myco-var2_3_lig_gen_fit_add_gna.sdf.8
+
+> <minimizedAffinity>
+-6.73295
+
+> <minimizedRMSD>
+0.93107
+
+> <CNNscore>
+0.7656704187
+
+> <CNNaffinity>
+4.7303266525
+
+> <CNN_VS>
+3.621871233
+
+> <CNNaffinity_variance>
+0.6338273287
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+1
+
+> <s_user_SMILES>
+C123[C]4(=C3)C1=[C]24CC(C56)=C7C=C8C5=[C]678
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_3_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_3_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=CC1=C=C2C=[C]23[C]4=5C3=C4C5
+                    3D
+ Schrodinger Suite 2021-1.
+ 11 15  0  0  1  0            999 V2000
+  -23.3303  -22.7285   10.8948 C   0  0  0  0  0  0
+  -20.0844  -17.6000   13.4509 C   0  0  0  0  0  0
+  -22.9346  -21.3524   11.4084 C   0  0  0  0  0  0
+  -24.6985  -19.3901   11.4788 C   0  0  0  0  0  0
+  -21.3371  -17.7039   12.7873 C   0  0  0  0  0  0
+  -24.3720  -21.6290   11.1404 C   0  0  0  0  0  0
+  -23.2692  -19.1341   11.7754 C   0  0  0  0  0  0
+  -22.3139  -18.4171   12.3037 C   0  0  0  0  0  0
+  -20.6955  -16.4519   12.9906 C   0  0  0  0  0  0
+  -23.7605  -20.2420   10.7820 C   0  0  0  0  0  0
+  -22.0345  -22.0705   10.4460 C   0  0  0  0  0  0
+  1  3  1  0  0  0
+  1  6  2  0  0  0
+  1 11  1  0  0  0
+  2  5  1  0  0  0
+  2  9  2  0  0  0
+  3  6  1  0  0  0
+  3 10  1  0  0  0
+  3 11  2  0  0  0
+  4  7  1  0  0  0
+  4 10  2  0  0  0
+  5  8  2  0  0  0
+  5  9  1  0  0  0
+  6 10  1  0  0  0
+  7  8  2  0  0  0
+  7 10  1  0  0  0
+M  END
+> <s_m_entry_id>
+1884
+
+> <s_m_entry_name>
+NEW-myco-var2_32_lig_gen_fit_add_gna.sdf.3
+
+> <minimizedAffinity>
+-6.51504
+
+> <minimizedRMSD>
+0.2216
+
+> <CNNscore>
+0.7742375135
+
+> <CNNaffinity>
+4.5248923302
+
+> <CNN_VS>
+3.5033414364
+
+> <CNNaffinity_variance>
+0.3185440898
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+2
+
+> <s_user_SMILES>
+C1=CC1=C=C2C=[C]23[C]4=5C3=C4C5
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_32_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_32_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1C2C([C]=123)=C3C=4C5=C6[C]=7([C]456)[C]8(C7)=C9C8=C9
+                    3D
+ Schrodinger Suite 2021-1.
+ 15 23  0  0  1  0            999 V2000
+  -22.1899   18.9970  -11.8594 C   0  0  0  0  0  0
+  -19.7454   15.9405  -13.5538 C   0  0  0  0  0  0
+  -18.8889   16.6153  -12.7450 C   0  0  0  0  0  0
+  -19.1630   18.7353  -12.3345 C   0  0  0  0  0  0
+  -21.5377   19.2842  -13.1953 C   0  0  0  0  0  0
+  -21.0512   19.8144  -12.0205 C   0  0  0  0  0  0
+  -20.0818   16.2324  -12.1681 C   0  0  0  0  0  0
+  -19.7958   17.5740  -13.0616 C   0  0  0  0  0  0
+  -20.6418   18.5008  -12.1447 C   0  0  0  0  0  0
+  -22.2005   20.5593  -12.1942 C   0  0  0  0  0  0
+  -24.0631   21.1400   -8.8604 C   0  0  0  0  0  0
+  -23.8862   21.0657  -10.3457 C   0  0  0  0  0  0
+  -24.4303   22.3471   -9.7148 C   0  0  0  0  0  0
+  -23.5232   22.4131  -10.9571 C   0  0  0  0  0  0
+  -22.4918   21.2890  -10.8718 C   0  0  0  0  0  0
+  1  5  2  0  0  0
+  1  6  1  0  0  0
+  1 10  1  0  0  0
+  2  3  2  0  0  0
+  2  7  1  0  0  0
+  3  7  1  0  0  0
+  3  8  1  0  0  0
+  4  8  1  0  0  0
+  4  9  2  0  0  0
+  5  6  1  0  0  0
+  5  9  1  0  0  0
+  6  9  1  0  0  0
+  6 10  2  0  0  0
+  7  8  2  0  0  0
+  8  9  1  0  0  0
+ 10 15  1  0  0  0
+ 11 12  2  0  0  0
+ 11 13  1  0  0  0
+ 12 13  1  0  0  0
+ 12 14  1  0  0  0
+ 12 15  1  0  0  0
+ 13 14  1  0  0  0
+ 14 15  2  0  0  0
+M  END
+> <s_m_entry_id>
+1885
+
+> <s_m_entry_name>
+NEW-myco-var2_38_lig_gen_fit_add_gna.sdf.1
+
+> <minimizedAffinity>
+-7.36157
+
+> <minimizedRMSD>
+0.63401
+
+> <CNNscore>
+0.6413913369
+
+> <CNNaffinity>
+5.096247673
+
+> <CNN_VS>
+3.2686891556
+
+> <CNNaffinity_variance>
+0.346852839
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+3
+
+> <s_user_SMILES>
+C1C2C([C]=123)=C3C=4C5=C6[C]=7([C]456)[C]8(C7)=C9C8=C9
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_38_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_38_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=CC1=C=C2C(=C2)/C=C3\C(C)=C3
+                    3D
+ Schrodinger Suite 2021-1.
+ 12 14  0  0  1  0            999 V2000
+  -22.8830   21.3772  -10.6790 C   0  0  0  0  0  0
+  -21.5509   23.1282   -9.2300 C   0  0  0  0  0  0
+  -23.5141   20.3208  -11.1012 C   0  0  0  0  0  0
+  -22.3007   22.4496  -10.2278 C   0  0  0  0  0  0
+  -23.5697   19.0431  -11.7243 C   0  0  0  0  0  0
+  -21.9993   23.8344  -10.3270 C   0  0  0  0  0  0
+  -24.7308   19.6007  -11.2299 C   0  0  0  0  0  0
+  -20.3005   18.3134  -12.4962 C   0  0  0  0  0  0
+  -21.6323   17.8252  -12.5929 C   0  0  0  0  0  0
+  -19.3209   19.3340  -12.0654 C   0  0  0  0  0  0
+  -22.9413   17.9102  -12.3977 C   0  0  0  0  0  0
+  -20.5224   17.0956  -13.0975 C   0  0  0  0  0  0
+  1  3  2  0  0  0
+  1  4  2  0  0  0
+  2  4  1  0  0  0
+  2  6  2  0  0  0
+  3  5  1  0  0  0
+  3  7  1  0  0  0
+  4  6  1  0  0  0
+  5 11  1  0  0  0
+  5  7  2  0  0  0
+  8  9  1  0  0  0
+  8 10  1  0  0  0
+  8 12  2  0  0  0
+  9 11  2  0  0  0
+  9 12  1  0  0  0
+M  END
+> <s_m_entry_id>
+1886
+
+> <s_m_entry_name>
+NEW-myco-var2_39_lig_gen_fit_add_gna.sdf.1
+
+> <minimizedAffinity>
+-6.58151
+
+> <minimizedRMSD>
+1.32169
+
+> <CNNscore>
+0.6061808467
+
+> <CNNaffinity>
+4.6613836288
+
+> <CNN_VS>
+2.8256413937
+
+> <CNNaffinity_variance>
+0.2038037777
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+4
+
+> <s_user_SMILES>
+C1=CC1=C=C2C(=C2)/C=C3\C(C)=C3
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_39_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_39_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+CC(=C1)[C]1(C=23)=[C]34C=5C6=C7[C]8([C]27[C]456)=C9C8=C9
+                    3D
+ Schrodinger Suite 2021-1.
+ 15 23  0  0  1  0            999 V2000
+  -22.5135   21.9388   -9.2953 C   0  0  0  0  0  0
+  -20.9114   24.2651   -8.5550 C   0  0  0  0  0  0
+  -21.4904   23.1171   -9.2442 C   0  0  0  0  0  0
+  -23.0717   22.3135  -11.3140 C   0  0  0  0  0  0
+  -23.8203   21.9517  -10.0823 C   0  0  0  0  0  0
+  -22.4958   21.1069  -12.1127 C   0  0  0  0  0  0
+  -19.1809   18.8423  -12.3264 C   0  0  0  0  0  0
+  -23.8240   21.0070  -11.2711 C   0  0  0  0  0  0
+  -21.7289   19.8853  -11.6322 C   0  0  0  0  0  0
+  -21.1195   21.2789  -11.3632 C   0  0  0  0  0  0
+  -21.7254   24.4603   -9.7344 C   0  0  0  0  0  0
+  -21.9084   19.1648  -12.8542 C   0  0  0  0  0  0
+  -22.3278   23.9971   -8.4547 C   0  0  0  0  0  0
+  -20.6123   19.2591  -12.2814 C   0  0  0  0  0  0
+  -21.8225   22.3595  -10.5629 C   0  0  0  0  0  0
+  1  3  1  0  0  0
+  1  5  2  0  0  0
+  1 15  1  0  0  0
+  2 11  2  0  0  0
+  2 13  1  0  0  0
+  3 11  1  0  0  0
+  3 13  2  0  0  0
+  3 15  1  0  0  0
+  4  5  1  0  0  0
+  4  6  1  0  0  0
+  4  8  2  0  0  0
+  4 15  1  0  0  0
+  5  8  1  0  0  0
+  6  8  1  0  0  0
+  6  9  2  0  0  0
+  6 10  1  0  0  0
+  7 14  1  0  0  0
+  9 10  1  0  0  0
+  9 12  1  0  0  0
+  9 14  1  0  0  0
+ 10 15  2  0  0  0
+ 11 13  1  0  0  0
+ 12 14  2  0  0  0
+M  END
+> <s_m_entry_id>
+1887
+
+> <s_m_entry_name>
+NEW-myco-var2_39_lig_gen_fit_add_gna.sdf.6
+
+> <minimizedAffinity>
+-6.93646
+
+> <minimizedRMSD>
+0.68357
+
+> <CNNscore>
+0.5143745542
+
+> <CNNaffinity>
+4.7678346634
+
+> <CNN_VS>
+2.452452898
+
+> <CNNaffinity_variance>
+0.2467101365
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+5
+
+> <s_user_SMILES>
+CC(=C1)[C]1(C=23)=[C]34C=5C6=C7[C]8([C]27[C]456)=C9C8=C9
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_39_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_39_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=CC1=C=CC=2C3=[C]4([C]235)[C]5=6C4=CC6
+                    3D
+ Schrodinger Suite 2021-1.
+ 13 18  0  0  1  0            999 V2000
+  -20.4256   16.0144  -12.7441 C   0  0  0  0  0  0
+  -19.5379   17.8610  -12.5603 C   0  0  0  0  0  0
+  -22.5476   18.7178  -12.3294 C   0  0  0  0  0  0
+  -21.8090   18.2118  -13.3836 C   0  0  0  0  0  0
+  -20.5533   17.3360  -13.3809 C   0  0  0  0  0  0
+  -20.9838   18.2259  -12.2877 C   0  0  0  0  0  0
+  -21.4878   19.5351  -12.9740 C   0  0  0  0  0  0
+  -19.2675   16.4638  -12.1099 C   0  0  0  0  0  0
+  -24.2797   22.0636   -9.5938 C   0  0  0  0  0  0
+  -24.1481   19.8587  -11.0221 C   0  0  0  0  0  0
+  -23.7792   18.7290  -11.5426 C   0  0  0  0  0  0
+  -24.4550   21.0248  -10.5440 C   0  0  0  0  0  0
+  -25.1434   22.2594  -10.6504 C   0  0  0  0  0  0
+  1  5  2  0  0  0
+  1  8  1  0  0  0
+  2  5  1  0  0  0
+  2  6  1  0  0  0
+  2  8  2  0  0  0
+  3  4  2  0  0  0
+  3 11  1  0  0  0
+  3  7  1  0  0  0
+  4  5  1  0  0  0
+  4  6  1  0  0  0
+  4  7  1  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  9 12  1  0  0  0
+  9 13  2  0  0  0
+ 10 11  2  0  0  0
+ 10 12  2  0  0  0
+ 12 13  1  0  0  0
+M  END
+> <s_m_entry_id>
+1888
+
+> <s_m_entry_name>
+NEW-myco-var2_40_lig_gen_fit_add_gna.sdf.2
+
+> <minimizedAffinity>
+-7.42413
+
+> <minimizedRMSD>
+0.47835
+
+> <CNNscore>
+0.7404546738
+
+> <CNNaffinity>
+4.8196825981
+
+> <CNN_VS>
+3.5687565804
+
+> <CNNaffinity_variance>
+0.394292444
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+6
+
+> <s_user_SMILES>
+C1=CC1=C=CC=2C3=[C]4([C]235)[C]5=6C4=CC6
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_40_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_40_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+CC=C=C1C=C2[C]13=[C]4([C]23=[C]456)[C]67=C5C7
+                    3D
+ Schrodinger Suite 2021-1.
+ 13 19  0  0  1  0            999 V2000
+  -20.6245   17.8266  -12.5542 C   0  0  0  0  0  0
+  -23.1593   20.2172  -11.5497 C   0  0  0  0  0  0
+  -20.3226   16.7393  -13.6294 C   0  0  0  0  0  0
+  -26.1235   18.9019   -9.8584 C   0  0  0  0  0  0
+  -21.4181   16.7302  -12.7283 C   0  0  0  0  0  0
+  -22.1196   18.1075  -12.6370 C   0  0  0  0  0  0
+  -21.2397   19.1627  -12.9357 C   0  0  0  0  0  0
+  -24.2180   20.1470  -10.7848 C   0  0  0  0  0  0
+  -22.2177   21.4277  -11.9467 C   0  0  0  0  0  0
+  -21.4408   20.4638  -12.1071 C   0  0  0  0  0  0
+  -25.2047   20.0815   -9.9309 C   0  0  0  0  0  0
+  -21.9387   19.2411  -11.6754 C   0  0  0  0  0  0
+  -20.2138   16.2874  -12.2106 C   0  0  0  0  0  0
+  1  3  1  0  0  0
+  1  5  1  0  0  0
+  1  6  1  0  0  0
+  1  7  2  0  0  0
+  2  8  2  0  0  0
+  2  9  1  0  0  0
+  2 12  1  0  0  0
+  3  5  2  0  0  0
+  3 13  1  0  0  0
+  4 11  1  0  0  0
+  5  6  1  0  0  0
+  5 13  1  0  0  0
+  6  7  1  0  0  0
+  6 12  2  0  0  0
+  7 10  1  0  0  0
+  7 12  1  0  0  0
+  8 11  2  0  0  0
+  9 10  2  0  0  0
+ 10 12  1  0  0  0
+M  END
+> <s_m_entry_id>
+1889
+
+> <s_m_entry_name>
+NEW-myco-var2_40_lig_gen_fit_add_gna.sdf.8
+
+> <minimizedAffinity>
+-6.90622
+
+> <minimizedRMSD>
+2.67971
+
+> <CNNscore>
+0.6749510765
+
+> <CNNaffinity>
+4.8272151947
+
+> <CNN_VS>
+3.2581341267
+
+> <CNNaffinity_variance>
+0.2907739282
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+7
+
+> <s_user_SMILES>
+CC=C=C1C=C2[C]13=[C]4([C]23=[C]456)[C]67=C5C7
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_40_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_40_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C=C(C)C(C)=C=C1C=2[C]=3([C]124)C4C3
+                    3D
+ Schrodinger Suite 2021-1.
+ 12 15  0  0  1  0            999 V2000
+  -20.0454   16.5878  -13.4145 C   0  0  0  0  0  0
+  -20.0182   17.2995  -12.2454 C   0  0  0  0  0  0
+  -21.1106   16.4129  -12.3766 C   0  0  0  0  0  0
+  -25.1603   19.1542  -10.8615 C   0  0  0  0  0  0
+  -20.3221   18.7641  -12.2343 C   0  0  0  0  0  0
+  -21.0416   17.8575  -13.0168 C   0  0  0  0  0  0
+  -23.8525   19.8861  -10.9101 C   0  0  0  0  0  0
+  -22.8682   19.3750  -11.6084 C   0  0  0  0  0  0
+  -21.8167   18.9130  -12.2190 C   0  0  0  0  0  0
+  -24.1489   21.2544   -8.7059 C   0  0  0  0  0  0
+  -23.0662   22.2020  -10.6937 C   0  0  0  0  0  0
+  -23.6343   21.1334  -10.1167 C   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  3  1  0  0  0
+  2  3  1  0  0  0
+  2  5  1  0  0  0
+  2  6  1  0  0  0
+  3  6  1  0  0  0
+  4  7  1  0  0  0
+  5  6  2  0  0  0
+  5  9  1  0  0  0
+  6  9  1  0  0  0
+  7  8  2  0  0  0
+  7 12  1  0  0  0
+  8  9  2  0  0  0
+ 10 12  1  0  0  0
+ 11 12  2  0  0  0
+M  END
+> <s_m_entry_id>
+1890
+
+> <s_m_entry_name>
+NEW-myco-var2_43_lig_gen_fit_add_gna.sdf.6
+
+> <minimizedAffinity>
+-6.91142
+
+> <minimizedRMSD>
+0.60335
+
+> <CNNscore>
+0.7962270379
+
+> <CNNaffinity>
+4.6986722946
+
+> <CNN_VS>
+3.7412099838
+
+> <CNNaffinity_variance>
+0.3057100177
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+8
+
+> <s_user_SMILES>
+C=C(C)C(C)=C=C1C=2[C]=3([C]124)C4C3
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_43_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_43_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+CC=C=C1C(C2)=[C]1(C3)[C]=2([C]=345)C5=[C]67C4=C6C=C7
+                    3D
+ Schrodinger Suite 2021-1.
+ 16 22  0  0  1  0            999 V2000
+  -19.0653   16.3476  -13.3049 C   0  0  0  0  0  0
+  -21.0552   17.1360  -12.2393 C   0  0  0  0  0  0
+  -23.5757   18.5332  -11.3651 C   0  0  0  0  0  0
+  -21.8796   18.0943  -13.1282 C   0  0  0  0  0  0
+  -22.8573   22.9878   -8.7644 C   0  0  0  0  0  0
+  -23.1599   21.1866  -10.6208 C   0  0  0  0  0  0
+  -21.1043   19.2229  -12.5460 C   0  0  0  0  0  0
+  -20.5311   15.8639  -13.0483 C   0  0  0  0  0  0
+  -23.0570   22.0993   -9.6974 C   0  0  0  0  0  0
+  -22.7453   19.1624  -12.5059 C   0  0  0  0  0  0
+  -22.6641   20.6134  -11.8340 C   0  0  0  0  0  0
+  -23.3991   19.7349  -11.0090 C   0  0  0  0  0  0
+  -22.4143   22.5655   -7.4033 C   0  0  0  0  0  0
+  -20.2863   18.2235  -11.7903 C   0  0  0  0  0  0
+  -19.5933   17.2427  -12.6005 C   0  0  0  0  0  0
+  -21.1991   20.4780  -11.7120 C   0  0  0  0  0  0
+  1  8  2  0  0  0
+  1 15  1  0  0  0
+  2  4  2  0  0  0
+  2  8  1  0  0  0
+  2 14  1  0  0  0
+  2 15  1  0  0  0
+  3 10  2  0  0  0
+  3 12  1  0  0  0
+  4  7  1  0  0  0
+  4 10  1  0  0  0
+  5  9  2  0  0  0
+  5 13  1  0  0  0
+  6  9  2  0  0  0
+  6 11  1  0  0  0
+  6 12  1  0  0  0
+  7 10  1  0  0  0
+  7 14  1  0  0  0
+  7 16  2  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 11 16  1  0  0  0
+ 14 15  2  0  0  0
+M  END
+> <s_m_entry_id>
+1891
+
+> <s_m_entry_name>
+NEW-myco-var2_44_lig_gen_fit_add_gna.sdf.4
+
+> <minimizedAffinity>
+-8.45264
+
+> <minimizedRMSD>
+0.72977
+
+> <CNNscore>
+0.5824642777
+
+> <CNNaffinity>
+5.1974115372
+
+> <CNN_VS>
+3.0273065567
+
+> <CNNaffinity_variance>
+0.3709434867
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+9
+
+> <s_user_SMILES>
+CC=C=C1C(C2)=[C]1(C3)[C]=2([C]=345)C5=[C]67C4=C6C=C7
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_44_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_44_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C=C=CC=1C2C1[C]23=C4C3=C5C4=C5
+                    3D
+ Schrodinger Suite 2021-1.
+ 12 16  0  0  1  0            999 V2000
+  -18.2641   17.1716  -13.4641 C   0  0  0  0  0  0
+  -20.0807   16.3405  -11.8663 C   0  0  0  0  0  0
+  -21.8243   18.7632  -12.4072 C   0  0  0  0  0  0
+  -19.1541   17.9575  -12.6123 C   0  0  0  0  0  0
+  -18.8281   16.8745  -12.3021 C   0  0  0  0  0  0
+  -20.4707   17.5877  -12.5681 C   0  0  0  0  0  0
+  -21.8134   17.4382  -12.2181 C   0  0  0  0  0  0
+  -19.7981   16.6039  -13.3968 C   0  0  0  0  0  0
+  -21.8172   17.8149  -13.5465 C   0  0  0  0  0  0
+  -24.3268   20.5639  -10.5608 C   0  0  0  0  0  0
+  -23.2256   20.3186  -11.2121 C   0  0  0  0  0  0
+  -22.1149   20.0885  -11.8528 C   0  0  0  0  0  0
+  1  4  2  0  0  0
+  1  5  1  0  0  0
+  2  5  2  0  0  0
+  2  6  1  0  0  0
+  2  8  1  0  0  0
+  3  7  2  0  0  0
+  3  9  1  0  0  0
+  3 12  1  0  0  0
+  4  5  1  0  0  0
+  4  8  1  0  0  0
+  6  7  1  0  0  0
+  6  8  2  0  0  0
+  6  9  1  0  0  0
+  7  9  1  0  0  0
+ 10 11  2  0  0  0
+ 11 12  2  0  0  0
+M  END
+> <s_m_entry_id>
+1892
+
+> <s_m_entry_name>
+NEW-myco-var2_46_lig_gen_fit_add_gna.sdf.6
+
+> <minimizedAffinity>
+-6.93066
+
+> <minimizedRMSD>
+2.81571
+
+> <CNNscore>
+0.6942999363
+
+> <CNNaffinity>
+4.5524682999
+
+> <CNN_VS>
+3.1607785225
+
+> <CNNaffinity_variance>
+0.5560233593
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+10
+
+> <s_user_SMILES>
+C=C=CC=1C2C1[C]23=C4C3=C5C4=C5
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_46_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_46_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+CC=C=C1C(=C2)[C@@]12CC(=C3)C(C3=4)C4
+                    3D
+ Schrodinger Suite 2021-1.
+ 13 16  0  0  1  0            999 V2000
+  -25.3788  -19.4618   11.1305 C   0  0  0  0  0  0
+  -24.7983  -19.1510    9.8032 C   0  0  0  0  0  0
+  -23.0157  -22.8039   10.9473 C   0  0  0  0  0  0
+  -21.9581  -23.1870    9.9681 C   0  0  0  0  0  0
+  -24.0611  -19.1402   10.9040 C   0  0  2  0  0  0
+  -24.1530  -20.4593   10.7821 C   0  0  0  0  0  0
+  -23.5913  -21.6372   10.8682 C   0  0  0  0  0  0
+  -23.7010  -18.1816   12.0440 C   0  0  0  0  0  0
+  -19.8435  -16.7848   12.6188 C   0  0  0  0  0  0
+  -20.4812  -18.0127   12.4148 C   0  0  0  0  0  0
+  -21.1783  -16.8713   12.3115 C   0  0  3  0  0  0
+  -21.2047  -19.0979   12.2084 C   0  0  0  0  0  0
+  -22.2155  -18.1146   12.1961 C   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  5  1  0  0  0
+  1  6  1  0  0  0
+  2  5  1  0  0  0
+  3  4  1  0  0  0
+  3  7  2  0  0  0
+  5  6  1  0  0  0
+  5  8  1  0  0  0
+  6  7  2  0  0  0
+  8 13  1  0  0  0
+  9 10  2  0  0  0
+  9 11  1  0  0  0
+ 10 11  1  0  0  0
+ 10 12  1  0  0  0
+ 11 13  1  0  0  0
+ 12 13  2  0  0  0
+M  END
+> <s_m_entry_id>
+1893
+
+> <s_m_entry_name>
+NEW-myco-var2_48_lig_gen_fit_add_gna.sdf.3
+
+> <minimizedAffinity>
+-6.65536
+
+> <minimizedRMSD>
+1.44496
+
+> <CNNscore>
+0.787948966
+
+> <CNNaffinity>
+4.9992265701
+
+> <CNN_VS>
+3.939135313
+
+> <CNNaffinity_variance>
+0.1247936264
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+11
+
+> <s_user_SMILES>
+CC=C=C1C(=C2)[C@@]12CC(=C3)C(C3=4)C4
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_48_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_48_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=2C(C2)=C1C=C=C3C(=C3)C4C(=[C]456)C5=C6
+                    3D
+ Schrodinger Suite 2021-1.
+ 14 19  0  0  1  0            999 V2000
+  -22.0676  -18.9410   12.3946 C   0  0  0  0  0  0
+  -22.1947  -20.1946   12.0049 C   0  0  0  0  0  0
+  -22.3005  -21.4111   11.5593 C   0  0  0  0  0  0
+  -21.9653  -17.9855   13.4560 C   0  0  0  0  0  0
+  -22.4934  -17.5841   12.2426 C   0  0  0  0  0  0
+  -18.4869  -17.2857   12.0552 C   0  0  0  0  0  0
+  -19.9774  -16.5979   12.4528 C   0  0  0  0  0  0
+  -18.7396  -16.7867   13.4362 C   0  0  0  0  0  0
+  -19.4659  -17.8389   12.8409 C   0  0  0  0  0  0
+  -20.8782  -17.8026   12.2051 C   0  0  0  0  0  0
+  -23.5246  -22.9003    9.9603 C   0  0  0  0  0  0
+  -23.2919  -22.2129    8.6331 C   0  0  0  0  0  0
+  -23.6285  -21.9216   11.1059 C   0  0  0  0  0  0
+  -24.0284  -21.4632    9.7212 C   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  4  1  0  0  0
+  1  5  1  0  0  0
+  2  3  2  0  0  0
+  3 13  1  0  0  0
+  4 10  1  0  0  0
+  4  5  2  0  0  0
+  6  8  2  0  0  0
+  6  9  1  0  0  0
+  7  8  1  0  0  0
+  7  9  2  0  0  0
+  7 10  1  0  0  0
+  8  9  1  0  0  0
+  9 10  1  0  0  0
+ 11 12  2  0  0  0
+ 11 13  1  0  0  0
+ 11 14  1  0  0  0
+ 12 14  1  0  0  0
+ 13 14  2  0  0  0
+M  END
+> <s_m_entry_id>
+1894
+
+> <s_m_entry_name>
+NEW-myco-var2_48_lig_gen_fit_add_gna.sdf.4
+
+> <minimizedAffinity>
+-7.85843
+
+> <minimizedRMSD>
+1.07039
+
+> <CNNscore>
+0.7318816781
+
+> <CNNaffinity>
+4.9299654961
+
+> <CNN_VS>
+3.6081514359
+
+> <CNNaffinity_variance>
+0.3165791631
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+12
+
+> <s_user_SMILES>
+C1=2C(C2)=C1C=C=C3C(=C3)C4C(=[C]456)C5=C6
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_48_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_48_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+CC=C=CC1=CC(=C1)C2=C([C]2=34)C4C3
+                    3D
+ Schrodinger Suite 2021-1.
+ 13 16  0  0  1  0            999 V2000
+  -23.5981  -20.1847   11.3270 C   0  0  0  0  0  0
+  -22.8980  -21.2810   11.5826 C   0  0  0  0  0  0
+  -22.6350  -19.3918   12.0912 C   0  0  0  0  0  0
+  -21.9864  -20.5036   12.4071 C   0  0  0  0  0  0
+  -20.6580  -16.3058   12.6014 C   0  0  0  0  0  0
+  -20.9892  -17.5499   12.1236 C   0  0  0  0  0  0
+  -19.9509  -17.5278   13.0796 C   0  0  0  0  0  0
+  -21.5039  -17.5022   13.4289 C   0  0  0  0  0  0
+  -22.4348  -17.9217   12.3481 C   0  0  0  0  0  0
+  -22.6547  -22.8451    7.5671 C   0  0  0  0  0  0
+  -22.5336  -23.0274    9.9957 C   0  0  0  0  0  0
+  -22.9491  -22.6870   11.1846 C   0  0  0  0  0  0
+  -22.0565  -23.3682    8.8290 C   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  3  1  0  0  0
+  2 12  1  0  0  0
+  2  4  1  0  0  0
+  3  4  2  0  0  0
+  3  9  1  0  0  0
+  5  6  2  0  0  0
+  5  7  1  0  0  0
+  6  7  1  0  0  0
+  6  8  1  0  0  0
+  6  9  1  0  0  0
+  7  8  1  0  0  0
+  8  9  2  0  0  0
+ 10 13  1  0  0  0
+ 11 12  2  0  0  0
+ 11 13  2  0  0  0
+M  END
+> <s_m_entry_id>
+1895
+
+> <s_m_entry_name>
+NEW-myco-var2_49_lig_gen_fit_add_gna.sdf.9
+
+> <minimizedAffinity>
+-6.6095
+
+> <minimizedRMSD>
+1.03615
+
+> <CNNscore>
+0.6897822618
+
+> <CNNaffinity>
+4.683786869
+
+> <CNN_VS>
+3.2307929993
+
+> <CNNaffinity_variance>
+0.2530301511
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+13
+
+> <s_user_SMILES>
+CC=C=CC1=CC(=C1)C2=C([C]2=34)C4C3
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_49_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_49_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C=C=CC=1C2C1[C]2(=C3)[C]34=C5[C]=6([C]457)C=7C6
+                    3D
+ Schrodinger Suite 2021-1.
+ 14 20  0  0  1  0            999 V2000
+  -21.0519  -16.2001   12.3642 C   0  0  0  0  0  0
+  -21.8018  -17.0711   13.3592 C   0  0  0  0  0  0
+  -22.9645  -17.8707   12.7811 C   0  0  0  0  0  0
+  -25.1700  -19.8482   11.0887 C   0  0  0  0  0  0
+  -20.5297  -17.5786   12.6629 C   0  0  0  0  0  0
+  -23.9840  -19.5194   10.3393 C   0  0  0  0  0  0
+  -21.6396  -18.5220   13.0696 C   0  0  0  0  0  0
+  -24.2032  -20.9168   10.8948 C   0  0  0  0  0  0
+  -22.5125  -20.4493   12.2456 C   0  0  0  0  0  0
+  -22.4479  -19.0065   11.8745 C   0  0  0  0  0  0
+  -23.8062  -19.8209   11.7464 C   0  0  0  0  0  0
+  -26.2163  -20.1148   10.0484 C   0  0  0  0  0  0
+  -26.7585  -19.1445    9.3485 C   0  0  0  0  0  0
+  -27.3047  -18.1889    8.6529 C   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  5  1  0  0  0
+  2  3  1  0  0  0
+  2  5  1  0  0  0
+  2  7  1  0  0  0
+  3  7  1  0  0  0
+  3 10  2  0  0  0
+  4 12  1  0  0  0
+  4  6  2  0  0  0
+  4  8  1  0  0  0
+  5  7  2  0  0  0
+  6  8  1  0  0  0
+  6 11  1  0  0  0
+  7 10  1  0  0  0
+  8 11  1  0  0  0
+  9 10  1  0  0  0
+  9 11  2  0  0  0
+ 10 11  1  0  0  0
+ 12 13  2  0  0  0
+ 13 14  2  0  0  0
+M  END
+> <s_m_entry_id>
+1896
+
+> <s_m_entry_name>
+NEW-myco-var2_50_lig_gen_fit_add_gna.sdf.1
+
+> <minimizedAffinity>
+-6.9428
+
+> <minimizedRMSD>
+0.38495
+
+> <CNNscore>
+0.6989139915
+
+> <CNNaffinity>
+4.9719839096
+
+> <CNN_VS>
+3.4749891758
+
+> <CNNaffinity_variance>
+0.3369103074
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+14
+
+> <s_user_SMILES>
+C=C=CC=1C2C1[C]2(=C3)[C]34=C5[C]=6([C]457)C=7C6
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_50_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_50_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+CC=C=C1C(C2)=C1[C]23=C4C3=C5C4=C5
+                    3D
+ Schrodinger Suite 2021-1.
+ 13 17  0  0  1  0            999 V2000
+  -21.3826  -16.7626   13.0432 C   0  0  0  0  0  0
+  -23.7173  -20.4691   11.7167 C   0  0  0  0  0  0
+  -20.4659  -17.6922   12.4899 C   0  0  0  0  0  0
+  -21.8176  -18.3418   13.4345 C   0  0  0  0  0  0
+  -21.7716  -23.3932    9.7399 C   0  0  0  0  0  0
+  -23.5728  -19.0056   11.4481 C   0  0  0  0  0  0
+  -22.0842  -18.9765   12.1184 C   0  0  0  0  0  0
+  -22.2076  -22.3764   10.4339 C   0  0  0  0  0  0
+  -21.5782  -17.6707   12.0921 C   0  0  0  0  0  0
+  -22.6121  -21.3693   11.1551 C   0  0  0  0  0  0
+  -22.4475  -20.4791   12.3808 C   0  0  0  0  0  0
+  -20.8652  -19.0592   12.5735 C   0  0  0  0  0  0
+  -21.3868  -23.2506    8.3032 C   0  0  0  0  0  0
+  1  3  2  0  0  0
+  1  9  1  0  0  0
+  2  6  1  0  0  0
+  2 10  1  0  0  0
+  2 11  2  0  0  0
+  3  4  1  0  0  0
+  3  9  1  0  0  0
+  4  7  2  0  0  0
+  4 12  1  0  0  0
+  5  8  2  0  0  0
+  5 13  1  0  0  0
+  6  7  1  0  0  0
+  7 11  1  0  0  0
+  7 12  1  0  0  0
+  8 10  2  0  0  0
+  9 12  2  0  0  0
+ 10 11  1  0  0  0
+M  END
+> <s_m_entry_id>
+1897
+
+> <s_m_entry_name>
+NEW-myco-var2_50_lig_gen_fit_add_gna.sdf.9
+
+> <minimizedAffinity>
+-7.1496
+
+> <minimizedRMSD>
+2.12089
+
+> <CNNscore>
+0.5684015751
+
+> <CNNaffinity>
+4.537322998
+
+> <CNN_VS>
+2.5790214539
+
+> <CNNaffinity_variance>
+0.2724764049
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+15
+
+> <s_user_SMILES>
+CC=C=C1C(C2)=C1[C]23=C4C3=C5C4=C5
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_50_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_50_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C12=C(C2)C1=C=CC3C4=[C]35[C]=6([C]457)C=7C6
+                    3D
+ Schrodinger Suite 2021-1.
+ 13 19  0  0  1  0            999 V2000
+  -21.3480  -17.4692   12.4139 C   0  0  0  0  0  0
+  -20.9703  -16.7137   13.4809 C   0  0  0  0  0  0
+  -19.8362  -16.8748   12.7170 C   0  0  0  0  0  0
+  -22.1394  -17.6960   13.4957 C   0  0  0  0  0  0
+  -20.9258  -15.9501   12.2987 C   0  0  0  0  0  0
+  -22.9148  -17.6410   12.3244 C   0  0  0  0  0  0
+  -22.1808  -18.8580   12.7645 C   0  0  0  0  0  0
+  -23.7310  -22.4655    9.6841 C   0  0  0  0  0  0
+  -21.9982  -20.3172   12.7456 C   0  0  0  0  0  0
+  -22.6870  -21.9114   10.7971 C   0  0  0  0  0  0
+  -22.3672  -22.5494    9.6600 C   0  0  0  0  0  0
+  -22.3680  -21.0706   11.7515 C   0  0  0  0  0  0
+  -22.9754  -23.5246   10.3559 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  4  1  0  0  0
+  1  5  2  0  0  0
+  1  6  1  0  0  0
+  2  3  2  0  0  0
+  2  4  1  0  0  0
+  2  5  1  0  0  0
+  3  5  1  0  0  0
+  4  6  2  0  0  0
+  4  7  1  0  0  0
+  6  7  1  0  0  0
+  7  9  1  0  0  0
+  8 10  1  0  0  0
+  8 11  2  0  0  0
+  8 13  1  0  0  0
+  9 12  2  0  0  0
+ 10 11  1  0  0  0
+ 10 12  2  0  0  0
+ 11 13  1  0  0  0
+M  END
+> <s_m_entry_id>
+1898
+
+> <s_m_entry_name>
+NEW-myco-var2_51_lig_gen_fit_add_gna.sdf.2
+
+> <minimizedAffinity>
+-7.18241
+
+> <minimizedRMSD>
+0.97651
+
+> <CNNscore>
+0.5884542465
+
+> <CNNaffinity>
+4.5105996132
+
+> <CNN_VS>
+2.6542813778
+
+> <CNNaffinity_variance>
+0.2757833302
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+16
+
+> <s_user_SMILES>
+C12=C(C2)C1=C=CC3C4=[C]35[C]=6([C]457)C=7C6
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_51_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_51_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=2C(C2)=C1C=3C4=C5[C]6([C]345)[C]7=8[C]=9(C=67)C8C9
+                    3D
+ Schrodinger Suite 2021-1.
+ 14 22  0  0  1  0            999 V2000
+  -23.3918  -21.6056   10.1622 C   0  0  0  0  0  0
+  -20.9601  -18.7136   12.4749 C   0  0  0  0  0  0
+  -21.6634  -17.5651   12.1728 C   0  0  0  0  0  0
+  -22.8663  -21.9035   11.5564 C   0  0  0  0  0  0
+  -21.9263  -18.3193   13.4345 C   0  0  0  0  0  0
+  -22.2347  -19.1116   12.1088 C   0  0  0  0  0  0
+  -23.6923  -20.6857   11.3269 C   0  0  0  0  0  0
+  -21.1937  -20.0846   11.8568 C   0  0  0  0  0  0
+  -22.5506  -20.5914   12.3554 C   0  0  0  0  0  0
+  -22.0390  -22.2887   10.3187 C   0  0  0  0  0  0
+  -21.7852  -25.0641    9.1684 C   0  0  0  0  0  0
+  -21.0236  -23.8779    8.8854 C   0  0  0  0  0  0
+  -22.0498  -23.7886    9.9345 C   0  0  0  0  0  0
+  -22.4956  -23.9549    8.5514 C   0  0  0  0  0  0
+  1  4  1  0  0  0
+  1  7  2  0  0  0
+  1 10  1  0  0  0
+  2  3  2  0  0  0
+  2  5  1  0  0  0
+  2  6  1  0  0  0
+  2  8  1  0  0  0
+  3  5  1  0  0  0
+  4  7  1  0  0  0
+  4  9  1  0  0  0
+  4 10  2  0  0  0
+  5  6  2  0  0  0
+  6  8  1  0  0  0
+  6  9  1  0  0  0
+  7  9  1  0  0  0
+  8  9  2  0  0  0
+ 10 13  1  0  0  0
+ 11 12  2  0  0  0
+ 11 14  1  0  0  0
+ 12 13  1  0  0  0
+ 12 14  1  0  0  0
+ 13 14  2  0  0  0
+M  END
+> <s_m_entry_id>
+1899
+
+> <s_m_entry_name>
+NEW-myco-var2_51_lig_gen_fit_add_gna.sdf.9
+
+> <minimizedAffinity>
+-6.70945
+
+> <minimizedRMSD>
+1.30093
+
+> <CNNscore>
+0.5667673945
+
+> <CNNaffinity>
+4.6467237473
+
+> <CNN_VS>
+2.6336114407
+
+> <CNNaffinity_variance>
+0.3172438145
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+17
+
+> <s_user_SMILES>
+C1=2C(C2)=C1C=3C4=C5[C]6([C]345)[C]7=8[C]=9(C=67)C8C9
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_51_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_51_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=CC1=C=C2C([C]234)=C4C=3CC5=C(C5=6)C6
+                    3D
+ Schrodinger Suite 2021-1.
+ 14 19  0  0  1  0            999 V2000
+  -25.4485  -20.2785   10.9965 C   0  0  0  0  0  0
+  -22.3905  -23.2578    6.0972 C   0  0  0  0  0  0
+  -25.0773  -21.7080   10.4402 C   0  0  0  0  0  0
+  -24.5711  -20.5471    9.9302 C   0  0  0  0  0  0
+  -23.6420  -22.5026    8.2900 C   0  0  0  0  0  0
+  -24.2759  -21.8218    9.2010 C   0  0  0  0  0  0
+  -22.9925  -23.1714    7.3814 C   0  0  0  0  0  0
+  -22.3491  -24.3557    6.9317 C   0  0  0  0  0  0
+  -24.0060  -20.6251   11.1718 C   0  0  0  0  0  0
+  -22.7536  -20.5593   12.0024 C   0  0  0  0  0  0
+  -22.9600  -17.8025   12.3203 C   0  0  0  0  0  0
+  -22.2211  -18.1812   13.4158 C   0  0  0  0  0  0
+  -21.5654  -18.0644   12.1625 C   0  0  0  0  0  0
+  -22.4246  -19.1242   12.3589 C   0  0  0  0  0  0
+  1  3  2  0  0  0
+  1  4  1  0  0  0
+  1  9  1  0  0  0
+  2  7  1  0  0  0
+  2  8  2  0  0  0
+  3  4  1  0  0  0
+  3  6  1  0  0  0
+  4  6  1  0  0  0
+  4  9  2  0  0  0
+  5  6  2  0  0  0
+  5  7  2  0  0  0
+  7  8  1  0  0  0
+  9 10  1  0  0  0
+ 10 14  1  0  0  0
+ 11 12  2  0  0  0
+ 11 13  1  0  0  0
+ 12 13  1  0  0  0
+ 12 14  1  0  0  0
+ 13 14  2  0  0  0
+M  END
+> <s_m_entry_id>
+1900
+
+> <s_m_entry_name>
+NEW-myco-var2_51_lig_gen_fit_add_gna.sdf.10
+
+> <minimizedAffinity>
+-6.51992
+
+> <minimizedRMSD>
+0.51168
+
+> <CNNscore>
+0.6611378193
+
+> <CNNaffinity>
+4.715221405
+
+> <CNN_VS>
+3.1174111366
+
+> <CNNaffinity_variance>
+0.1600800455
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+18
+
+> <s_user_SMILES>
+C1=CC1=C=C2C([C]234)=C4C=3CC5=C(C5=6)C6
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_51_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_51_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C=C=C1C=[C]12C(C2)=C=C3C(C)=C3
+                    3D
+ Schrodinger Suite 2021-1.
+ 12 14  0  0  1  0            999 V2000
+  -24.6034  -20.5882   11.4898 C   0  0  0  0  0  0
+  -19.8609  -18.5405   12.4203 C   0  0  0  0  0  0
+  -22.4380  -18.9793   12.1903 C   0  0  0  0  0  0
+  -23.5805  -21.5330   10.7650 C   0  0  0  0  0  0
+  -20.3351  -15.9917   13.3062 C   0  0  0  0  0  0
+  -22.4981  -22.2566   10.7297 C   0  0  0  0  0  0
+  -23.5884  -19.4342   11.7916 C   0  0  0  0  0  0
+  -24.9547  -19.1973   11.2781 C   0  0  0  0  0  0
+  -24.8700  -21.1294   10.1728 C   0  0  0  0  0  0
+  -21.4227  -22.9859   10.6777 C   0  0  0  0  0  0
+  -20.4653  -17.3960   12.8846 C   0  0  0  0  0  0
+  -21.2759  -18.4916   12.4989 C   0  0  0  0  0  0
+  1  4  1  0  0  0
+  1  7  1  0  0  0
+  1  8  1  0  0  0
+  1  9  2  0  0  0
+  2 11  2  0  0  0
+  2 12  1  0  0  0
+  3  7  2  0  0  0
+  3 12  2  0  0  0
+  4  6  2  0  0  0
+  4  9  1  0  0  0
+  5 11  1  0  0  0
+  6 10  2  0  0  0
+  7  8  1  0  0  0
+ 11 12  1  0  0  0
+M  END
+> <s_m_entry_id>
+1901
+
+> <s_m_entry_name>
+NEW-myco-var2_52_lig_gen_fit_add_gna.sdf.1
+
+> <minimizedAffinity>
+-7.0733
+
+> <minimizedRMSD>
+0.55514
+
+> <CNNscore>
+0.7956848145
+
+> <CNNaffinity>
+4.8551244736
+
+> <CNN_VS>
+3.8631489277
+
+> <CNNaffinity_variance>
+0.2125776708
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+19
+
+> <s_user_SMILES>
+C=C=C1C=[C]12C(C2)=C=C3C(C)=C3
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_52_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_52_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+CCC1(C=C1)CC2=CC2=C3C4[C]5(=[C]346)C6=C5
+                    3D
+ Schrodinger Suite 2021-1.
+ 15 20  0  0  1  0            999 V2000
+  -18.7118  -17.7298   13.6266 C   0  0  0  0  0  0
+  -22.8452  -18.7746   12.1621 C   0  0  0  0  0  0
+  -20.2528  -17.9073   13.0410 C   0  0  0  0  0  0
+  -19.2597  -16.7321   12.6637 C   0  0  0  0  0  0
+  -19.0636  -18.0938   12.3475 C   0  0  0  0  0  0
+  -22.7106  -17.8110   13.1717 C   0  0  0  0  0  0
+  -21.6356  -17.8433   12.1244 C   0  0  0  0  0  0
+  -21.5758  -18.8251   13.0200 C   0  0  0  0  0  0
+  -20.3527  -18.8507   12.0138 C   0  0  0  0  0  0
+  -23.8231  -19.4548   11.2113 C   0  0  0  0  0  0
+  -22.7131  -21.5846   11.9282 C   0  0  0  0  0  0
+  -22.5646  -21.5355   10.4906 C   0  0  0  0  0  0
+  -23.6976  -20.9954   11.1198 C   0  0  0  0  0  0
+  -24.9696  -21.8236   10.8643 C   0  0  0  0  0  0
+  -25.8984  -21.1465    9.8645 C   0  0  0  0  0  0
+  1  4  2  0  0  0
+  1  5  1  0  0  0
+  2 10  1  0  0  0
+  2  6  2  0  0  0
+  2  8  1  0  0  0
+  3  4  1  0  0  0
+  3  5  2  0  0  0
+  3  7  1  0  0  0
+  3  9  1  0  0  0
+  4  5  1  0  0  0
+  5  9  1  0  0  0
+  6  8  1  0  0  0
+  7  8  2  0  0  0
+  7  9  1  0  0  0
+ 10 13  1  0  0  0
+ 11 12  2  0  0  0
+ 11 13  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  1  0  0  0
+ 14 15  1  0  0  0
+M  END
+> <s_m_entry_id>
+1902
+
+> <s_m_entry_name>
+NEW-myco-var2_53_lig_gen_fit_add_gna.sdf.7
+
+> <minimizedAffinity>
+-7.04002
+
+> <minimizedRMSD>
+0.47748
+
+> <CNNscore>
+0.7221172452
+
+> <CNNaffinity>
+5.0838785172
+
+> <CNN_VS>
+3.6711564064
+
+> <CNNaffinity_variance>
+0.4344548285
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+20
+
+> <s_user_SMILES>
+CCC1(C=C1)CC2=CC2=C3C4[C]5(=[C]346)C6=C5
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_53_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_53_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C=12C(C1)=CC2=C=C3[C@@H](C34)C=4CC
+                    3D
+ Schrodinger Suite 2021-1.
+ 12 15  0  0  1  0            999 V2000
+  -25.5725  -19.4152   10.9051 C   0  0  0  0  0  0
+  -21.6387  -16.8389   12.5869 C   0  0  0  0  0  0
+  -20.7687  -15.8748   12.8598 C   0  0  0  0  0  0
+  -24.1236  -19.3734   11.2076 C   0  0  0  0  0  0
+  -20.3777  -17.1619   12.6807 C   0  0  0  0  0  0
+  -24.6625  -19.7398    9.8355 C   0  0  0  0  0  0
+  -22.0793  -18.1515   12.3161 C   0  0  0  0  0  0
+  -24.7923  -20.6492   10.9586 C   0  0  2  0  0  0
+  -23.1204  -18.7503   11.8126 C   0  0  0  0  0  0
+  -20.3999  -18.4433   12.4584 C   0  0  0  0  0  0
+  -24.3077  -21.2961    7.8689 C   0  0  0  0  0  0
+  -25.3463  -20.5221    8.6759 C   0  0  0  0  0  0
+  1  4  1  0  0  0
+  1  6  2  0  0  0
+  1  8  1  0  0  0
+  2  3  2  0  0  0
+  2  5  1  0  0  0
+  2  7  1  0  0  0
+  3  5  1  0  0  0
+  4  8  1  0  0  0
+  4  9  2  0  0  0
+  5 10  2  0  0  0
+  6  8  1  0  0  0
+  6 12  1  0  0  0
+  7  9  2  0  0  0
+  7 10  1  0  0  0
+ 11 12  1  0  0  0
+M  END
+> <s_m_entry_id>
+1903
+
+> <s_m_entry_name>
+NEW-myco-var2_53_lig_gen_fit_add_gna.sdf.10
+
+> <minimizedAffinity>
+-6.73781
+
+> <minimizedRMSD>
+0.76662
+
+> <CNNscore>
+0.7881850004
+
+> <CNNaffinity>
+4.5148239136
+
+> <CNN_VS>
+3.5585165024
+
+> <CNNaffinity_variance>
+0.4437816739
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+21
+
+> <s_user_SMILES>
+C=12C(C1)=CC2=C=C3[C@@H](C34)C=4CC
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_53_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_53_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+CC=C=C1C=2[C]3([C]124)=[C]56[C]34=[C]67C5=C7
+                    3D
+ Schrodinger Suite 2021-1.
+ 12 18  0  0  1  0            999 V2000
+  -23.1079  -18.2217   11.9077 C   0  0  0  0  0  0
+  -23.6505  -22.0570   11.0294 C   0  0  0  0  0  0
+  -22.3906  -19.2216   12.6981 C   0  0  0  0  0  0
+  -22.3533  -21.7077   11.4793 C   0  0  0  0  0  0
+  -18.2743  -16.7254   12.5566 C   0  0  0  0  0  0
+  -21.6703  -17.9184   12.3148 C   0  0  0  0  0  0
+  -19.6864  -16.2414   12.5301 C   0  0  0  0  0  0
+  -22.9439  -20.6619   10.7357 C   0  0  0  0  0  0
+  -20.6768  -17.0840   12.4287 C   0  0  0  0  0  0
+  -21.9620  -20.2686   11.6825 C   0  0  0  0  0  0
+  -23.4158  -19.6743   11.7830 C   0  0  0  0  0  0
+  -22.4226  -22.1560   10.1802 C   0  0  0  0  0  0
+  1  3  2  0  0  0
+  1  6  1  0  0  0
+  1 11  1  0  0  0
+  2  4  1  0  0  0
+  2  8  1  0  0  0
+  2 12  2  0  0  0
+  3  6  1  0  0  0
+  3 10  1  0  0  0
+  3 11  1  0  0  0
+  4  8  1  0  0  0
+  4 10  2  0  0  0
+  4 12  1  0  0  0
+  5  7  1  0  0  0
+  6  9  2  0  0  0
+  7  9  2  0  0  0
+  8 10  1  0  0  0
+  8 11  2  0  0  0
+ 10 11  1  0  0  0
+M  END
+> <s_m_entry_id>
+1904
+
+> <s_m_entry_name>
+NEW-myco-var2_54_lig_gen_fit_add_gna.sdf.2
+
+> <minimizedAffinity>
+-6.93781
+
+> <minimizedRMSD>
+0.5996
+
+> <CNNscore>
+0.7566005588
+
+> <CNNaffinity>
+4.6270017624
+
+> <CNN_VS>
+3.5007920265
+
+> <CNNaffinity_variance>
+0.2625069618
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+22
+
+> <s_user_SMILES>
+CC=C=C1C=2[C]3([C]124)=[C]56[C]34=[C]67C5=C7
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_54_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_54_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=CC1=C=C2C3=[C]4([C]56=[C]234)[C]57=[C]68C7=C8
+                    3D
+ Schrodinger Suite 2021-1.
+ 13 20  0  0  1  0            999 V2000
+  -22.7225  -22.9172    9.4344 C   0  0  0  0  0  0
+  -18.9689  -16.4204   12.2163 C   0  0  0  0  0  0
+  -22.8432  -18.4725   12.1371 C   0  0  0  0  0  0
+  -19.8895  -16.0974   13.3497 C   0  0  0  0  0  0
+  -22.4659  -21.0330   11.2571 C   0  0  0  0  0  0
+  -21.8263  -17.5625   12.7443 C   0  0  0  0  0  0
+  -20.5625  -16.9371   12.1818 C   0  0  0  0  0  0
+  -22.3415  -19.8846   11.8579 C   0  0  0  0  0  0
+  -21.7474  -18.9909   12.9583 C   0  0  0  0  0  0
+  -19.5133  -17.4153   12.9923 C   0  0  0  0  0  0
+  -22.5967  -22.1697   10.6364 C   0  0  0  0  0  0
+  -22.7276  -23.5847   10.6416 C   0  0  0  0  0  0
+  -20.5147  -18.3408   12.3550 C   0  0  0  0  0  0
+  1 11  1  0  0  0
+  1 12  2  0  0  0
+  2  4  2  0  0  0
+  2 10  1  0  0  0
+  3  6  2  0  0  0
+  3  8  1  0  0  0
+  3  9  1  0  0  0
+  4  7  1  0  0  0
+  4 10  1  0  0  0
+  5  8  2  0  0  0
+  5 11  2  0  0  0
+  6  7  1  0  0  0
+  6  9  1  0  0  0
+  6 13  1  0  0  0
+  7 10  2  0  0  0
+  7 13  1  0  0  0
+  8  9  1  0  0  0
+  9 13  2  0  0  0
+ 10 13  1  0  0  0
+ 11 12  1  0  0  0
+M  END
+> <s_m_entry_id>
+1905
+
+> <s_m_entry_name>
+NEW-myco-var2_54_lig_gen_fit_add_gna.sdf.6
+
+> <minimizedAffinity>
+-8.1952
+
+> <minimizedRMSD>
+0.48507
+
+> <CNNscore>
+0.673527956
+
+> <CNNaffinity>
+4.7661037445
+
+> <CNN_VS>
+3.2101042271
+
+> <CNNaffinity_variance>
+0.3483682573
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+23
+
+> <s_user_SMILES>
+C1=CC1=C=C2C3=[C]4([C]56=[C]234)[C]57=[C]68C7=C8
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_54_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_54_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C=C=C1C=C(C12)C=2/C=C\C3=CC3
+                    3D
+ Schrodinger Suite 2021-1.
+ 12 14  0  0  1  0            999 V2000
+  -24.1034  -19.5732   10.9139 C   0  0  0  0  0  0
+  -23.4591  -18.8057   11.8391 C   0  0  0  0  0  0
+  -22.8238  -20.4546   11.1368 C   0  0  0  0  0  0
+  -22.0066  -22.7758   10.2791 C   0  0  0  0  0  0
+  -22.3436  -19.4521   12.2843 C   0  0  0  0  0  0
+  -22.2593  -18.0656   12.1723 C   0  0  0  0  0  0
+  -22.4162  -21.6159   10.7054 C   0  0  0  0  0  0
+  -20.4416  -16.6435   13.1812 C   0  0  0  0  0  0
+  -21.6863  -16.7793   12.7351 C   0  0  0  0  0  0
+  -18.3068  -16.7678   12.0330 C   0  0  0  0  0  0
+  -19.3008  -17.4919   12.6995 C   0  0  0  0  0  0
+  -18.1096  -17.2387   13.3868 C   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  3  1  0  0  0
+  2  5  1  0  0  0
+  2  6  1  0  0  0
+  3  5  1  0  0  0
+  3  7  2  0  0  0
+  4  7  2  0  0  0
+  5  6  2  0  0  0
+  6  9  1  0  0  0
+  8 11  1  0  0  0
+  8  9  2  0  0  0
+ 10 11  2  0  0  0
+ 10 12  1  0  0  0
+ 11 12  1  0  0  0
+M  END
+> <s_m_entry_id>
+1906
+
+> <s_m_entry_name>
+NEW-myco-var2_54_lig_gen_fit_add_gna.sdf.8
+
+> <minimizedAffinity>
+-6.71976
+
+> <minimizedRMSD>
+0.249
+
+> <CNNscore>
+0.67438519
+
+> <CNNaffinity>
+4.5571389198
+
+> <CNN_VS>
+3.073266983
+
+> <CNNaffinity_variance>
+0.4177055955
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+24
+
+> <s_user_SMILES>
+C=C=C1C=C(C12)C=2/C=C\C3=CC3
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_54_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_54_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=2C(C2)C1=C=C3C(=[C]345)C4C=C5
+                    3D
+ Schrodinger Suite 2021-1.
+ 11 15  0  0  1  0            999 V2000
+  -23.3233   21.5784  -10.1182 C   0  0  0  0  0  0
+  -18.5899   17.8535  -13.6560 C   0  0  0  0  0  0
+  -22.8297   21.0162  -12.1403 C   0  0  0  0  0  0
+  -21.2188   18.9493  -13.0121 C   0  0  0  0  0  0
+  -19.6821   17.1738  -14.0471 C   0  0  0  0  0  0
+  -22.0708   21.6223  -10.9590 C   0  0  0  0  0  0
+  -22.2182   19.6887  -12.6141 C   0  0  0  0  0  0
+  -19.2764   16.9197  -12.7699 C   0  0  0  0  0  0
+  -20.2199   18.1426  -13.2881 C   0  0  0  0  0  0
+  -23.5488   19.7532  -11.8662 C   0  0  0  0  0  0
+  -24.0846   21.0308  -11.3119 C   0  0  0  0  0  0
+  1  6  2  0  0  0
+  1 11  1  0  0  0
+  2  5  2  0  0  0
+  2  8  1  0  0  0
+  3  6  1  0  0  0
+  3  7  1  0  0  0
+  3 10  2  0  0  0
+  3 11  1  0  0  0
+  4  7  2  0  0  0
+  4  9  2  0  0  0
+  5  8  1  0  0  0
+  5  9  1  0  0  0
+  7 10  1  0  0  0
+  8  9  1  0  0  0
+ 10 11  1  0  0  0
+M  END
+> <s_m_entry_id>
+1907
+
+> <s_m_entry_name>
+NEW-myco-var2_56_lig_gen_fit_add_gna.sdf.10
+
+> <minimizedAffinity>
+-7.18438
+
+> <minimizedRMSD>
+0.33564
+
+> <CNNscore>
+0.8239941597
+
+> <CNNaffinity>
+4.6133890152
+
+> <CNN_VS>
+3.8014056683
+
+> <CNNaffinity_variance>
+0.3282490373
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var2-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+25
+
+> <s_user_SMILES>
+C1=2C(C2)C1=C=C3C(=[C]345)C4C=C5
+
+> <s_m_subgroup_title>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_56_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var2-wnowymzakresie-myco->NEW-myco-var2_56_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=2C(C2)=C1CC=3[C]=4([C]356)[C]5(C4)=[C]67C=8C7C8
+                    3D
+ Schrodinger Suite 2021-1.
+ 14 21  0  0  1  0            999 V2000
+  -23.1699  -21.5415    9.9383 C   0  0  0  0  0  0
+  -23.9987  -19.0259   11.6119 C   0  0  0  0  0  0
+  -22.5976  -19.4646   11.6913 C   0  0  0  0  0  0
+  -23.7463  -20.4973   11.9390 C   0  0  0  0  0  0
+  -22.8713  -22.8728   10.4179 C   0  0  0  0  0  0
+  -22.4469  -20.7771   12.4803 C   0  0  0  0  0  0
+  -23.0201  -21.7702   11.3649 C   0  0  0  0  0  0
+  -21.8356  -21.8719   10.5268 C   0  0  0  0  0  0
+  -21.7782  -19.4409   12.9009 C   0  0  0  0  0  0
+  -20.2750  -19.4781   12.7122 C   0  0  0  0  0  0
+  -19.8996  -16.7837   13.3284 C   0  0  0  0  0  0
+  -18.9302  -17.0316   12.3874 C   0  0  0  0  0  0
+  -18.7022  -17.4537   13.7218 C   0  0  0  0  0  0
+  -19.6293  -18.1360   12.9664 C   0  0  0  0  0  0
+  1  5  2  0  0  0
+  1  7  1  0  0  0
+  1  8  1  0  0  0
+  2  3  2  0  0  0
+  2  4  1  0  0  0
+  3  4  1  0  0  0
+  3  6  1  0  0  0
+  3  9  1  0  0  0
+  4  6  1  0  0  0
+  4  7  2  0  0  0
+  5  8  1  0  0  0
+  6  7  1  0  0  0
+  6  9  2  0  0  0
+  7  8  1  0  0  0
+  9 10  1  0  0  0
+ 10 14  1  0  0  0
+ 11 12  2  0  0  0
+ 11 13  1  0  0  0
+ 12 13  1  0  0  0
+ 12 14  1  0  0  0
+ 13 14  2  0  0  0
+M  END
+> <s_m_entry_id>
+1908
+
+> <s_m_entry_name>
+NEW-myco-var1_32_lig_gen_fit_add_gna.sdf.5
+
+> <minimizedAffinity>
+-7.05715
+
+> <minimizedRMSD>
+0.54929
+
+> <CNNscore>
+0.6270391941
+
+> <CNNaffinity>
+4.9660978317
+
+> <CNN_VS>
+3.1139380932
+
+> <CNNaffinity_variance>
+0.3858497739
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+1
+
+> <s_user_SMILES>
+C1=2C(C2)=C1CC=3[C]=4([C]356)[C]5(C4)=[C]67C=8C7C8
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_32_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_32_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=2C(C2)C1=C=C3C=C4C3=[C]45C6=C5C6
+                    3D
+ Schrodinger Suite 2021-1.
+ 13 18  0  0  1  0            999 V2000
+  -18.7868  -17.8098   13.7224 C   0  0  0  0  0  0
+  -22.3983  -19.4127   12.2576 C   0  0  0  0  0  0
+  -21.7326  -21.7547   10.6917 C   0  0  0  0  0  0
+  -24.0668  -20.6502   11.5584 C   0  0  0  0  0  0
+  -23.0835  -21.8115   11.1890 C   0  0  0  0  0  0
+  -23.6450  -19.2126   11.4513 C   0  0  0  0  0  0
+  -19.6981  -16.9125   13.3396 C   0  0  0  0  0  0
+  -21.3413  -18.7182   12.5796 C   0  0  0  0  0  0
+  -20.2627  -18.0245   12.8504 C   0  0  0  0  0  0
+  -18.8919  -17.3597   12.3227 C   0  0  0  0  0  0
+  -22.9106  -21.5072    9.7774 C   0  0  0  0  0  0
+  -22.5844  -22.8375   10.2379 C   0  0  0  0  0  0
+  -22.8798  -20.8514   12.4002 C   0  0  0  0  0  0
+  1  7  2  0  0  0
+  1 10  1  0  0  0
+  2  6  1  0  0  0
+  2  8  2  0  0  0
+  2 13  1  0  0  0
+  3  5  1  0  0  0
+  3 11  2  0  0  0
+  3 12  1  0  0  0
+  4  5  1  0  0  0
+  4  6  2  0  0  0
+  4 13  1  0  0  0
+  5 11  1  0  0  0
+  5 13  2  0  0  0
+  7  9  1  0  0  0
+  7 10  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 11 12  1  0  0  0
+M  END
+> <s_m_entry_id>
+1909
+
+> <s_m_entry_name>
+NEW-myco-var1_32_lig_gen_fit_add_gna.sdf.8
+
+> <minimizedAffinity>
+-7.28452
+
+> <minimizedRMSD>
+0.87318
+
+> <CNNscore>
+0.6807971001
+
+> <CNNaffinity>
+4.8268499374
+
+> <CNN_VS>
+3.2861053944
+
+> <CNNaffinity_variance>
+0.3525207639
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+2
+
+> <s_user_SMILES>
+C1=2C(C2)C1=C=C3C=C4C3=[C]45C6=C5C6
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_32_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_32_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=2C(C2)=C1C=CCC3=C4[C]5(C346)[C]6=7C=5C7
+                    3D
+ Schrodinger Suite 2021-1.
+ 14 20  0  0  1  0            999 V2000
+  -22.1544  -22.7620   10.0807 C   0  0  0  0  0  0
+  -23.4707  -20.7890   10.4472 C   0  0  0  0  0  0
+  -23.3631  -22.2929   10.8702 C   0  0  0  0  0  0
+  -23.0339  -21.1527   11.8448 C   0  0  0  0  0  0
+  -21.8737  -23.7502    8.9933 C   0  0  0  0  0  0
+  -23.3295  -21.9181    9.4645 C   0  0  0  0  0  0
+  -22.0754  -22.2531    8.6850 C   0  0  0  0  0  0
+  -21.5675  -20.8072   12.1855 C   0  0  0  0  0  0
+  -21.4131  -19.3651   12.5719 C   0  0  0  0  0  0
+  -20.1944  -18.8423   12.6944 C   0  0  0  0  0  0
+  -19.0891  -16.3425   12.5320 C   0  0  0  0  0  0
+  -20.4240  -16.0497   12.6874 C   0  0  0  0  0  0
+  -19.6675  -16.4094   13.8347 C   0  0  0  0  0  0
+  -19.9816  -17.3895   12.9207 C   0  0  0  0  0  0
+  1  3  1  0  0  0
+  1  5  2  0  0  0
+  1  6  1  0  0  0
+  1  7  1  0  0  0
+  2  3  1  0  0  0
+  2  4  2  0  0  0
+  2  6  1  0  0  0
+  3  4  1  0  0  0
+  3  6  1  0  0  0
+  4  8  1  0  0  0
+  5  7  1  0  0  0
+  6  7  2  0  0  0
+  8  9  1  0  0  0
+  9 10  2  0  0  0
+ 10 14  1  0  0  0
+ 11 12  2  0  0  0
+ 11 13  1  0  0  0
+ 12 13  1  0  0  0
+ 12 14  1  0  0  0
+ 13 14  2  0  0  0
+M  END
+> <s_m_entry_id>
+1910
+
+> <s_m_entry_name>
+NEW-myco-var1_32_lig_gen_fit_add_gna.sdf.9
+
+> <minimizedAffinity>
+-6.78749
+
+> <minimizedRMSD>
+0.94122
+
+> <CNNscore>
+0.5110779405
+
+> <CNNaffinity>
+4.7008972168
+
+> <CNN_VS>
+2.4025249481
+
+> <CNNaffinity_variance>
+0.3155714869
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+3
+
+> <s_user_SMILES>
+C1=2C(C2)=C1C=CCC3=C4[C]5(C346)[C]6=7C=5C7
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_32_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_32_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=CC1=C=C2C(C2=3)C3C4C5=C([C]45=6)C6
+                    3D
+ Schrodinger Suite 2021-1.
+ 13 18  0  0  1  0            999 V2000
+  -23.1129   21.4901  -11.3192 C   0  0  0  0  0  0
+  -19.6742   16.3022  -12.6516 C   0  0  0  0  0  0
+  -23.3840   20.0225  -11.5597 C   0  0  0  0  0  0
+  -20.8301   15.5560  -12.5561 C   0  0  0  0  0  0
+  -21.5777   18.0670  -12.2651 C   0  0  0  0  0  0
+  -20.9092   16.9686  -12.4431 C   0  0  0  0  0  0
+  -22.2788   20.6924  -12.2500 C   0  0  0  0  0  0
+  -22.2004   19.1908  -12.0739 C   0  0  0  0  0  0
+  -22.3937   22.5271   -7.5819 C   0  0  0  0  0  0
+  -22.2918   21.9121  -10.1033 C   0  0  0  0  0  0
+  -22.4400   23.4105   -9.9199 C   0  0  0  0  0  0
+  -23.0672   22.4910   -8.9286 C   0  0  0  0  0  0
+  -22.3024   23.7537   -8.4596 C   0  0  0  0  0  0
+  1  3  2  0  0  0
+  1 10  1  0  0  0
+  1  7  1  0  0  0
+  2  4  2  0  0  0
+  2  6  1  0  0  0
+  3  7  1  0  0  0
+  3  8  1  0  0  0
+  4  6  1  0  0  0
+  5  6  2  0  0  0
+  5  8  2  0  0  0
+  7  8  1  0  0  0
+  9 12  2  0  0  0
+  9 13  1  0  0  0
+ 10 11  1  0  0  0
+ 10 12  1  0  0  0
+ 11 12  1  0  0  0
+ 11 13  2  0  0  0
+ 12 13  1  0  0  0
+M  END
+> <s_m_entry_id>
+1911
+
+> <s_m_entry_name>
+NEW-myco-var1_35_lig_gen_fit_add_gna.sdf.5
+
+> <minimizedAffinity>
+-7.23837
+
+> <minimizedRMSD>
+0.69787
+
+> <CNNscore>
+0.7006853819
+
+> <CNNaffinity>
+4.740486145
+
+> <CNN_VS>
+3.3215892315
+
+> <CNNaffinity_variance>
+0.1338193119
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+4
+
+> <s_user_SMILES>
+C1=CC1=C=C2C(C2=3)C3C4C5=C([C]45=6)C6
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_35_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_35_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=C2[C]13=[C]45[C]23=C4C6=C7[C]8(=[C]567)[C]=19C8=C9C1
+                    3D
+ Schrodinger Suite 2021-1.
+ 14 23  0  0  1  0            999 V2000
+  -23.3695  -20.8026   11.6402 C   0  0  0  0  0  0
+  -23.3509  -18.2159   11.9154 C   0  0  0  0  0  0
+  -20.2287  -17.5622   12.0980 C   0  0  0  0  0  0
+  -22.7917  -21.3537   10.4924 C   0  0  0  0  0  0
+  -22.6223  -19.4631   11.5369 C   0  0  0  0  0  0
+  -21.0357  -18.2148   13.2735 C   0  0  0  0  0  0
+  -22.9317  -22.5134    9.7352 C   0  0  0  0  0  0
+  -20.4340  -18.9580   12.2834 C   0  0  0  0  0  0
+  -23.2188  -22.4274   11.2842 C   0  0  0  0  0  0
+  -19.4089  -18.4053   13.0194 C   0  0  0  0  0  0
+  -22.5698  -18.0760   13.2017 C   0  0  0  0  0  0
+  -24.1458  -21.5266   10.4559 C   0  0  0  0  0  0
+  -21.8007  -19.3663   12.8297 C   0  0  0  0  0  0
+  -24.1413  -19.4640   11.7077 C   0  0  0  0  0  0
+  1  4  1  0  0  0
+  1  5  2  0  0  0
+  1 12  1  0  0  0
+  1 14  1  0  0  0
+  2  5  1  0  0  0
+  2 11  1  0  0  0
+  2 14  2  0  0  0
+  3  6  1  0  0  0
+  3  8  1  0  0  0
+  3 10  2  0  0  0
+  4  7  2  0  0  0
+  4  9  1  0  0  0
+  4 12  1  0  0  0
+  5 13  1  0  0  0
+  5 14  1  0  0  0
+  6  8  1  0  0  0
+  6 11  2  0  0  0
+  6 13  1  0  0  0
+  7  9  1  0  0  0
+  8 10  1  0  0  0
+  8 13  2  0  0  0
+  9 12  2  0  0  0
+ 11 13  1  0  0  0
+M  END
+> <s_m_entry_id>
+1912
+
+> <s_m_entry_name>
+NEW-myco-var1_37_lig_gen_fit_add_gna.sdf.4
+
+> <minimizedAffinity>
+-6.70543
+
+> <minimizedRMSD>
+1.28208
+
+> <CNNscore>
+0.6352576613
+
+> <CNNaffinity>
+4.7425460815
+
+> <CNN_VS>
+3.0127387047
+
+> <CNNaffinity_variance>
+0.3515120149
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+5
+
+> <s_user_SMILES>
+C1=C2[C]13=[C]45[C]23=C4C6=C7[C]8(=[C]567)[C]=19C8=C9C1
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_37_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_37_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=C2[C]1(=[C]234)C4=C3C(=C5)[C]56=C7[C]=8(C679)C9=CC8
+                    3D
+ Schrodinger Suite 2021-1.
+ 15 23  0  0  1  0            999 V2000
+  -24.2150  -18.7267   11.6483 C   0  0  0  0  0  0
+  -22.6650  -18.9412   11.7783 C   0  0  0  0  0  0
+  -23.6738  -20.7507    9.3501 C   0  0  0  0  0  0
+  -23.9681  -21.0612   10.7623 C   0  0  0  0  0  0
+  -24.8341  -19.8943   10.8555 C   0  0  0  0  0  0
+  -21.8329  -19.5193   12.7764 C   0  0  0  0  0  0
+  -22.5224  -18.2741   13.0245 C   0  0  0  0  0  0
+  -24.5253  -19.6660    9.3891 C   0  0  0  0  0  0
+  -23.6910  -20.0820   11.8586 C   0  0  0  0  0  0
+  -18.5727  -17.0985   13.4568 C   0  0  0  0  0  0
+  -19.9008  -17.8194   12.7937 C   0  0  0  0  0  0
+  -18.9256  -16.8371   12.0328 C   0  0  0  0  0  0
+  -19.7533  -16.4752   13.1158 C   0  0  0  0  0  0
+  -21.1354  -17.1158   13.1638 C   0  0  0  0  0  0
+  -21.2175  -18.1841   12.0401 C   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  5  1  0  0  0
+  1  9  1  0  0  0
+  2  6  1  0  0  0
+  2  7  1  0  0  0
+  2  9  1  0  0  0
+  3  4  2  0  0  0
+  3  8  1  0  0  0
+  4  5  1  0  0  0
+  4  9  1  0  0  0
+  5  8  2  0  0  0
+  5  9  1  0  0  0
+  6  7  2  0  0  0
+  6 15  1  0  0  0
+ 10 12  2  0  0  0
+ 10 13  1  0  0  0
+ 11 12  1  0  0  0
+ 11 13  2  0  0  0
+ 11 14  1  0  0  0
+ 11 15  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  1  0  0  0
+ 14 15  2  0  0  0
+M  END
+> <s_m_entry_id>
+1913
+
+> <s_m_entry_name>
+NEW-myco-var1_37_lig_gen_fit_add_gna.sdf.6
+
+> <minimizedAffinity>
+-8.43537
+
+> <minimizedRMSD>
+2.14647
+
+> <CNNscore>
+0.7271277905
+
+> <CNNaffinity>
+5.0265803337
+
+> <CNN_VS>
+3.6549663544
+
+> <CNNaffinity_variance>
+0.5993410945
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+6
+
+> <s_user_SMILES>
+C1=C2[C]1(=[C]234)C4=C3C(=C5)[C]56=C7[C]=8(C679)C9=CC8
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_37_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_37_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=C2C(=[C]123)C3=C=C4C(C45)C=5CC
+                    3D
+ Schrodinger Suite 2021-1.
+ 12 16  0  0  1  0            999 V2000
+  -19.7679  -17.0089   13.6126 C   0  0  0  0  0  0
+  -25.2276  -19.4078   11.3677 C   0  0  0  0  0  0
+  -24.2805  -20.4770   11.1700 C   0  0  0  0  0  0
+  -19.4867  -16.4913   12.2434 C   0  0  0  0  0  0
+  -21.0116  -16.4778   12.6316 C   0  0  0  0  0  0
+  -20.2756  -17.6218   12.5026 C   0  0  0  0  0  0
+  -24.4263  -19.4596   10.1456 C   0  0  0  0  0  0
+  -22.8105  -18.3581   11.9660 C   0  0  0  0  0  0
+  -23.7914  -19.0543   11.4009 C   0  0  0  0  0  0
+  -21.7782  -17.7301   12.4553 C   0  0  0  0  0  0
+  -24.9583  -21.7337   10.5564 C   0  0  0  0  0  0
+  -24.0399  -22.3513    9.5073 C   0  0  0  0  0  0
+  1  4  2  0  0  0
+  1  6  1  0  0  0
+  2  3  2  0  0  0
+  2  7  1  0  0  0
+  2  9  1  0  0  0
+  3 11  1  0  0  0
+  3  7  1  0  0  0
+  4  5  1  0  0  0
+  4  6  1  0  0  0
+  5  6  2  0  0  0
+  5 10  1  0  0  0
+  6 10  1  0  0  0
+  7  9  1  0  0  0
+  8  9  2  0  0  0
+  8 10  2  0  0  0
+ 11 12  1  0  0  0
+M  END
+> <s_m_entry_id>
+1914
+
+> <s_m_entry_name>
+NEW-myco-var1_37_lig_gen_fit_add_gna.sdf.7
+
+> <minimizedAffinity>
+-7.21852
+
+> <minimizedRMSD>
+0.35755
+
+> <CNNscore>
+0.7979838252
+
+> <CNNaffinity>
+4.6383094788
+
+> <CNN_VS>
+3.7012958527
+
+> <CNNaffinity_variance>
+0.3919833302
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+7
+
+> <s_user_SMILES>
+C1=C2C(=[C]123)C3=C=C4C(C45)C=5CC
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_37_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_37_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1C2[C]=13C4=[C]5([C]=234)C6=C5C=C6C7=C([C]7=89)C9C8
+                    3D
+ Schrodinger Suite 2021-1.
+ 15 23  0  0  1  0            999 V2000
+  -21.7480   21.3635  -11.8269 C   0  0  0  0  0  0
+  -21.3187   17.1172  -13.0814 C   0  0  0  0  0  0
+  -21.1045   17.9780  -12.0275 C   0  0  0  0  0  0
+  -21.6054   18.7471  -13.0700 C   0  0  0  0  0  0
+  -22.8752   20.4062  -11.5862 C   0  0  0  0  0  0
+  -20.6707   19.4163  -12.2214 C   0  0  0  0  0  0
+  -22.4643   17.6811  -12.3006 C   0  0  0  0  0  0
+  -23.6774   20.6430  -10.6194 C   0  0  0  0  0  0
+  -22.7268   21.8802  -10.6653 C   0  0  0  0  0  0
+  -21.8750   20.2378  -12.6965 C   0  0  0  0  0  0
+  -22.0452   22.6148   -6.8412 C   0  0  0  0  0  0
+  -22.7317   22.6941   -8.1776 C   0  0  0  0  0  0
+  -22.1030   23.9465   -7.5634 C   0  0  0  0  0  0
+  -22.0477   23.7175   -9.0795 C   0  0  0  0  0  0
+  -21.9516   22.2188   -9.3756 C   0  0  0  0  0  0
+  1  5  2  0  0  0
+  1  9  1  0  0  0
+  1 10  1  0  0  0
+  2  3  2  0  0  0
+  2  7  1  0  0  0
+  3  4  1  0  0  0
+  3  6  1  0  0  0
+  3  7  1  0  0  0
+  4  6  1  0  0  0
+  4  7  2  0  0  0
+  4 10  1  0  0  0
+  5  8  1  0  0  0
+  5 10  1  0  0  0
+  6 10  2  0  0  0
+  8  9  2  0  0  0
+  9 15  1  0  0  0
+ 11 12  2  0  0  0
+ 11 13  1  0  0  0
+ 12 13  1  0  0  0
+ 12 14  1  0  0  0
+ 12 15  1  0  0  0
+ 13 14  1  0  0  0
+ 14 15  2  0  0  0
+M  END
+> <s_m_entry_id>
+1915
+
+> <s_m_entry_name>
+NEW-myco-var1_38_lig_gen_fit_add_gna.sdf.1
+
+> <minimizedAffinity>
+-6.7717
+
+> <minimizedRMSD>
+0.54833
+
+> <CNNscore>
+0.4387739003
+
+> <CNNaffinity>
+4.9411687851
+
+> <CNN_VS>
+2.1680560112
+
+> <CNNaffinity_variance>
+0.1581810415
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+8
+
+> <s_user_SMILES>
+C1C2[C]=13C4=[C]5([C]=234)C6=C5C=C6C7=C([C]7=89)C9C8
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_38_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_38_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=2C(C2)=C1C3=C4C=5[C]6([C]345)[C]78=[C]9(C=67)C8=C9
+                    3D
+ Schrodinger Suite 2021-1.
+ 14 22  0  0  1  0            999 V2000
+  -24.0726   21.9114  -10.2427 C   0  0  0  0  0  0
+  -22.0008   17.9721  -13.1586 C   0  0  0  0  0  0
+  -21.1669   19.0847  -12.9573 C   0  0  0  0  0  0
+  -21.8221   20.4239  -12.7510 C   0  0  0  0  0  0
+  -22.9412   22.9254  -10.5572 C   0  0  0  0  0  0
+  -23.2493   21.7150  -11.4910 C   0  0  0  0  0  0
+  -23.7268   20.5289  -10.7506 C   0  0  0  0  0  0
+  -22.3407   19.2030  -12.1776 C   0  0  0  0  0  0
+  -22.2879   20.5222  -11.3170 C   0  0  0  0  0  0
+  -21.0761   18.1014  -12.0041 C   0  0  0  0  0  0
+  -22.6372   23.5392   -9.0256 C   0  0  0  0  0  0
+  -21.6803   22.5938   -9.4803 C   0  0  0  0  0  0
+  -21.6926   23.8509  -10.0343 C   0  0  0  0  0  0
+  -21.3001   23.6911   -8.6583 C   0  0  0  0  0  0
+  1  5  2  0  0  0
+  1  6  1  0  0  0
+  1  7  1  0  0  0
+  2  3  1  0  0  0
+  2  8  1  0  0  0
+  2 10  2  0  0  0
+  3  4  1  0  0  0
+  3  8  2  0  0  0
+  3 10  1  0  0  0
+  4  8  1  0  0  0
+  4  9  2  0  0  0
+  5 12  1  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  6  9  1  0  0  0
+  7  9  1  0  0  0
+  8  9  1  0  0  0
+ 11 12  2  0  0  0
+ 11 13  1  0  0  0
+ 11 14  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  2  0  0  0
+M  END
+> <s_m_entry_id>
+1916
+
+> <s_m_entry_name>
+NEW-myco-var1_39_lig_gen_fit_add_gna.sdf.1
+
+> <minimizedAffinity>
+-6.51212
+
+> <minimizedRMSD>
+0.95202
+
+> <CNNscore>
+0.5416471362
+
+> <CNNaffinity>
+4.746594429
+
+> <CNN_VS>
+2.5709793568
+
+> <CNNaffinity_variance>
+0.2795992196
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+9
+
+> <s_user_SMILES>
+C1=2C(C2)=C1C3=C4C=5[C]6([C]345)[C]78=[C]9(C=67)C8=C9
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_39_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_39_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=2C(C2)=C1C3C(C4=C56)=[C]34[C]6(=[C]578)[C]8=9C7=CC9
+                    3D
+ Schrodinger Suite 2021-1.
+ 15 23  0  0  1  0            999 V2000
+  -20.1907   17.9308  -12.6330 C   0  0  0  0  0  0
+  -21.4367   18.6134  -12.1737 C   0  0  0  0  0  0
+  -22.0114   21.3277  -10.7923 C   0  0  0  0  0  0
+  -21.6094   19.9568  -12.7946 C   0  0  0  0  0  0
+  -23.2985   20.8233  -10.7948 C   0  0  0  0  0  0
+  -20.6292   19.6694  -11.6674 C   0  0  0  0  0  0
+  -21.1771   21.0835  -11.9513 C   0  0  0  0  0  0
+  -22.6245   20.9638  -12.2562 C   0  0  0  0  0  0
+  -22.9981   22.2201  -11.3304 C   0  0  0  0  0  0
+  -22.5053   22.1183   -9.7719 C   0  0  0  0  0  0
+  -19.4311   19.0486  -12.2895 C   0  0  0  0  0  0
+  -20.9316   23.3034   -8.1096 C   0  0  0  0  0  0
+  -21.5818   23.3081   -9.4791 C   0  0  0  0  0  0
+  -22.0653   24.2832   -8.4218 C   0  0  0  0  0  0
+  -20.9389   24.6860   -7.4960 C   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1 11  1  0  0  0
+  2  4  1  0  0  0
+  2  6  1  0  0  0
+  3  5  1  0  0  0
+  3  7  1  0  0  0
+  3  9  2  0  0  0
+  3 10  1  0  0  0
+  4  6  1  0  0  0
+  4  7  2  0  0  0
+  4  8  1  0  0  0
+  5  8  2  0  0  0
+  5  9  1  0  0  0
+  6  7  1  0  0  0
+  6 11  2  0  0  0
+  7  8  1  0  0  0
+  9 10  1  0  0  0
+ 10 13  1  0  0  0
+ 12 13  2  0  0  0
+ 12 14  1  0  0  0
+ 12 15  1  0  0  0
+ 13 14  1  0  0  0
+ 14 15  2  0  0  0
+M  END
+> <s_m_entry_id>
+1917
+
+> <s_m_entry_name>
+NEW-myco-var1_39_lig_gen_fit_add_gna.sdf.2
+
+> <minimizedAffinity>
+-6.58464
+
+> <minimizedRMSD>
+1.43776
+
+> <CNNscore>
+0.4900094271
+
+> <CNNaffinity>
+4.7294812202
+
+> <CNN_VS>
+2.3174903393
+
+> <CNNaffinity_variance>
+0.2311654985
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+10
+
+> <s_user_SMILES>
+C1=2C(C2)=C1C3C(C4=C56)=[C]34[C]6(=[C]578)[C]8=9C7=CC9
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_39_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_39_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+CCC(CC)=C=C1C2[C]3(=[C]124)C4=C3
+                    3D
+ Schrodinger Suite 2021-1.
+ 12 15  0  0  1  0            999 V2000
+  -18.3445   16.7505  -12.5304 C   0  0  0  0  0  0
+  -18.8950   17.9597  -13.2117 C   0  0  0  0  0  0
+  -19.8909   17.2393  -12.2264 C   0  0  0  0  0  0
+  -23.0222   19.6934  -11.7577 C   0  0  0  0  0  0
+  -19.4225   16.6562  -13.3862 C   0  0  0  0  0  0
+  -21.2970   17.8108  -12.3105 C   0  0  0  0  0  0
+  -20.8642   16.5008  -12.9380 C   0  0  0  0  0  0
+  -22.1705   18.7413  -12.0466 C   0  0  0  0  0  0
+  -24.3990   19.3384  -11.2586 C   0  0  0  0  0  0
+  -24.5406   19.6320   -9.7689 C   0  0  0  0  0  0
+  -21.3305   21.4604  -11.2086 C   0  0  0  0  0  0
+  -22.6204   21.1327  -11.9561 C   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  5  1  0  0  0
+  2  3  1  0  0  0
+  2  5  1  0  0  0
+  3  5  2  0  0  0
+  3  6  1  0  0  0
+  3  7  1  0  0  0
+  4  9  1  0  0  0
+  4  8  2  0  0  0
+  4 12  1  0  0  0
+  5  7  1  0  0  0
+  6  7  1  0  0  0
+  6  8  2  0  0  0
+  9 10  1  0  0  0
+ 11 12  1  0  0  0
+M  END
+> <s_m_entry_id>
+1918
+
+> <s_m_entry_name>
+NEW-myco-var1_39_lig_gen_fit_add_gna.sdf.4
+
+> <minimizedAffinity>
+-6.62312
+
+> <minimizedRMSD>
+1.25351
+
+> <CNNscore>
+0.6684669256
+
+> <CNNaffinity>
+4.6274118423
+
+> <CNN_VS>
+3.0932717323
+
+> <CNNaffinity_variance>
+0.4777771831
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+11
+
+> <s_user_SMILES>
+CCC(CC)=C=C1C2[C]3(=[C]124)C4=C3
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_39_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_39_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+CCC[C]1(C2)=C3[C]1=2[C]34[C]56=[C]7(C=45)C6=C7
+                    3D
+ Schrodinger Suite 2021-1.
+ 13 19  0  0  1  0            999 V2000
+  -22.9303   20.3077  -11.8045 C   0  0  0  0  0  0
+  -21.2636   18.7829  -12.8963 C   0  0  0  0  0  0
+  -21.5548   20.2167  -12.4224 C   0  0  0  0  0  0
+  -20.1355   16.5105  -13.2771 C   0  0  0  0  0  0
+  -20.3426   17.7122  -12.2848 C   0  0  0  0  0  0
+  -19.1751   17.5127  -13.0007 C   0  0  0  0  0  0
+  -19.7372   18.9068  -12.8035 C   0  0  0  0  0  0
+  -22.1194   19.0422  -11.6654 C   0  0  0  0  0  0
+  -19.2404   16.4942  -12.0816 C   0  0  0  0  0  0
+  -23.6187   18.9540  -11.8594 C   0  0  0  0  0  0
+  -22.9352   21.0334  -10.4492 C   0  0  0  0  0  0
+  -22.4256   23.5212  -10.4855 C   0  0  0  0  0  0
+  -23.5083   22.4514  -10.6045 C   0  0  0  0  0  0
+  1  3  2  0  0  0
+  1 11  1  0  0  0
+  1  8  1  0  0  0
+  1 10  1  0  0  0
+  2  3  1  0  0  0
+  2  5  1  0  0  0
+  2  7  2  0  0  0
+  2  8  1  0  0  0
+  3  8  1  0  0  0
+  4  5  1  0  0  0
+  4  6  1  0  0  0
+  4  9  2  0  0  0
+  5  6  2  0  0  0
+  5  7  1  0  0  0
+  6  7  1  0  0  0
+  6  9  1  0  0  0
+  8 10  2  0  0  0
+ 11 13  1  0  0  0
+ 12 13  1  0  0  0
+M  END
+> <s_m_entry_id>
+1919
+
+> <s_m_entry_name>
+NEW-myco-var1_39_lig_gen_fit_add_gna.sdf.9
+
+> <minimizedAffinity>
+-6.56035
+
+> <minimizedRMSD>
+1.68521
+
+> <CNNscore>
+0.6803489327
+
+> <CNNaffinity>
+4.8110647202
+
+> <CNN_VS>
+3.2732026577
+
+> <CNNaffinity_variance>
+0.3245331049
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+12
+
+> <s_user_SMILES>
+CCC[C]1(C2)=C3[C]1=2[C]34[C]56=[C]7(C=45)C6=C7
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_39_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_39_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+CC=CC1=C(C1=2)C2C3=C4[C]5(=[C]346)C6=C5
+                    3D
+ Schrodinger Suite 2021-1.
+ 13 18  0  0  1  0            999 V2000
+  -22.4434   21.4928  -11.7842 C   0  0  0  0  0  0
+  -22.6597   19.9911  -11.8870 C   0  0  0  0  0  0
+  -21.5532   19.2837  -12.7653 C   0  0  0  0  0  0
+  -21.2633   20.5878  -11.9070 C   0  0  0  0  0  0
+  -19.4146   16.9924  -13.5321 C   0  0  0  0  0  0
+  -20.5090   17.9639  -12.7612 C   0  0  0  0  0  0
+  -19.5378   16.6919  -12.1177 C   0  0  0  0  0  0
+  -20.6655   16.6668  -12.9663 C   0  0  0  0  0  0
+  -21.5602   17.8615  -13.6621 C   0  0  0  0  0  0
+  -21.7946   17.7233  -12.2178 C   0  0  0  0  0  0
+  -22.6803   22.0611  -10.4192 C   0  0  0  0  0  0
+  -21.8678   23.0010   -9.9247 C   0  0  0  0  0  0
+  -22.0552   23.5268   -8.5382 C   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1 11  1  0  0  0
+  1  4  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  3  4  2  0  0  0
+  3 10  1  0  0  0
+  5  6  1  0  0  0
+  5  7  2  0  0  0
+  5  8  1  0  0  0
+  6  8  2  0  0  0
+  6  9  1  0  0  0
+  6 10  1  0  0  0
+  7  8  1  0  0  0
+  8  9  1  0  0  0
+  9 10  2  0  0  0
+ 11 12  2  0  0  0
+ 12 13  1  0  0  0
+M  END
+> <s_m_entry_id>
+1920
+
+> <s_m_entry_name>
+NEW-myco-var1_40_lig_gen_fit_add_gna.sdf.3
+
+> <minimizedAffinity>
+-6.95659
+
+> <minimizedRMSD>
+2.92883
+
+> <CNNscore>
+0.6159273982
+
+> <CNNaffinity>
+4.6247878075
+
+> <CNN_VS>
+2.8485336304
+
+> <CNNaffinity_variance>
+0.4287951887
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+13
+
+> <s_user_SMILES>
+CC=CC1=C(C1=2)C2C3=C4[C]5(=[C]346)C6=C5
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_40_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_40_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+CC=C=C1C(=C1)C2=C3[C]=4([C]235)C=5C4
+                    3D
+ Schrodinger Suite 2021-1.
+ 12 16  0  0  1  0            999 V2000
+  -23.8914   21.9688  -10.3961 C   0  0  0  0  0  0
+  -22.2202   19.3827  -12.3231 C   0  0  0  0  0  0
+  -22.4908   20.5793  -11.8350 C   0  0  0  0  0  0
+  -22.0497   18.5731  -13.4921 C   0  0  0  0  0  0
+  -22.5553   17.9946  -12.3448 C   0  0  0  0  0  0
+  -22.7603   21.7619  -11.3522 C   0  0  0  0  0  0
+  -18.5188   17.9944  -12.3837 C   0  0  0  0  0  0
+  -18.2240   17.0433  -13.3299 C   0  0  0  0  0  0
+  -18.8946   16.6715  -12.0435 C   0  0  0  0  0  0
+  -19.7356   17.6315  -12.9729 C   0  0  0  0  0  0
+  -20.9642   18.3119  -12.2676 C   0  0  0  0  0  0
+  -19.6189   19.0120  -12.5684 C   0  0  0  0  0  0
+  1  6  1  0  0  0
+  2  3  2  0  0  0
+  2  4  1  0  0  0
+  2  5  1  0  0  0
+  3  6  2  0  0  0
+  4 11  1  0  0  0
+  4  5  2  0  0  0
+  7  8  2  0  0  0
+  7  9  1  0  0  0
+  7 10  1  0  0  0
+  7 12  1  0  0  0
+  8  9  1  0  0  0
+  9 10  2  0  0  0
+ 10 11  1  0  0  0
+ 10 12  1  0  0  0
+ 11 12  2  0  0  0
+M  END
+> <s_m_entry_id>
+1921
+
+> <s_m_entry_name>
+NEW-myco-var1_40_lig_gen_fit_add_gna.sdf.7
+
+> <minimizedAffinity>
+-7.26958
+
+> <minimizedRMSD>
+0.29115
+
+> <CNNscore>
+0.671336174
+
+> <CNNaffinity>
+4.5495634079
+
+> <CNN_VS>
+3.0542864799
+
+> <CNNaffinity_variance>
+0.3925719857
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+14
+
+> <s_user_SMILES>
+CC=C=C1C(=C1)C2=C3[C]=4([C]235)C=5C4
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_40_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_40_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+CC=C=C1C=C(C=23)C1=[C]34C5([C]246)C6=C5
+                    3D
+ Schrodinger Suite 2021-1.
+ 13 18  0  0  1  0            999 V2000
+  -18.2171   17.5504  -13.6996 C   0  0  0  0  0  0
+  -18.5061   16.5992  -12.5874 C   0  0  0  0  0  0
+  -22.2781   19.6786  -12.0472 C   0  0  0  0  0  0
+  -19.7545   17.3059  -13.2106 C   0  0  0  0  0  0
+  -24.3174   22.1694  -10.4377 C   0  0  0  0  0  0
+  -22.1033   18.0416  -13.3193 C   0  0  0  0  0  0
+  -22.6874   20.8596  -11.6719 C   0  0  0  0  0  0
+  -18.7890   17.9936  -12.5149 C   0  0  0  0  0  0
+  -20.2554   18.2177  -12.1358 C   0  0  0  0  0  0
+  -21.1185   17.1247  -12.5663 C   0  0  0  0  0  0
+  -21.2096   19.1380  -12.8518 C   0  0  0  0  0  0
+  -23.1079   22.0373  -11.3016 C   0  0  0  0  0  0
+  -22.9206   18.3326  -12.2358 C   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  8  1  0  0  0
+  2  4  1  0  0  0
+  2  8  1  0  0  0
+  3  7  2  0  0  0
+  3 11  1  0  0  0
+  3 13  1  0  0  0
+  4  8  1  0  0  0
+  4  9  1  0  0  0
+  4 10  2  0  0  0
+  5 12  1  0  0  0
+  6 10  1  0  0  0
+  6 11  1  0  0  0
+  6 13  2  0  0  0
+  7 12  2  0  0  0
+  8  9  1  0  0  0
+  9 10  1  0  0  0
+  9 11  2  0  0  0
+M  END
+> <s_m_entry_id>
+1922
+
+> <s_m_entry_name>
+NEW-myco-var1_40_lig_gen_fit_add_gna.sdf.8
+
+> <minimizedAffinity>
+-8.14134
+
+> <minimizedRMSD>
+0.49178
+
+> <CNNscore>
+0.7399486899
+
+> <CNNaffinity>
+4.7951369286
+
+> <CNN_VS>
+3.5481553078
+
+> <CNNaffinity_variance>
+0.5017052889
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+15
+
+> <s_user_SMILES>
+CC=C=C1C=C(C=23)C1=[C]34C5([C]246)C6=C5
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_40_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_40_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+CCC1=C2C=3[C]4([C]123)[C]56=[C]7(C=45)C6=C7
+                    3D
+ Schrodinger Suite 2021-1.
+ 12 18  0  0  1  0            999 V2000
+  -19.2080   16.4725  -13.2117 C   0  0  0  0  0  0
+  -23.5117   19.1829  -11.6356 C   0  0  0  0  0  0
+  -20.4935   16.3134  -12.4680 C   0  0  0  0  0  0
+  -20.3622   17.6738  -13.2778 C   0  0  0  0  0  0
+  -21.9975   19.3665  -11.6772 C   0  0  0  0  0  0
+  -22.8946   20.5632  -11.8547 C   0  0  0  0  0  0
+  -19.5490   17.3287  -12.1969 C   0  0  0  0  0  0
+  -19.9777   18.7612  -12.4292 C   0  0  0  0  0  0
+  -21.4024   18.8233  -12.9675 C   0  0  0  0  0  0
+  -22.5879   18.1182  -12.2404 C   0  0  0  0  0  0
+  -23.1277   21.5021  -10.6618 C   0  0  0  0  0  0
+  -21.9818   22.4534  -10.3574 C   0  0  0  0  0  0
+  1  3  2  0  0  0
+  1  7  1  0  0  0
+  2  5  1  0  0  0
+  2  6  2  0  0  0
+  2 10  1  0  0  0
+  3  4  1  0  0  0
+  3  7  1  0  0  0
+  4  7  2  0  0  0
+  4  8  1  0  0  0
+  4  9  1  0  0  0
+  5  6  1  0  0  0
+  5  9  1  0  0  0
+  5 10  2  0  0  0
+  6 11  1  0  0  0
+  7  8  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 11 12  1  0  0  0
+M  END
+> <s_m_entry_id>
+1923
+
+> <s_m_entry_name>
+NEW-myco-var1_40_lig_gen_fit_add_gna.sdf.9
+
+> <minimizedAffinity>
+-6.73445
+
+> <minimizedRMSD>
+2.24707
+
+> <CNNscore>
+0.6776405573
+
+> <CNNaffinity>
+4.5563750267
+
+> <CNN_VS>
+3.0875844955
+
+> <CNNaffinity_variance>
+0.4604190886
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+16
+
+> <s_user_SMILES>
+CCC1=C2C=3[C]4([C]123)[C]56=[C]7(C=45)C6=C7
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_40_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_40_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=C[C]1(=[C]234)C3=C2C5=[C]67[C]45=[C]68[C]79=[C]18C9=C1
+                    3D
+ Schrodinger Suite 2021-1.
+ 14 23  0  0  1  0            999 V2000
+  -19.6752   17.1132  -12.0263 C   0  0  0  0  0  0
+  -23.9662   19.8420  -10.6777 C   0  0  0  0  0  0
+  -21.7828   18.3323  -13.0498 C   0  0  0  0  0  0
+  -18.7004   17.6544  -13.0175 C   0  0  0  0  0  0
+  -23.8694   18.8397  -11.7899 C   0  0  0  0  0  0
+  -19.4823   18.5013  -12.2556 C   0  0  0  0  0  0
+  -22.8991   22.1701  -11.1387 C   0  0  0  0  0  0
+  -23.0106   20.1008  -11.8312 C   0  0  0  0  0  0
+  -22.6355   17.9668  -11.8543 C   0  0  0  0  0  0
+  -21.8066   19.1964  -11.7857 C   0  0  0  0  0  0
+  -20.3139   17.9246  -13.2104 C   0  0  0  0  0  0
+  -20.6775   19.2932  -12.7902 C   0  0  0  0  0  0
+  -23.5474   21.9376   -9.8864 C   0  0  0  0  0  0
+  -22.8320   20.8849  -10.5278 C   0  0  0  0  0  0
+  1  4  2  0  0  0
+  1  6  1  0  0  0
+  1 11  1  0  0  0
+  2  5  2  0  0  0
+  2  8  1  0  0  0
+  2 14  1  0  0  0
+  3  9  2  0  0  0
+  3 10  1  0  0  0
+  3 11  1  0  0  0
+  3 12  1  0  0  0
+  4  6  1  0  0  0
+  5  8  1  0  0  0
+  5  9  1  0  0  0
+  6 11  2  0  0  0
+  6 12  1  0  0  0
+  7 13  2  0  0  0
+  7 14  1  0  0  0
+  8 10  1  0  0  0
+  8 14  2  0  0  0
+  9 10  1  0  0  0
+ 10 12  2  0  0  0
+ 11 12  1  0  0  0
+ 13 14  1  0  0  0
+M  END
+> <s_m_entry_id>
+1924
+
+> <s_m_entry_name>
+NEW-myco-var1_41_lig_gen_fit_add_gna.sdf.3
+
+> <minimizedAffinity>
+-6.63472
+
+> <minimizedRMSD>
+2.68924
+
+> <CNNscore>
+0.670535624
+
+> <CNNaffinity>
+4.810675621
+
+> <CNN_VS>
+3.2257294655
+
+> <CNNaffinity_variance>
+0.478453815
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+17
+
+> <s_user_SMILES>
+C1=C[C]1(=[C]234)C3=C2C5=[C]67[C]45=[C]68[C]79=[C]18C9=C1
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_41_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_41_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+CCCC1=C2C1=[C]23[C]45=[C]6(C35)C4=C6
+                    3D
+ Schrodinger Suite 2021-1.
+ 12 17  0  0  1  0            999 V2000
+  -19.6108   16.3252  -12.2052 C   0  0  0  0  0  0
+  -20.0491   17.7018  -12.8399 C   0  0  0  0  0  0
+  -22.8487   18.8437  -11.9904 C   0  0  0  0  0  0
+  -21.1956   18.3745  -12.0365 C   0  0  0  0  0  0
+  -18.6829   16.8623  -13.2500 C   0  0  0  0  0  0
+  -21.8653   19.8129  -12.4929 C   0  0  0  0  0  0
+  -18.8951   17.5391  -12.0721 C   0  0  0  0  0  0
+  -22.0547   18.5668  -13.0682 C   0  0  0  0  0  0
+  -19.7185   18.8000  -12.0020 C   0  0  0  0  0  0
+  -24.1363   18.5716  -11.2499 C   0  0  0  0  0  0
+  -24.4436   19.5925  -10.1462 C   0  0  0  0  0  0
+  -25.2992   20.7563  -10.6446 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  5  2  0  0  0
+  1  7  1  0  0  0
+  2  4  1  0  0  0
+  2  7  2  0  0  0
+  2  9  1  0  0  0
+  3 10  1  0  0  0
+  3  6  2  0  0  0
+  3  8  1  0  0  0
+  4  6  1  0  0  0
+  4  8  2  0  0  0
+  4  9  1  0  0  0
+  5  7  1  0  0  0
+  6  8  1  0  0  0
+  7  9  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  1  0  0  0
+M  END
+> <s_m_entry_id>
+1925
+
+> <s_m_entry_name>
+NEW-myco-var1_42_lig_gen_fit_add_gna.sdf.1
+
+> <minimizedAffinity>
+-6.76098
+
+> <minimizedRMSD>
+0.50533
+
+> <CNNscore>
+0.6927086711
+
+> <CNNaffinity>
+4.6351613998
+
+> <CNN_VS>
+3.2108163834
+
+> <CNNaffinity_variance>
+0.3712641597
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+18
+
+> <s_user_SMILES>
+CCCC1=C2C1=[C]23[C]45=[C]6(C35)C4=C6
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_42_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_42_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=CC1=C=C2C=3[C]4([C]235)=[C]56[C]47=[C]68C7=C8
+                    3D
+ Schrodinger Suite 2021-1.
+ 13 20  0  0  1  0            999 V2000
+  -19.2126   17.2032  -11.7990 C   0  0  0  0  0  0
+  -23.1488   22.1911  -11.1643 C   0  0  0  0  0  0
+  -18.2992   16.9017  -12.9434 C   0  0  0  0  0  0
+  -22.1828   17.1030  -12.0088 C   0  0  0  0  0  0
+  -22.4007   20.9861  -11.2512 C   0  0  0  0  0  0
+  -19.8639   16.3486  -12.9588 C   0  0  0  0  0  0
+  -22.0015   17.5798  -13.3475 C   0  0  0  0  0  0
+  -19.4280   17.6702  -13.1143 C   0  0  0  0  0  0
+  -20.6325   17.1589  -13.9005 C   0  0  0  0  0  0
+  -21.4019   16.2494  -12.9792 C   0  0  0  0  0  0
+  -22.0683   22.0117  -10.3254 C   0  0  0  0  0  0
+  -22.1888   19.8082  -11.7616 C   0  0  0  0  0  0
+  -21.9882   18.6045  -12.2149 C   0  0  0  0  0  0
+  1  3  2  0  0  0
+  1  6  1  0  0  0
+  1  8  1  0  0  0
+  2  5  1  0  0  0
+  2 11  2  0  0  0
+  3  8  1  0  0  0
+  4  7  2  0  0  0
+  4 10  1  0  0  0
+  4 13  1  0  0  0
+  5 11  1  0  0  0
+  5 12  2  0  0  0
+  6  8  2  0  0  0
+  6  9  1  0  0  0
+  6 10  1  0  0  0
+  7  9  1  0  0  0
+  7 10  1  0  0  0
+  7 13  1  0  0  0
+  8  9  1  0  0  0
+  9 10  2  0  0  0
+ 12 13  2  0  0  0
+M  END
+> <s_m_entry_id>
+1926
+
+> <s_m_entry_name>
+NEW-myco-var1_42_lig_gen_fit_add_gna.sdf.5
+
+> <minimizedAffinity>
+-6.51167
+
+> <minimizedRMSD>
+1.53416
+
+> <CNNscore>
+0.514336586
+
+> <CNNaffinity>
+4.5124006271
+
+> <CNN_VS>
+2.3208928108
+
+> <CNNaffinity_variance>
+0.5028494596
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+19
+
+> <s_user_SMILES>
+C1=CC1=C=C2C=3[C]4([C]235)=[C]56[C]47=[C]68C7=C8
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_42_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_42_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1C=C1CC2=CC2C=3C4=[C]5([C]346)C6=C5
+                    3D
+ Schrodinger Suite 2021-1.
+ 13 18  0  0  1  0            999 V2000
+  -22.4404   18.7574  -11.9457 C   0  0  0  0  0  0
+  -22.5675   17.5511  -12.6621 C   0  0  0  0  0  0
+  -21.5281   18.5167  -13.2025 C   0  0  0  0  0  0
+  -19.5606   16.0875  -12.7334 C   0  0  0  0  0  0
+  -20.2605   17.4536  -13.1422 C   0  0  0  0  0  0
+  -19.3706   17.3616  -12.1654 C   0  0  0  0  0  0
+  -18.5904   17.0837  -13.2507 C   0  0  0  0  0  0
+  -20.0152   18.7311  -12.6116 C   0  0  0  0  0  0
+  -21.0766   17.7491  -11.9606 C   0  0  0  0  0  0
+  -23.3101   19.7038  -11.1493 C   0  0  0  0  0  0
+  -23.6065   22.1104  -10.6346 C   0  0  0  0  0  0
+  -22.8684   21.1544  -11.3506 C   0  0  0  0  0  0
+  -22.2732   21.7199  -10.2122 C   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  3  1  0  0  0
+  1 10  1  0  0  0
+  2  3  1  0  0  0
+  3  9  1  0  0  0
+  4  5  1  0  0  0
+  4  6  1  0  0  0
+  4  7  2  0  0  0
+  5  6  1  0  0  0
+  5  8  1  0  0  0
+  5  9  2  0  0  0
+  6  7  1  0  0  0
+  6  8  2  0  0  0
+  8  9  1  0  0  0
+ 10 12  1  0  0  0
+ 11 12  2  0  0  0
+ 11 13  1  0  0  0
+ 12 13  1  0  0  0
+M  END
+> <s_m_entry_id>
+1927
+
+> <s_m_entry_name>
+NEW-myco-var1_43_lig_gen_fit_add_gna.sdf.3
+
+> <minimizedAffinity>
+-6.73479
+
+> <minimizedRMSD>
+1.73887
+
+> <CNNscore>
+0.6418606639
+
+> <CNNaffinity>
+4.6758666039
+
+> <CNN_VS>
+3.001254797
+
+> <CNNaffinity_variance>
+0.4257131517
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+20
+
+> <s_user_SMILES>
+C1C=C1CC2=CC2C=3C4=[C]5([C]346)C6=C5
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_43_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_43_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=C2C1=C3[C]2(=[C]345)C4=[C]56[C]78[C]9(C8C6=7)=C1C9=C1
+                    3D
+ Schrodinger Suite 2021-1.
+ 15 24  0  0  1  0            999 V2000
+  -19.9404   17.1536  -13.0891 C   0  0  0  0  0  0
+  -21.0152   17.8177  -12.6299 C   0  0  0  0  0  0
+  -21.4096   22.5611   -9.1534 C   0  0  0  0  0  0
+  -23.1935   19.6989  -11.2480 C   0  0  0  0  0  0
+  -22.8210   22.4407   -8.8749 C   0  0  0  0  0  0
+  -19.1027   18.3166  -12.7610 C   0  0  0  0  0  0
+  -19.6956   17.2502  -11.7284 C   0  0  0  0  0  0
+  -22.2324   20.2900  -12.2855 C   0  0  0  0  0  0
+  -22.8780   21.2169  -11.2552 C   0  0  0  0  0  0
+  -20.3778   18.5930  -12.1012 C   0  0  0  0  0  0
+  -22.3384   23.0429  -10.1490 C   0  0  0  0  0  0
+  -22.2266   21.6184   -9.9109 C   0  0  0  0  0  0
+  -23.4203   20.6035  -10.0637 C   0  0  0  0  0  0
+  -21.3050   19.3030  -13.0521 C   0  0  0  0  0  0
+  -20.7550   20.1035  -11.9667 C   0  0  0  0  0  0
+  1  6  2  0  0  0
+  1  7  1  0  0  0
+  2  7  2  0  0  0
+  2 10  1  0  0  0
+  2 14  1  0  0  0
+  3  5  2  0  0  0
+  3 11  1  0  0  0
+  4  8  1  0  0  0
+  4  9  2  0  0  0
+  4 13  1  0  0  0
+  5 11  1  0  0  0
+  5 12  1  0  0  0
+  6  7  1  0  0  0
+  6 10  1  0  0  0
+  8  9  1  0  0  0
+  8 14  1  0  0  0
+  8 15  2  0  0  0
+  9 12  1  0  0  0
+  9 13  1  0  0  0
+ 10 14  2  0  0  0
+ 10 15  1  0  0  0
+ 11 12  2  0  0  0
+ 12 13  1  0  0  0
+ 14 15  1  0  0  0
+M  END
+> <s_m_entry_id>
+1928
+
+> <s_m_entry_name>
+NEW-myco-var1_43_lig_gen_fit_add_gna.sdf.10
+
+> <minimizedAffinity>
+-6.69444
+
+> <minimizedRMSD>
+0.9205
+
+> <CNNscore>
+0.539208293
+
+> <CNNaffinity>
+4.8863587379
+
+> <CNN_VS>
+2.6347651482
+
+> <CNNaffinity_variance>
+0.2376285493
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+21
+
+> <s_user_SMILES>
+C1=C2C1=C3[C]2(=[C]345)C4=[C]56[C]78[C]9(C8C6=7)=C1C9=C1
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_43_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_43_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+CC=C=CC1=C[C@@H]1c2c(c23)c4c3c4
+                    3D
+ Schrodinger Suite 2021-1.
+ 13 16  0  0  1  0            999 V2000
+  -22.1667   19.0260  -12.3592 C   0  0  0  0  0  0
+  -22.4893   17.7358  -11.9134 C   0  0  0  0  0  0
+  -22.2638   17.9166  -13.3315 C   0  0  2  0  0  0
+  -18.5653   17.1777  -13.3461 C   0  0  0  0  0  0
+  -18.7369   16.3955  -12.1370 C   0  0  0  0  0  0
+  -20.0334   16.7213  -12.5505 C   0  0  0  0  0  0
+  -20.8939   17.9108  -12.4365 C   0  0  0  0  0  0
+  -19.2583   17.8303  -12.2610 C   0  0  0  0  0  0
+  -19.7897   17.1004  -13.4747 C   0  0  0  0  0  0
+  -25.5102   20.4864  -10.4218 C   0  0  0  0  0  0
+  -23.2965   20.8953  -11.3589 C   0  0  0  0  0  0
+  -22.3221   20.4675  -12.1105 C   0  0  0  0  0  0
+  -24.2816   21.3148  -10.6131 C   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  3  1  0  0  0
+  1 12  1  0  0  0
+  2  3  1  0  0  0
+  3  7  1  0  0  0
+  4  5  2  0  0  0
+  4  8  1  0  0  0
+  5  6  1  0  0  0
+  5  8  1  0  0  0
+  6  7  2  0  0  0
+  6  9  1  0  0  0
+  7  9  1  0  0  0
+  8  9  2  0  0  0
+ 10 13  1  0  0  0
+ 11 12  2  0  0  0
+ 11 13  2  0  0  0
+M  END
+> <s_m_entry_id>
+1929
+
+> <s_m_entry_name>
+NEW-myco-var1_44_lig_gen_fit_add_gna.sdf.4
+
+> <minimizedAffinity>
+-6.90611
+
+> <minimizedRMSD>
+0.87761
+
+> <CNNscore>
+0.6954345107
+
+> <CNNaffinity>
+4.7685246468
+
+> <CNN_VS>
+3.3161966801
+
+> <CNNaffinity_variance>
+0.5327939391
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+22
+
+> <s_user_SMILES>
+CC=C=CC1=C[C@@H]1c2c(c23)c4c3c4
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_44_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_44_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=CC1=C=C2C3=C2[C]3=4[C]5(C4)[C]6=7C=5C6=CC7
+                    3D
+ Schrodinger Suite 2021-1.
+ 15 21  0  0  1  0            999 V2000
+  -22.0806   17.1972  -12.1690 C   0  0  0  0  0  0
+  -25.6495   18.8731   -8.5665 C   0  0  0  0  0  0
+  -21.0114   17.6139  -13.1017 C   0  0  0  0  0  0
+  -26.1016   17.9411   -6.1414 C   0  0  0  0  0  0
+  -26.1300   18.2572   -7.5263 C   0  0  0  0  0  0
+  -22.0954   18.5222  -11.5940 C   0  0  0  0  0  0
+  -20.9999   18.8778  -12.5543 C   0  0  0  0  0  0
+  -24.0937   19.7742  -10.5722 C   0  0  0  0  0  0
+  -25.2010   19.5123   -9.6395 C   0  0  0  0  0  0
+  -23.0032   20.6940  -11.1638 C   0  0  0  0  0  0
+  -24.9849   20.8338  -10.2298 C   0  0  0  0  0  0
+  -25.4283   19.7464  -11.0673 C   0  0  0  0  0  0
+  -27.0909   17.3949   -6.9332 C   0  0  0  0  0  0
+  -23.3706   17.9409  -12.1812 C   0  0  0  0  0  0
+  -23.2976   19.4522  -11.9270 C   0  0  0  0  0  0
+  1  3  2  0  0  0
+  1  6  1  0  0  0
+  1 14  1  0  0  0
+  2  5  2  0  0  0
+  2  9  2  0  0  0
+  3  7  1  0  0  0
+  4  5  1  0  0  0
+  4 13  2  0  0  0
+  5 13  1  0  0  0
+  6  7  2  0  0  0
+  6 14  1  0  0  0
+  6 15  1  0  0  0
+  8 10  2  0  0  0
+  8 11  1  0  0  0
+  8 12  1  0  0  0
+  8 15  1  0  0  0
+  9 11  1  0  0  0
+  9 12  1  0  0  0
+ 10 15  1  0  0  0
+ 11 12  2  0  0  0
+ 14 15  2  0  0  0
+M  END
+> <s_m_entry_id>
+1930
+
+> <s_m_entry_name>
+NEW-myco-var1_44_lig_gen_fit_add_gna.sdf.5
+
+> <minimizedAffinity>
+-7.59182
+
+> <minimizedRMSD>
+0.90126
+
+> <CNNscore>
+0.5922948122
+
+> <CNNaffinity>
+5.2287330627
+
+> <CNN_VS>
+3.0969514847
+
+> <CNNaffinity_variance>
+0.4501264989
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+23
+
+> <s_user_SMILES>
+C1=CC1=C=C2C3=C2[C]3=4[C]5(C4)[C]6=7C=5C6=CC7
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_44_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_44_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1C=CC1=C=C2C3=C2[C]34[C]56=[C]7(C=45)C6=C7
+                    3D
+ Schrodinger Suite 2021-1.
+ 14 20  0  0  1  0            999 V2000
+  -19.6251   16.3115  -13.5499 C   0  0  0  0  0  0
+  -25.4837   20.4692  -10.6175 C   0  0  0  0  0  0
+  -22.4972   18.6036  -12.2047 C   0  0  0  0  0  0
+  -19.7318   17.8459  -13.1434 C   0  0  0  0  0  0
+  -22.0703   17.7541  -13.3260 C   0  0  0  0  0  0
+  -23.3232   19.5221  -11.7128 C   0  0  0  0  0  0
+  -18.3337   17.0601  -13.5845 C   0  0  0  0  0  0
+  -19.0218   16.8841  -12.4102 C   0  0  0  0  0  0
+  -24.0813   20.4034  -11.1312 C   0  0  0  0  0  0
+  -21.9246   17.2755  -11.9692 C   0  0  0  0  0  0
+  -21.0821   18.3174  -12.4625 C   0  0  0  0  0  0
+  -19.7668   17.9994  -11.7296 C   0  0  0  0  0  0
+  -25.2851   21.6887  -10.0268 C   0  0  0  0  0  0
+  -23.9040   21.6504  -10.4653 C   0  0  0  0  0  0
+  1  4  1  0  0  0
+  1  7  2  0  0  0
+  1  8  1  0  0  0
+  2  9  1  0  0  0
+  2 13  1  0  0  0
+  3  5  1  0  0  0
+  3  6  2  0  0  0
+  3 10  1  0  0  0
+  4  8  2  0  0  0
+  4 11  1  0  0  0
+  4 12  1  0  0  0
+  5 10  2  0  0  0
+  5 11  1  0  0  0
+  6  9  2  0  0  0
+  7  8  1  0  0  0
+  8 12  1  0  0  0
+  9 14  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 13 14  2  0  0  0
+M  END
+> <s_m_entry_id>
+1931
+
+> <s_m_entry_name>
+NEW-myco-var1_44_lig_gen_fit_add_gna.sdf.6
+
+> <minimizedAffinity>
+-7.45598
+
+> <minimizedRMSD>
+0.24473
+
+> <CNNscore>
+0.7058410048
+
+> <CNNaffinity>
+4.9158110619
+
+> <CNN_VS>
+3.4697809219
+
+> <CNNaffinity_variance>
+0.4692014754
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+24
+
+> <s_user_SMILES>
+C1C=CC1=C=C2C3=C2[C]34[C]56=[C]7(C=45)C6=C7
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_44_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_44_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C=C=C1C=C2C1=[C]23[C]4=5C3=C4CC5
+                    3D
+ Schrodinger Suite 2021-1.
+ 12 16  0  0  1  0            999 V2000
+  -19.9704   16.4938  -13.2717 C   0  0  0  0  0  0
+  -22.7816   20.3013  -11.5033 C   0  0  0  0  0  0
+  -20.2669   17.4729  -12.1772 C   0  0  0  0  0  0
+  -21.7897   19.5958  -12.2778 C   0  0  0  0  0  0
+  -18.6099   16.6769  -13.1241 C   0  0  0  0  0  0
+  -23.3842   18.6806  -11.3726 C   0  0  0  0  0  0
+  -18.8399   17.6481  -12.0370 C   0  0  0  0  0  0
+  -21.0664   18.5790  -12.8915 C   0  0  0  0  0  0
+  -23.3534   22.7281  -10.7515 C   0  0  0  0  0  0
+  -22.2414   18.3740  -12.1796 C   0  0  0  0  0  0
+  -19.6591   18.8537  -12.3247 C   0  0  0  0  0  0
+  -23.0715   21.5136  -11.1263 C   0  0  0  0  0  0
+  1  3  2  0  0  0
+  1  5  1  0  0  0
+  2  4  1  0  0  0
+  2  6  1  0  0  0
+  2 12  2  0  0  0
+  3  7  1  0  0  0
+  3  8  1  0  0  0
+  3 11  1  0  0  0
+  4  8  2  0  0  0
+  4 10  1  0  0  0
+  5  7  1  0  0  0
+  6 10  2  0  0  0
+  7 11  2  0  0  0
+  8 10  1  0  0  0
+  8 11  1  0  0  0
+  9 12  2  0  0  0
+M  END
+> <s_m_entry_id>
+1932
+
+> <s_m_entry_name>
+NEW-myco-var1_46_lig_gen_fit_add_gna.sdf.7
+
+> <minimizedAffinity>
+-7.79665
+
+> <minimizedRMSD>
+1.59433
+
+> <CNNscore>
+0.7065293789
+
+> <CNNaffinity>
+4.5649604797
+
+> <CNN_VS>
+3.225278616
+
+> <CNNaffinity_variance>
+0.3492162228
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+25
+
+> <s_user_SMILES>
+C=C=C1C=C2C1=[C]23[C]4=5C3=C4CC5
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_46_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_46_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=2C(C2)C1=C=CCC=3C4=[C]5([C]346)C6=C5
+                    3D
+ Schrodinger Suite 2021-1.
+ 13 18  0  0  1  0            999 V2000
+  -22.4243   18.1369  -12.8391 C   0  0  0  0  0  0
+  -18.8996   16.6185  -12.2263 C   0  0  0  0  0  0
+  -18.5049   17.0426  -13.6101 C   0  0  0  0  0  0
+  -19.9802   17.4572  -12.9988 C   0  0  0  0  0  0
+  -21.1004   17.9842  -12.1017 C   0  0  0  0  0  0
+  -18.7353   17.9687  -12.6212 C   0  0  0  0  0  0
+  -19.9625   18.8465  -12.5983 C   0  0  0  0  0  0
+  -23.8913   22.2797  -10.3660 C   0  0  0  0  0  0
+  -23.4927   18.6720  -11.9410 C   0  0  0  0  0  0
+  -23.0274   22.5426  -11.4682 C   0  0  0  0  0  0
+  -23.4185   19.9008  -11.5073 C   0  0  0  0  0  0
+  -22.4934   22.0501  -10.2219 C   0  0  0  0  0  0
+  -23.2769   21.1505  -11.0780 C   0  0  0  0  0  0
+  1  9  1  0  0  0
+  1  5  1  0  0  0
+  2  3  2  0  0  0
+  2  4  1  0  0  0
+  2  6  1  0  0  0
+  3  6  1  0  0  0
+  4  5  2  0  0  0
+  4  6  1  0  0  0
+  4  7  1  0  0  0
+  5  7  1  0  0  0
+  6  7  2  0  0  0
+  8 10  2  0  0  0
+  8 12  1  0  0  0
+  9 11  2  0  0  0
+ 10 12  1  0  0  0
+ 10 13  1  0  0  0
+ 11 13  2  0  0  0
+ 12 13  1  0  0  0
+M  END
+> <s_m_entry_id>
+1933
+
+> <s_m_entry_name>
+NEW-myco-var1_47_lig_gen_fit_add_gna.sdf.9
+
+> <minimizedAffinity>
+-7.0517
+
+> <minimizedRMSD>
+1.38492
+
+> <CNNscore>
+0.6883772612
+
+> <CNNaffinity>
+4.9552383423
+
+> <CNN_VS>
+3.4110734463
+
+> <CNNaffinity_variance>
+0.2169049233
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+26
+
+> <s_user_SMILES>
+C1=2C(C2)C1=C=CCC=3C4=[C]5([C]346)C6=C5
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_47_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_47_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=C2[C]1([C]23=4)=[C]3(C4)CC=5C(=C6)C5[C]67=CC7C
+                    3D
+ Schrodinger Suite 2021-1.
+ 15 21  0  0  1  0            999 V2000
+  -22.1429   21.0730  -11.3277 C   0  0  0  0  0  0
+  -19.8648   17.1139  -12.3321 C   0  0  0  0  0  0
+  -21.8867   20.3617  -12.5298 C   0  0  0  0  0  0
+  -23.0836   19.9545  -11.6545 C   0  0  0  0  0  0
+  -22.1223   18.8000  -12.5022 C   0  0  0  0  0  0
+  -23.3903   18.6901  -11.6375 C   0  0  0  0  0  0
+  -22.1493   18.0419  -13.6837 C   0  0  0  0  0  0
+  -21.1152   17.8326  -12.6875 C   0  0  0  0  0  0
+  -22.7434   22.4717  -11.4592 C   0  0  0  0  0  0
+  -22.1566   24.9450  -10.9931 C   0  0  0  0  0  0
+  -21.3265   23.2619   -9.4235 C   0  0  0  0  0  0
+  -22.3647   24.1519   -9.7018 C   0  0  0  0  0  0
+  -21.7550   23.4999  -10.8705 C   0  0  0  0  0  0
+  -21.2530   24.4279   -8.6152 C   0  0  0  0  0  0
+  -22.1571   23.2748   -8.3180 C   0  0  0  0  0  0
+  1  9  1  0  0  0
+  1  3  2  0  0  0
+  1  4  1  0  0  0
+  2  8  1  0  0  0
+  3  4  1  0  0  0
+  3  5  1  0  0  0
+  4  6  2  0  0  0
+  5  6  1  0  0  0
+  5  7  2  0  0  0
+  5  8  1  0  0  0
+  7  8  1  0  0  0
+  9 13  1  0  0  0
+ 10 12  2  0  0  0
+ 10 13  1  0  0  0
+ 11 12  1  0  0  0
+ 11 13  2  0  0  0
+ 11 14  1  0  0  0
+ 11 15  1  0  0  0
+ 12 13  1  0  0  0
+ 12 14  1  0  0  0
+ 14 15  2  0  0  0
+M  END
+> <s_m_entry_id>
+1934
+
+> <s_m_entry_name>
+NEW-myco-var1_47_lig_gen_fit_add_gna.sdf.10
+
+> <minimizedAffinity>
+-6.76551
+
+> <minimizedRMSD>
+0.80576
+
+> <CNNscore>
+0.5736362934
+
+> <CNNaffinity>
+5.0145320892
+
+> <CNN_VS>
+2.8765175343
+
+> <CNNaffinity_variance>
+0.2054112852
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+27
+
+> <s_user_SMILES>
+C1=C2[C]1([C]23=4)=[C]3(C4)CC=5C(=C6)C5[C]67=CC7C
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_47_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_47_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+CCC=CC1=C2[C]1(=C3)C2[C]3([C]45=6)=C4C5=CC6
+                    3D
+ Schrodinger Suite 2021-1.
+ 15 20  0  0  1  0            999 V2000
+  -22.4439  -19.3846   12.8599 C   0  0  0  0  0  0
+  -19.3792  -16.8973   13.5066 C   0  0  0  0  0  0
+  -20.2718  -17.1447   12.3254 C   0  0  0  0  0  0
+  -22.5640  -18.3698   11.7401 C   0  0  0  0  0  0
+  -20.8052  -17.3035   13.5978 C   0  0  0  0  0  0
+  -21.1587  -18.4188   12.5681 C   0  0  0  0  0  0
+  -18.1529  -16.6324   13.2526 C   0  0  0  0  0  0
+  -23.0987  -20.0945   11.5488 C   0  0  0  0  0  0
+  -20.4824  -19.6158   12.1439 C   0  0  0  0  0  0
+  -21.8244  -19.5482   11.5732 C   0  0  0  0  0  0
+  -18.7125  -17.1634   11.9187 C   0  0  0  0  0  0
+  -23.2999  -22.4221   10.6402 C   0  0  0  0  0  0
+  -23.0427  -21.5920   11.6661 C   0  0  0  0  0  0
+  -22.8619  -22.6739    8.1982 C   0  0  0  0  0  0
+  -23.6994  -21.9671    9.2569 C   0  0  0  0  0  0
+  1  4  1  0  0  0
+  1  8  2  0  0  0
+  1 10  1  0  0  0
+  2  3  1  0  0  0
+  2  5  1  0  0  0
+  2  7  2  0  0  0
+  3  5  1  0  0  0
+  3  6  1  0  0  0
+  3 11  2  0  0  0
+  4  6  1  0  0  0
+  4 10  1  0  0  0
+  5  6  2  0  0  0
+  6  9  1  0  0  0
+  7 11  1  0  0  0
+  8 13  1  0  0  0
+  8 10  1  0  0  0
+  9 10  2  0  0  0
+ 12 13  2  0  0  0
+ 12 15  1  0  0  0
+ 14 15  1  0  0  0
+M  END
+> <s_m_entry_id>
+1935
+
+> <s_m_entry_name>
+NEW-myco-var1_48_lig_gen_fit_add_gna.sdf.2
+
+> <minimizedAffinity>
+-6.51304
+
+> <minimizedRMSD>
+2.56755
+
+> <CNNscore>
+0.6026989818
+
+> <CNNaffinity>
+4.8579339981
+
+> <CNN_VS>
+2.9278719425
+
+> <CNNaffinity_variance>
+0.3860228956
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+28
+
+> <s_user_SMILES>
+CCC=CC1=C2[C]1(=C3)C2[C]3([C]45=6)=C4C5=CC6
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_48_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_48_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+CCC=C=C1C(=C12)C2=C/C=C\3[C@@H](C3=4)C4
+                    3D
+ Schrodinger Suite 2021-1.
+ 14 17  0  0  1  0            999 V2000
+  -22.5739  -22.4399    9.8920 C   0  0  0  0  0  0
+  -23.1330  -21.8984   11.2023 C   0  0  0  0  0  0
+  -22.5934  -23.0803    8.7596 C   0  0  0  0  0  0
+  -22.3203  -20.7438   11.7678 C   0  0  0  0  0  0
+  -22.1299  -19.5837   12.3857 C   0  0  0  0  0  0
+  -21.7457  -21.9250   11.0310 C   0  0  0  0  0  0
+  -22.4981  -23.7220    7.6267 C   0  0  0  0  0  0
+  -20.1967  -16.6691   13.4590 C   0  0  0  0  0  0
+  -21.1335  -16.2754   12.4586 C   0  0  0  0  0  0
+  -20.5983  -17.6424   12.4157 C   0  0  0  0  0  0
+  -19.7363  -16.4816   12.1285 C   0  0  2  0  0  0
+  -20.7859  -18.9887   12.3482 C   0  0  0  0  0  0
+  -21.2043  -24.3639    7.2228 C   0  0  0  0  0  0
+  -20.8058  -25.4808    8.1852 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  2  0  0  0
+  1  6  1  0  0  0
+  2  4  1  0  0  0
+  2  6  2  0  0  0
+  3  7  2  0  0  0
+  4  5  2  0  0  0
+  4  6  1  0  0  0
+  5 12  1  0  0  0
+  7 13  1  0  0  0
+  8  9  2  0  0  0
+  8 11  1  0  0  0
+  9 10  1  0  0  0
+  9 11  1  0  0  0
+ 10 11  1  0  0  0
+ 10 12  2  0  0  0
+ 13 14  1  0  0  0
+M  END
+> <s_m_entry_id>
+1936
+
+> <s_m_entry_name>
+NEW-myco-var1_48_lig_gen_fit_add_gna.sdf.9
+
+> <minimizedAffinity>
+-7.12364
+
+> <minimizedRMSD>
+0.54963
+
+> <CNNscore>
+0.4954872131
+
+> <CNNaffinity>
+4.5589179993
+
+> <CNN_VS>
+2.258885622
+
+> <CNNaffinity_variance>
+0.2669883966
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+29
+
+> <s_user_SMILES>
+CCC=C=C1C(=C12)C2=C/C=C\3[C@@H](C3=4)C4
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_48_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_48_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C=C=CC1=C2C=[C]34[C]5([C]46=[C]123)[C]6=7C=5C7
+                    3D
+ Schrodinger Suite 2021-1.
+ 13 19  0  0  1  0            999 V2000
+  -18.8253  -16.8040   12.7924 C   0  0  0  0  0  0
+  -22.6486  -18.8337   12.1302 C   0  0  0  0  0  0
+  -19.4969  -17.7775   12.0829 C   0  0  0  0  0  0
+  -21.3757  -19.4701   12.0157 C   0  0  0  0  0  0
+  -22.3962  -20.3821   12.2405 C   0  0  0  0  0  0
+  -20.1633  -16.5291   12.1819 C   0  0  0  0  0  0
+  -20.1643  -17.6400   13.3068 C   0  0  0  0  0  0
+  -20.1210  -18.9989   12.7492 C   0  0  0  0  0  0
+  -22.7071  -17.7914   12.8476 C   0  0  0  0  0  0
+  -21.4005  -18.5346   13.3377 C   0  0  0  0  0  0
+  -21.3371  -23.0603   10.1072 C   0  0  0  0  0  0
+  -22.0801  -22.0906   10.5579 C   0  0  0  0  0  0
+  -22.8198  -21.1196   11.0158 C   0  0  0  0  0  0
+  1  3  2  0  0  0
+  1  6  1  0  0  0
+  2  4  1  0  0  0
+  2  5  2  0  0  0
+  2  9  1  0  0  0
+  3  6  1  0  0  0
+  3  7  1  0  0  0
+  3  8  1  0  0  0
+  4  5  1  0  0  0
+  4  8  2  0  0  0
+  4 10  1  0  0  0
+  5 13  1  0  0  0
+  6  7  2  0  0  0
+  7  8  1  0  0  0
+  7 10  1  0  0  0
+  8 10  1  0  0  0
+  9 10  2  0  0  0
+ 11 12  2  0  0  0
+ 12 13  2  0  0  0
+M  END
+> <s_m_entry_id>
+1937
+
+> <s_m_entry_name>
+NEW-myco-var1_49_lig_gen_fit_add_gna.sdf.4
+
+> <minimizedAffinity>
+-7.03351
+
+> <minimizedRMSD>
+2.12559
+
+> <CNNscore>
+0.6064916253
+
+> <CNNaffinity>
+4.5962610245
+
+> <CNN_VS>
+2.7875938416
+
+> <CNNaffinity_variance>
+0.3166200519
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+30
+
+> <s_user_SMILES>
+C=C=CC1=C2C=[C]34[C]5([C]46=[C]123)[C]6=7C=5C7
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_49_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_49_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+CC=C=C1C(=[C]123)C2=C3[C]4=5C(=C4)CC5
+                    3D
+ Schrodinger Suite 2021-1.
+ 13 17  0  0  1  0            999 V2000
+  -23.3522  -20.4504   11.5730 C   0  0  0  0  0  0
+  -22.2110  -21.3383   11.0772 C   0  0  0  0  0  0
+  -21.4033  -23.5825   10.0170 C   0  0  0  0  0  0
+  -20.9909  -23.6882    8.5849 C   0  0  0  0  0  0
+  -22.0665  -20.3356   12.2258 C   0  0  0  0  0  0
+  -21.8183  -22.4542   10.5284 C   0  0  0  0  0  0
+  -21.4129  -19.0070   11.7978 C   0  0  0  0  0  0
+  -22.8847  -19.1085   12.0573 C   0  0  0  0  0  0
+  -20.9202  -17.1065   13.4942 C   0  0  0  0  0  0
+  -20.4782  -18.3500   12.8028 C   0  0  0  0  0  0
+  -19.9719  -16.3405   12.8267 C   0  0  0  0  0  0
+  -19.5062  -17.5210   12.0630 C   0  0  0  0  0  0
+  -19.0070  -18.7316   12.7701 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  5  2  0  0  0
+  1  8  1  0  0  0
+  2  5  1  0  0  0
+  2  6  2  0  0  0
+  3  4  1  0  0  0
+  3  6  2  0  0  0
+  5  7  1  0  0  0
+  5  8  1  0  0  0
+  7 10  1  0  0  0
+  7  8  2  0  0  0
+  9 10  2  0  0  0
+  9 11  1  0  0  0
+ 10 12  1  0  0  0
+ 10 13  1  0  0  0
+ 11 12  1  0  0  0
+ 12 13  2  0  0  0
+M  END
+> <s_m_entry_id>
+1938
+
+> <s_m_entry_name>
+NEW-myco-var1_49_lig_gen_fit_add_gna.sdf.8
+
+> <minimizedAffinity>
+-6.78322
+
+> <minimizedRMSD>
+1.58894
+
+> <CNNscore>
+0.6252294183
+
+> <CNNaffinity>
+4.600022316
+
+> <CNN_VS>
+2.8760693073
+
+> <CNNaffinity_variance>
+0.2505541444
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+31
+
+> <s_user_SMILES>
+CC=C=C1C(=[C]123)C2=C3[C]4=5C(=C4)CC5
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_49_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_49_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=CC1=C=C2[C]3(=C4)[C]45=[C]23[C]56[C]78=[C]9(C=67)C8=C9
+                    3D
+ Schrodinger Suite 2021-1.
+ 15 23  0  0  1  0            999 V2000
+  -23.4254  -19.8947   11.6132 C   0  0  0  0  0  0
+  -21.3537  -16.9517   13.0021 C   0  0  0  0  0  0
+  -21.6262  -18.2699   12.0390 C   0  0  0  0  0  0
+  -20.6495  -24.8424    8.8767 C   0  0  0  0  0  0
+  -23.7058  -21.3545   11.3894 C   0  0  0  0  0  0
+  -21.9169  -19.6730   11.3910 C   0  0  0  0  0  0
+  -22.6164  -17.7334   13.1546 C   0  0  0  0  0  0
+  -21.0411  -23.5628    9.3537 C   0  0  0  0  0  0
+  -21.3316  -18.2737   13.3920 C   0  0  0  0  0  0
+  -20.9045  -19.4189   12.4936 C   0  0  0  0  0  0
+  -22.4832  -20.9508   12.0260 C   0  0  0  0  0  0
+  -22.4098  -22.0549   10.9752 C   0  0  0  0  0  0
+  -21.7245  -22.8117   10.1665 C   0  0  0  0  0  0
+  -20.1312  -23.7152    8.2733 C   0  0  0  0  0  0
+  -24.1209  -20.3339   10.3410 C   0  0  0  0  0  0
+  1  5  1  0  0  0
+  1  6  1  0  0  0
+  1 11  2  0  0  0
+  1 15  1  0  0  0
+  2  7  2  0  0  0
+  2  9  1  0  0  0
+  3  6  1  0  0  0
+  3  7  1  0  0  0
+  3  9  2  0  0  0
+  3 10  1  0  0  0
+  4  8  1  0  0  0
+  4 14  2  0  0  0
+  5 11  1  0  0  0
+  5 12  1  0  0  0
+  5 15  2  0  0  0
+  6 10  2  0  0  0
+  6 11  1  0  0  0
+  7  9  1  0  0  0
+  8 13  2  0  0  0
+  8 14  1  0  0  0
+  9 10  1  0  0  0
+ 11 12  1  0  0  0
+ 12 13  2  0  0  0
+M  END
+> <s_m_entry_id>
+1939
+
+> <s_m_entry_name>
+NEW-myco-var1_49_lig_gen_fit_add_gna.sdf.10
+
+> <minimizedAffinity>
+-7.17096
+
+> <minimizedRMSD>
+2.0531
+
+> <CNNscore>
+0.5953271389
+
+> <CNNaffinity>
+4.8267745972
+
+> <CNN_VS>
+2.8735098839
+
+> <CNNaffinity_variance>
+0.3961770833
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+32
+
+> <s_user_SMILES>
+C1=CC1=C=C2[C]3(=C4)[C]45=[C]23[C]56[C]78=[C]9(C=67)C8=C9
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_49_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_49_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+CCC=C=CC1=CC(=C1)CC=2C(C23)=C3
+                    3D
+ Schrodinger Suite 2021-1.
+ 14 16  0  0  1  0            999 V2000
+  -23.7558  -20.0014   11.2712 C   0  0  0  0  0  0
+  -22.9870  -21.1917   11.7582 C   0  0  0  0  0  0
+  -22.2280  -20.3256   12.6159 C   0  0  0  0  0  0
+  -23.0420  -19.1650   12.1326 C   0  0  0  0  0  0
+  -22.1790  -21.8969   10.6961 C   0  0  0  0  0  0
+  -23.2350  -22.9283    8.5427 C   0  0  0  0  0  0
+  -22.7128  -22.4089    9.6181 C   0  0  0  0  0  0
+  -22.2494  -22.5843    6.2737 C   0  0  0  0  0  0
+  -22.3487  -23.5080    7.4828 C   0  0  0  0  0  0
+  -23.0826  -17.7020   12.4407 C   0  0  0  0  0  0
+  -20.8974  -15.9629   12.4621 C   0  0  0  0  0  0
+  -21.6777  -17.1491   12.6028 C   0  0  0  0  0  0
+  -20.6471  -16.7932   13.5284 C   0  0  0  0  0  0
+  -20.3573  -17.2607   12.2209 C   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  4  1  0  0  0
+  2  3  1  0  0  0
+  2  5  1  0  0  0
+  3  4  2  0  0  0
+  4 10  1  0  0  0
+  5  7  2  0  0  0
+  6  7  2  0  0  0
+  6  9  1  0  0  0
+  8  9  1  0  0  0
+ 10 12  1  0  0  0
+ 11 13  2  0  0  0
+ 11 14  1  0  0  0
+ 12 13  1  0  0  0
+ 12 14  2  0  0  0
+ 13 14  1  0  0  0
+M  END
+> <s_m_entry_id>
+1940
+
+> <s_m_entry_name>
+NEW-myco-var1_50_lig_gen_fit_add_gna.sdf.2
+
+> <minimizedAffinity>
+-6.61057
+
+> <minimizedRMSD>
+2.02411
+
+> <CNNscore>
+0.578763485
+
+> <CNNaffinity>
+4.8213992119
+
+> <CNN_VS>
+2.7904498577
+
+> <CNNaffinity_variance>
+0.190256685
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+33
+
+> <s_user_SMILES>
+CCC=C=CC1=CC(=C1)CC=2C(C23)=C3
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_50_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_50_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=CC1=C=C2[C]3(=C4)[C]45=[C]23[C]56[C]7=8[C]=9(C=67)C8C9
+                    3D
+ Schrodinger Suite 2021-1.
+ 15 23  0  0  1  0            999 V2000
+  -21.1321  -18.1926   11.9359 C   0  0  0  0  0  0
+  -25.4366  -20.5556   10.8704 C   0  0  0  0  0  0
+  -21.0495  -19.4297   12.5391 C   0  0  0  0  0  0
+  -23.1144  -20.6581   12.0034 C   0  0  0  0  0  0
+  -24.6843  -21.8495   10.5869 C   0  0  0  0  0  0
+  -22.1475  -23.7274    6.2515 C   0  0  0  0  0  0
+  -23.3034  -22.5687    8.3183 C   0  0  0  0  0  0
+  -22.0257  -18.5557   13.0771 C   0  0  0  0  0  0
+  -22.2100  -19.4338   11.7827 C   0  0  0  0  0  0
+  -23.9686  -20.4918   10.8122 C   0  0  0  0  0  0
+  -21.5875  -20.7251   11.9542 C   0  0  0  0  0  0
+  -23.6831  -22.2434    9.5211 C   0  0  0  0  0  0
+  -23.3338  -21.8318   10.9708 C   0  0  0  0  0  0
+  -22.6079  -22.5163    5.7763 C   0  0  0  0  0  0
+  -22.8524  -22.8631    7.1329 C   0  0  0  0  0  0
+  1  3  2  0  0  0
+  1  8  1  0  0  0
+  2  5  2  0  0  0
+  2 10  1  0  0  0
+  3  8  1  0  0  0
+  3  9  1  0  0  0
+  3 11  1  0  0  0
+  4  9  1  0  0  0
+  4 10  1  0  0  0
+  4 11  2  0  0  0
+  4 13  1  0  0  0
+  5 10  1  0  0  0
+  5 12  1  0  0  0
+  5 13  1  0  0  0
+  6 14  2  0  0  0
+  6 15  1  0  0  0
+  7 12  2  0  0  0
+  7 15  2  0  0  0
+  8  9  2  0  0  0
+  9 11  1  0  0  0
+ 10 13  2  0  0  0
+ 12 13  1  0  0  0
+ 14 15  1  0  0  0
+M  END
+> <s_m_entry_id>
+1941
+
+> <s_m_entry_name>
+NEW-myco-var1_51_lig_gen_fit_add_gna.sdf.4
+
+> <minimizedAffinity>
+-7.32055
+
+> <minimizedRMSD>
+1.47021
+
+> <CNNscore>
+0.6286956668
+
+> <CNNaffinity>
+4.8157491684
+
+> <CNN_VS>
+3.0276405811
+
+> <CNNaffinity_variance>
+0.0906758085
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+34
+
+> <s_user_SMILES>
+C1=CC1=C=C2[C]3(=C4)[C]45=[C]23[C]56[C]7=8[C]=9(C=67)C8C9
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_51_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_51_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=CC1=C=C2C(=C3)[C@]23C4=C(C4=5)CC5
+                    3D
+ Schrodinger Suite 2021-1.
+ 13 17  0  0  1  0            999 V2000
+  -21.9470  -23.1169    9.8729 C   0  0  0  0  0  0
+  -22.8266  -19.9474   11.9750 C   0  0  0  0  0  0
+  -22.6054  -22.2614   10.7976 C   0  0  0  0  0  0
+  -23.1946  -17.5957   13.0114 C   0  0  0  0  0  0
+  -23.4329  -18.5514   11.8842 C   0  0  0  0  0  0
+  -23.0571  -23.5852   10.5451 C   0  0  0  0  0  0
+  -22.7068  -21.1167   11.4119 C   0  0  0  0  0  0
+  -22.2556  -18.7489   12.7538 C   0  0  2  0  0  0
+  -19.4731  -16.3610   12.9529 C   0  0  0  0  0  0
+  -20.3653  -17.1470   12.4529 C   0  0  0  0  0  0
+  -18.6602  -17.8800   13.2251 C   0  0  0  0  0  0
+  -19.7413  -18.3462   12.6835 C   0  0  0  0  0  0
+  -20.9591  -18.3216   12.0267 C   0  0  0  0  0  0
+  1  3  1  0  0  0
+  1  6  2  0  0  0
+  2  5  1  0  0  0
+  2  7  2  0  0  0
+  2  8  1  0  0  0
+  3  6  1  0  0  0
+  3  7  2  0  0  0
+  4  5  2  0  0  0
+  4  8  1  0  0  0
+  5  8  1  0  0  0
+  8 13  1  0  0  0
+  9 10  2  0  0  0
+  9 11  1  0  0  0
+ 10 12  1  0  0  0
+ 10 13  1  0  0  0
+ 11 12  1  0  0  0
+ 12 13  2  0  0  0
+M  END
+> <s_m_entry_id>
+1942
+
+> <s_m_entry_name>
+NEW-myco-var1_51_lig_gen_fit_add_gna.sdf.6
+
+> <minimizedAffinity>
+-7.05924
+
+> <minimizedRMSD>
+1.7667
+
+> <CNNscore>
+0.6312361956
+
+> <CNNaffinity>
+4.6045260429
+
+> <CNN_VS>
+2.9065434933
+
+> <CNNaffinity_variance>
+0.2455683947
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+35
+
+> <s_user_SMILES>
+C1=CC1=C=C2C(=C3)[C@]23C4=C(C4=5)CC5
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_51_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_51_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=CC1C=C=C2C(C2)=C=C3C(=C34)C4C
+                    3D
+ Schrodinger Suite 2021-1.
+ 14 17  0  0  1  0            999 V2000
+  -21.7382  -23.5390    9.3174 C   0  0  0  0  0  0
+  -22.3599  -22.6667   10.0979 C   0  0  0  0  0  0
+  -21.3102  -24.9167    6.6465 C   0  0  0  0  0  0
+  -22.0988  -18.2208   12.5174 C   0  0  0  0  0  0
+  -20.5020  -23.8797    8.6138 C   0  0  0  0  0  0
+  -21.3540  -24.9546    9.1181 C   0  0  0  0  0  0
+  -22.9881  -21.8228   10.8637 C   0  0  0  0  0  0
+  -23.0702  -20.4933   11.6853 C   0  0  0  0  0  0
+  -22.5670  -19.3658   12.1048 C   0  0  0  0  0  0
+  -21.7523  -24.2067    7.9527 C   0  0  0  0  0  0
+  -24.1527  -21.4130   11.5718 C   0  0  0  0  0  0
+  -19.5747  -17.1431   13.1045 C   0  0  0  0  0  0
+  -19.3487  -18.4789   12.7675 C   0  0  0  0  0  0
+  -20.6678  -18.0171   12.7390 C   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  5  1  0  0  0
+  1  6  1  0  0  0
+  2  7  2  0  0  0
+  3 10  1  0  0  0
+  4  9  2  0  0  0
+  4 14  1  0  0  0
+  5  6  2  0  0  0
+  5 10  1  0  0  0
+  6 10  1  0  0  0
+  7  8  1  0  0  0
+  7 11  1  0  0  0
+  8  9  2  0  0  0
+  8 11  1  0  0  0
+ 12 13  2  0  0  0
+ 12 14  1  0  0  0
+ 13 14  1  0  0  0
+M  END
+> <s_m_entry_id>
+1943
+
+> <s_m_entry_name>
+NEW-myco-var1_52_lig_gen_fit_add_gna.sdf.2
+
+> <minimizedAffinity>
+-7.13303
+
+> <minimizedRMSD>
+1.11653
+
+> <CNNscore>
+0.7714418769
+
+> <CNNaffinity>
+4.7906513214
+
+> <CNN_VS>
+3.6957089901
+
+> <CNNaffinity_variance>
+0.2338208407
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+36
+
+> <s_user_SMILES>
+C1=CC1C=C=C2C(C2)=C=C3C(=C34)C4C
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_52_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_52_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=2C(C2)=C1C=C=C3C=4[C]5([C]346)[C]7(C=56)=C8C7=C8
+                    3D
+ Schrodinger Suite 2021-1.
+ 15 22  0  0  1  0            999 V2000
+  -19.1592  -16.5453   12.6193 C   0  0  0  0  0  0
+  -22.4410  -21.6101   11.9326 C   0  0  0  0  0  0
+  -20.2911  -15.6954   12.9060 C   0  0  0  0  0  0
+  -21.3940  -18.2610   13.2232 C   0  0  0  0  0  0
+  -22.1421  -20.4044   12.3202 C   0  0  0  0  0  0
+  -20.4810  -17.1238   12.7138 C   0  0  0  0  0  0
+  -21.4294  -19.1413   11.9579 C   0  0  0  0  0  0
+  -19.8779  -16.6247   13.9220 C   0  0  0  0  0  0
+  -22.7150  -22.8015   11.4805 C   0  0  0  0  0  0
+  -20.1549  -18.6673   12.6057 C   0  0  0  0  0  0
+  -22.6045  -18.9748   12.6634 C   0  0  0  0  0  0
+  -21.6754  -23.5546   10.7074 C   0  0  0  0  0  0
+  -21.8708  -25.7117    9.3979 C   0  0  0  0  0  0
+  -22.2029  -24.2370    9.4654 C   0  0  0  0  0  0
+  -21.8247  -25.0520   10.7424 C   0  0  0  0  0  0
+  1  3  2  0  0  0
+  1  6  1  0  0  0
+  1  8  1  0  0  0
+  2  5  2  0  0  0
+  2  9  2  0  0  0
+  3  8  1  0  0  0
+  4  6  1  0  0  0
+  4  7  1  0  0  0
+  4 10  2  0  0  0
+  4 11  1  0  0  0
+  5  7  1  0  0  0
+  5 11  1  0  0  0
+  6  8  2  0  0  0
+  6 10  1  0  0  0
+  7 10  1  0  0  0
+  7 11  2  0  0  0
+  9 12  1  0  0  0
+ 12 14  2  0  0  0
+ 12 15  1  0  0  0
+ 13 14  1  0  0  0
+ 13 15  2  0  0  0
+ 14 15  1  0  0  0
+M  END
+> <s_m_entry_id>
+1944
+
+> <s_m_entry_name>
+NEW-myco-var1_52_lig_gen_fit_add_gna.sdf.5
+
+> <minimizedAffinity>
+-8.26463
+
+> <minimizedRMSD>
+0.52557
+
+> <CNNscore>
+0.6889796257
+
+> <CNNaffinity>
+4.9749031067
+
+> <CNN_VS>
+3.4276068211
+
+> <CNNaffinity_variance>
+0.3401107192
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+37
+
+> <s_user_SMILES>
+C1=2C(C2)=C1C=C=C3C=4[C]5([C]346)[C]7(C=56)=C8C7=C8
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_52_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_52_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+CCCC(=C1)[C]1(=C2C3=4)[C]24[C]35[C]67[C]=8(C=56)C=7C8
+                    3D
+ Schrodinger Suite 2021-1.
+ 15 22  0  0  1  0            999 V2000
+  -23.3279  -21.9384   11.0677 C   0  0  0  0  0  0
+  -21.9466  -20.8625   12.7379 C   0  0  0  0  0  0
+  -23.7971  -20.6107   10.4736 C   0  0  0  0  0  0
+  -20.7817  -18.6591   12.2914 C   0  0  0  0  0  0
+  -23.3570  -21.7684    9.6269 C   0  0  0  0  0  0
+  -22.1995  -18.3856   12.6787 C   0  0  0  0  0  0
+  -21.9408  -23.5073    9.3575 C   0  0  0  0  0  0
+  -21.4568  -19.4946   13.1534 C   0  0  0  0  0  0
+  -21.9815  -19.7304   11.8842 C   0  0  0  0  0  0
+  -23.2480  -20.6452   11.9283 C   0  0  0  0  0  0
+  -22.0937  -22.4078   10.2508 C   0  0  0  0  0  0
+  -22.0904  -23.7351   10.7620 C   0  0  0  0  0  0
+  -21.7180  -24.0703    7.9873 C   0  0  0  0  0  0
+  -21.2560  -22.9919    7.0057 C   0  0  0  0  0  0
+  -21.2821  -23.5072    5.5700 C   0  0  0  0  0  0
+  1  3  2  0  0  0
+  1  5  1  0  0  0
+  1 10  1  0  0  0
+  1 11  1  0  0  0
+  2  8  1  0  0  0
+  2  9  1  0  0  0
+  2 10  2  0  0  0
+  3  5  1  0  0  0
+  3 10  1  0  0  0
+  4  6  1  0  0  0
+  4  8  2  0  0  0
+  5 11  2  0  0  0
+  6  8  1  0  0  0
+  6  9  2  0  0  0
+  7 13  1  0  0  0
+  7 11  1  0  0  0
+  7 12  2  0  0  0
+  8  9  1  0  0  0
+  9 10  1  0  0  0
+ 11 12  1  0  0  0
+ 13 14  1  0  0  0
+ 14 15  1  0  0  0
+M  END
+> <s_m_entry_id>
+1945
+
+> <s_m_entry_name>
+NEW-myco-var1_52_lig_gen_fit_add_gna.sdf.8
+
+> <minimizedAffinity>
+-6.51071
+
+> <minimizedRMSD>
+0.42843
+
+> <CNNscore>
+0.5798574686
+
+> <CNNaffinity>
+4.8632764816
+
+> <CNN_VS>
+2.8200070858
+
+> <CNNaffinity_variance>
+0.2192494422
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+38
+
+> <s_user_SMILES>
+CCCC(=C1)[C]1(=C2C3=4)[C]24[C]35[C]67[C]=8(C=56)C=7C8
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_52_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_52_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=2[C@@H](C2)C/1=C/C=C/3[C@@H](C34)C=4\C=C\C
+                    3D
+ Schrodinger Suite 2021-1.
+ 13 16  0  0  1  0            999 V2000
+  -25.3987  -19.7508   10.9291 C   0  0  0  0  0  0
+  -25.3306  -20.7157    9.7772 C   0  0  0  0  0  0
+  -24.0484  -19.2600   11.4538 C   0  0  0  0  0  0
+  -24.2479  -20.6367   10.8164 C   0  0  1  0  0  0
+  -23.2834  -18.3487   12.0377 C   0  0  0  0  0  0
+  -20.6716  -16.1761   12.2908 C   0  0  0  0  0  0
+  -20.4520  -16.8041   13.5472 C   0  0  0  0  0  0
+  -20.9825  -17.6070   12.4275 C   0  0  0  0  0  0
+  -19.5940  -17.1280   12.4578 C   0  0  1  0  0  0
+  -21.8702  -18.6306   12.2985 C   0  0  0  0  0  0
+  -24.4248  -20.8196    7.4931 C   0  0  0  0  0  0
+  -24.1675  -20.2511    6.1309 C   0  0  0  0  0  0
+  -24.9801  -20.0830    8.4637 C   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  3  1  0  0  0
+  1  4  1  0  0  0
+  2  4  1  0  0  0
+  2 13  1  0  0  0
+  3  4  1  0  0  0
+  3  5  2  0  0  0
+  5 10  1  0  0  0
+  6  7  2  0  0  0
+  6  8  1  0  0  0
+  6  9  1  0  0  0
+  7  9  1  0  0  0
+  8  9  1  0  0  0
+  8 10  2  0  0  0
+ 11 12  1  0  0  0
+ 11 13  2  0  0  0
+M  END
+> <s_m_entry_id>
+1946
+
+> <s_m_entry_name>
+NEW-myco-var1_53_lig_gen_fit_add_gna.sdf.6
+
+> <minimizedAffinity>
+-6.93146
+
+> <minimizedRMSD>
+0.4364
+
+> <CNNscore>
+0.8080295324
+
+> <CNNaffinity>
+4.7002630234
+
+> <CNN_VS>
+3.7979512215
+
+> <CNNaffinity_variance>
+0.4050814211
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+39
+
+> <s_user_SMILES>
+C1=2[C@@H](C2)C/1=C/C=C/3[C@@H](C34)C=4\C=C\C
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_53_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_53_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+CCC1(C=C1)CC2=CC2C3=C4[C]5(=[C]346)C6=C5
+                    3D
+ Schrodinger Suite 2021-1.
+ 15 20  0  0  1  0            999 V2000
+  -22.8465  -18.6156   12.5423 C   0  0  0  0  0  0
+  -22.1232  -19.5935   11.7659 C   0  0  0  0  0  0
+  -21.4598  -19.1190   13.0841 C   0  0  0  0  0  0
+  -20.4202  -16.1378   12.9772 C   0  0  0  0  0  0
+  -20.6085  -17.7070   13.1676 C   0  0  0  0  0  0
+  -19.1214  -16.8178   13.2067 C   0  0  0  0  0  0
+  -19.9153  -17.1707   12.1686 C   0  0  0  0  0  0
+  -20.0115  -18.7205   12.4073 C   0  0  0  0  0  0
+  -21.4014  -18.0652   11.9928 C   0  0  0  0  0  0
+  -22.6826  -21.0209   12.0084 C   0  0  0  0  0  0
+  -23.0648  -22.1671    9.8011 C   0  0  0  0  0  0
+  -23.7634  -22.8976   10.8445 C   0  0  0  0  0  0
+  -23.6424  -21.4954   10.8938 C   0  0  0  0  0  0
+  -25.0028  -20.7829   10.6839 C   0  0  0  0  0  0
+  -25.0027  -19.8020    9.5138 C   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  3  1  0  0  0
+  2 10  1  0  0  0
+  2  3  1  0  0  0
+  3  9  1  0  0  0
+  4  5  1  0  0  0
+  4  6  2  0  0  0
+  4  7  1  0  0  0
+  5  7  2  0  0  0
+  5  8  1  0  0  0
+  5  9  1  0  0  0
+  6  7  1  0  0  0
+  7  8  1  0  0  0
+  8  9  2  0  0  0
+ 10 13  1  0  0  0
+ 11 12  2  0  0  0
+ 11 13  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  1  0  0  0
+ 14 15  1  0  0  0
+M  END
+> <s_m_entry_id>
+1947
+
+> <s_m_entry_name>
+NEW-myco-var1_53_lig_gen_fit_add_gna.sdf.7
+
+> <minimizedAffinity>
+-6.69493
+
+> <minimizedRMSD>
+2.35776
+
+> <CNNscore>
+0.6509125829
+
+> <CNNaffinity>
+5.0533356667
+
+> <CNN_VS>
+3.2892796993
+
+> <CNNaffinity_variance>
+0.4159510732
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+40
+
+> <s_user_SMILES>
+CCC1(C=C1)CC2=CC2C3=C4[C]5(=[C]346)C6=C5
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_53_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_53_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=CC1C=C=C2C=C(C2)c3c(c34)c5c4c5
+                    3D
+ Schrodinger Suite 2021-1.
+ 15 19  0  0  1  0            999 V2000
+  -21.1428  -21.5584   11.4465 C   0  0  0  0  0  0
+  -22.1479  -20.9025   12.3660 C   0  0  0  0  0  0
+  -22.2393  -23.4373    8.2578 C   0  0  0  0  0  0
+  -22.2139  -22.7485    9.3638 C   0  0  0  0  0  0
+  -23.1920  -21.4027   11.3927 C   0  0  0  0  0  0
+  -22.1875  -22.0617   10.4719 C   0  0  0  0  0  0
+  -22.2468  -18.0405   12.0133 C   0  0  0  0  0  0
+  -21.8051  -16.9573   12.8947 C   0  0  0  0  0  0
+  -21.5026  -18.4541   13.4876 C   0  0  0  0  0  0
+  -21.1137  -17.8407   12.1898 C   0  0  0  0  0  0
+  -22.1336  -19.3187   12.5070 C   0  0  0  0  0  0
+  -20.6522  -19.1790   12.3841 C   0  0  0  0  0  0
+  -22.6903  -22.7967    5.5611 C   0  0  0  0  0  0
+  -23.3155  -21.7969    6.3084 C   0  0  0  0  0  0
+  -22.6570  -22.8112    7.0070 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  6  1  0  0  0
+  2 11  1  0  0  0
+  2  5  2  0  0  0
+  3  4  2  0  0  0
+  3 15  1  0  0  0
+  4  6  2  0  0  0
+  5  6  1  0  0  0
+  7  8  2  0  0  0
+  7  9  1  0  0  0
+  7 10  1  0  0  0
+  8 10  1  0  0  0
+  9 11  2  0  0  0
+  9 12  1  0  0  0
+ 10 12  2  0  0  0
+ 11 12  1  0  0  0
+ 13 14  2  0  0  0
+ 13 15  1  0  0  0
+ 14 15  1  0  0  0
+M  END
+> <s_m_entry_id>
+1948
+
+> <s_m_entry_name>
+NEW-myco-var1_53_lig_gen_fit_add_gna.sdf.10
+
+> <minimizedAffinity>
+-6.97544
+
+> <minimizedRMSD>
+0.7888
+
+> <CNNscore>
+0.4672658145
+
+> <CNNaffinity>
+4.9448666573
+
+> <CNN_VS>
+2.3105671406
+
+> <CNNaffinity_variance>
+0.0924669206
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+41
+
+> <s_user_SMILES>
+C1=CC1C=C=C2C=C(C2)c3c(c34)c5c4c5
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_53_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_53_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=2C(C2)=C1CC3=C4C5C=[C]6([C]34=5)C=7C6=CC7
+                    3D
+ Schrodinger Suite 2021-1.
+ 15 21  0  0  1  0            999 V2000
+  -24.4190  -19.3901   11.2256 C   0  0  0  0  0  0
+  -21.6765  -23.1065    9.9230 C   0  0  0  0  0  0
+  -22.9262  -20.7840   10.6687 C   0  0  0  0  0  0
+  -23.2305  -18.4945   11.5251 C   0  0  0  0  0  0
+  -23.2237  -20.0010   11.9243 C   0  0  0  0  0  0
+  -22.2488  -19.0232   12.5412 C   0  0  0  0  0  0
+  -23.0219  -22.1046   11.0217 C   0  0  0  0  0  0
+  -22.7763  -23.5094   10.9442 C   0  0  0  0  0  0
+  -24.1984  -20.3165   10.0140 C   0  0  0  0  0  0
+  -22.1131  -21.7744   10.1888 C   0  0  0  0  0  0
+  -20.7914  -19.3727   12.2327 C   0  0  0  0  0  0
+  -18.7672  -17.7532   13.2305 C   0  0  0  0  0  0
+  -18.8853  -17.3249   11.9320 C   0  0  0  0  0  0
+  -19.8964  -18.1779   12.4725 C   0  0  0  0  0  0
+  -19.8307  -16.8659   12.8821 C   0  0  0  0  0  0
+  1  4  1  0  0  0
+  1  5  2  0  0  0
+  1  9  1  0  0  0
+  2  8  1  0  0  0
+  2 10  2  0  0  0
+  3  5  1  0  0  0
+  3  7  1  0  0  0
+  3  9  2  0  0  0
+  3 10  1  0  0  0
+  4  5  1  0  0  0
+  4  6  2  0  0  0
+  5  6  1  0  0  0
+  6 11  1  0  0  0
+  7  8  2  0  0  0
+  7 10  1  0  0  0
+ 11 14  1  0  0  0
+ 12 13  2  0  0  0
+ 12 15  1  0  0  0
+ 13 14  1  0  0  0
+ 13 15  1  0  0  0
+ 14 15  2  0  0  0
+M  END
+> <s_m_entry_id>
+1949
+
+> <s_m_entry_name>
+NEW-myco-var1_54_lig_gen_fit_add_gna.sdf.4
+
+> <minimizedAffinity>
+-6.81114
+
+> <minimizedRMSD>
+1.90726
+
+> <CNNscore>
+0.5978104472
+
+> <CNNaffinity>
+5.187836647
+
+> <CNN_VS>
+3.1013429165
+
+> <CNNaffinity_variance>
+0.1936242878
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+42
+
+> <s_user_SMILES>
+C1=2C(C2)=C1CC3=C4C5C=[C]6([C]34=5)C=7C6=CC7
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_54_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_54_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1C2[C]=1(C=34)[C]=24[C]3([C]567)C=5C6=[C]78C=9C8=CC9
+                    3D
+ Schrodinger Suite 2021-1.
+ 14 22  0  0  1  0            999 V2000
+  -22.7822  -23.3057    8.7701 C   0  0  0  0  0  0
+  -23.4361  -21.6944   10.9119 C   0  0  0  0  0  0
+  -21.1868  -16.8664   12.5117 C   0  0  0  0  0  0
+  -22.9037  -20.2773   10.8015 C   0  0  0  0  0  0
+  -21.0281  -18.1597   12.9569 C   0  0  0  0  0  0
+  -22.2928  -22.2742   10.4112 C   0  0  0  0  0  0
+  -24.2925  -20.5605   10.3101 C   0  0  0  0  0  0
+  -21.4324  -19.4096   12.2034 C   0  0  0  0  0  0
+  -22.0920  -17.4425   13.5505 C   0  0  0  0  0  0
+  -23.9030  -19.2267   10.9108 C   0  0  0  0  0  0
+  -21.4583  -23.0176    9.5233 C   0  0  0  0  0  0
+  -22.1535  -18.1506   12.1503 C   0  0  0  0  0  0
+  -22.9456  -19.4740   12.1093 C   0  0  0  0  0  0
+  -23.3767  -22.5072    9.8004 C   0  0  0  0  0  0
+  1 11  1  0  0  0
+  1 14  2  0  0  0
+  2  4  1  0  0  0
+  2  6  1  0  0  0
+  2  7  2  0  0  0
+  2 14  1  0  0  0
+  3  5  2  0  0  0
+  3  9  1  0  0  0
+  4  7  1  0  0  0
+  4 10  2  0  0  0
+  4 13  1  0  0  0
+  5  8  1  0  0  0
+  5  9  1  0  0  0
+  5 12  1  0  0  0
+  6 11  2  0  0  0
+  6 14  1  0  0  0
+  7 10  1  0  0  0
+  8 12  1  0  0  0
+  8 13  2  0  0  0
+  9 12  2  0  0  0
+ 10 13  1  0  0  0
+ 12 13  1  0  0  0
+M  END
+> <s_m_entry_id>
+1950
+
+> <s_m_entry_name>
+NEW-myco-var1_54_lig_gen_fit_add_gna.sdf.5
+
+> <minimizedAffinity>
+-7.16786
+
+> <minimizedRMSD>
+1.03242
+
+> <CNNscore>
+0.6900376678
+
+> <CNNaffinity>
+4.8395924568
+
+> <CNN_VS>
+3.3395011425
+
+> <CNNaffinity_variance>
+0.3833591342
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+43
+
+> <s_user_SMILES>
+C1C2[C]=1(C=34)[C]=24[C]3([C]567)C=5C6=[C]78C=9C8=CC9
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_54_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_54_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=CC1=C=C2C([C]234)=C4C=3C5=C(C5=6)C6
+                    3D
+ Schrodinger Suite 2021-1.
+ 13 18  0  0  1  0            999 V2000
+  -22.5303  -18.3224   12.1281 C   0  0  0  0  0  0
+  -22.0633  -17.8471   13.5322 C   0  0  0  0  0  0
+  -24.9888  -19.7893    9.4517 C   0  0  0  0  0  0
+  -21.5971  -16.9743   12.3637 C   0  0  0  0  0  0
+  -24.3550  -19.5283   10.6963 C   0  0  0  0  0  0
+  -21.2361  -18.2955   12.5847 C   0  0  0  0  0  0
+  -20.3048  -17.4474   13.2828 C   0  0  0  0  0  0
+  -25.4480  -20.4293   10.5846 C   0  0  0  0  0  0
+  -23.4483  -18.9233   11.4072 C   0  0  0  0  0  0
+  -18.9841  -17.5750   12.1777 C   0  0  0  0  0  0
+  -17.9659  -16.6028   12.3322 C   0  0  0  0  0  0
+  -18.6484  -17.0674   13.4501 C   0  0  0  0  0  0
+  -19.3591  -16.3031   12.4955 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  6  1  0  0  0
+  1  9  2  0  0  0
+  2  4  2  0  0  0
+  2  6  1  0  0  0
+  3  5  1  0  0  0
+  3  8  2  0  0  0
+  4  6  1  0  0  0
+  4  7  1  0  0  0
+  5  8  1  0  0  0
+  5  9  2  0  0  0
+  6  7  2  0  0  0
+  7 10  1  0  0  0
+ 10 12  2  0  0  0
+ 10 13  1  0  0  0
+ 11 12  1  0  0  0
+ 11 13  2  0  0  0
+ 12 13  1  0  0  0
+M  END
+> <s_m_entry_id>
+1951
+
+> <s_m_entry_name>
+NEW-myco-var1_54_lig_gen_fit_add_gna.sdf.9
+
+> <minimizedAffinity>
+-7.93045
+
+> <minimizedRMSD>
+3.29181
+
+> <CNNscore>
+0.7182228565
+
+> <CNNaffinity>
+4.7490997314
+
+> <CNN_VS>
+3.4109120369
+
+> <CNNaffinity_variance>
+0.5896891952
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+44
+
+> <s_user_SMILES>
+C1=CC1=C=C2C([C]234)=C4C=3C5=C(C5=6)C6
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_54_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_54_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+C1=2C(C2)=C1C=3C4C([C]345)=C5C(=C6)[C]67=C8C7=C8
+                    3D
+ Schrodinger Suite 2021-1.
+ 15 22  0  0  1  0            999 V2000
+  -23.5994  -20.6696   10.8610 C   0  0  0  0  0  0
+  -22.6483  -19.6507   11.3423 C   0  0  0  0  0  0
+  -23.3753  -19.0943   10.3857 C   0  0  0  0  0  0
+  -23.8407  -19.2348   11.8601 C   0  0  0  0  0  0
+  -22.4769  -18.2866   11.7693 C   0  0  0  0  0  0
+  -19.8255  -16.3869   12.0041 C   0  0  0  0  0  0
+  -19.8703  -17.3416   12.9620 C   0  0  0  0  0  0
+  -21.1318  -17.4558   12.4238 C   0  0  0  0  0  0
+  -20.4959  -16.1563   13.2721 C   0  0  0  0  0  0
+  -21.4627  -18.6899   13.0669 C   0  0  0  0  0  0
+  -22.2903  -17.5336   13.2564 C   0  0  0  0  0  0
+  -22.5795  -21.8005   10.0769 C   0  0  0  0  0  0
+  -23.4808  -22.3876   11.0470 C   0  0  0  0  0  0
+  -23.9329  -21.9556    9.7830 C   0  0  0  0  0  0
+  -23.1084  -23.1205    9.9283 C   0  0  0  0  0  0
+  1 12  1  0  0  0
+  1  2  2  0  0  0
+  1  3  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  2  5  1  0  0  0
+  3  4  1  0  0  0
+  4  5  2  0  0  0
+  5 10  1  0  0  0
+  6  7  2  0  0  0
+  6  9  1  0  0  0
+  7  8  1  0  0  0
+  7  9  1  0  0  0
+  8  9  2  0  0  0
+  8 10  1  0  0  0
+  8 11  1  0  0  0
+ 10 11  2  0  0  0
+ 12 13  2  0  0  0
+ 12 14  1  0  0  0
+ 13 14  1  0  0  0
+ 13 15  1  0  0  0
+ 14 15  2  0  0  0
+M  END
+> <s_m_entry_id>
+1952
+
+> <s_m_entry_name>
+NEW-myco-var1_54_lig_gen_fit_add_gna.sdf.10
+
+> <minimizedAffinity>
+-6.98509
+
+> <minimizedRMSD>
+0.73545
+
+> <CNNscore>
+0.6619418859
+
+> <CNNaffinity>
+4.9381761551
+
+> <CNN_VS>
+3.2687857151
+
+> <CNNaffinity_variance>
+0.4965488017
+
+> <s_m_Source_Path>
+C:\Users\maila\Downloads\mgr
+
+> <s_m_Source_File>
+NEW-model-var1-wnowymzakresie-myco.mae
+
+> <i_m_Source_File_Index>
+45
+
+> <s_user_SMILES>
+C1=2C(C2)=C1C=3C4C([C]345)=C5C(=C6)[C]67=C8C7=C8
+
+> <s_m_subgroup_title>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_54_lig_gen_fit_add_gna
+
+> <s_m_subgroupid>
+NEW-model-var1-wnowymzakresie-myco->NEW-myco-var1_54_lig_gen_fit_add_gna
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
